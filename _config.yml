@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "#include <C++>"
 author: IncludeCpp
-description: Minimal, responsive Jekyll theme for hackers.
+description: Inclusive, diverse community for developers interested in C++
 url: "http://includecpp.org" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
