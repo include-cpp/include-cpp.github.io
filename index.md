@@ -14,7 +14,7 @@ We are still in the process of getting set up, but we plan to provide the follow
 
 - A set of [resources](/resources) on diversity and inclusion.
 - An inclusive, welcoming space for people to discuss and learn C++.
-  - We have a Discord server which is currently invite-only. Please [get in touch](#contact) if you would like an invite.
+  - We have a Discord server which you can join through [this link](https://discord.gg/Sy9r7P9).
 - A [toolbox](https://github.com/include-cpp/toolboxes) for C++ conferences to improve diversity and inclusion.
 - Help for conferences in reaching minority groups with calls for papers, and suggesting candidates to invite to speak.
 - Help for companies in improving their C++ job advertisements to improve appeal to minority groups.
