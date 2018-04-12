@@ -35,15 +35,15 @@ You can reach us either through [Twitter](https://twitter.com/include_cpp), or t
 
 <div>
   <label for="name">Name:</label>
-  <input name="name" type="text">
+  <input name="name" type="text" id="name">
 </div>
 <div>
   <label for="email">Email:</label>
-  <input name="email" type="email">
+  <input name="email" type="email" id="email">
 </div>
 <div>
   <label for="message">Message:</label>
-  <textarea cols="50" rows="10"></textarea>
+  <textarea name="message" id="message" cols="50" rows="10"></textarea>
 </div>
 <div>
   <input name="send" type="submit" value="Send">
