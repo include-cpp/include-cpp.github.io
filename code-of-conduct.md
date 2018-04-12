@@ -40,7 +40,7 @@ Enforcement
 -----------
 
 - Understand that speech and actions have consequences, and unacceptable behaviour will not be tolerated.
-- TODO what to do if an issue occurs
+- If an issue occurs, please contact a moderator. On Discord their names are highlighted in blue or red.
 - If violations occur, organisers will take any action they deem appropriate for the infraction, up to and including expulsion.
 - Moderation guidelines can be found [here]({{site.baseurl}}/moderation).
   - If you believe that an administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
