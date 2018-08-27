@@ -263,7 +263,6 @@ layout: default
 
 ## Guys
 
-* [Adrienne Marshall on Twitter:](https://twitter.com/AdrienneRM/status/612969803964256260) "I just added new Slackbot responses to "guys" on our Slack channels at [@TWG](https://twitter.com/TWG). Here we go! http://t.co/wrpY6SYqD3"
 * [When is "guys" gender neutral? I did a survey! - Julia Evans](http://jvns.ca/blog/2013/12/27/guys-guys-guys/)
 * [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
 * [The First Rule of DevOps Club - Bridget Kromhout](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
@@ -274,7 +273,8 @@ layout: default
 * [single word requests - A gender-neutral, informal alternative to singular 'guy' - English Language & Usage Stack Exchange](http://english.stackexchange.com/questions/193702/a-gender-neutral-informal-alternative-to-singular-guy)
 * [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
 * [Gendered Language: Feature or Bug in Software Documentation? by Tim Chevalier:  Model View Culture](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)
-* `[ ]` linkify https://twitter.com/shanselman/status/904793438238892032
+* [Scott Hanselman on Twitter](https://twitter.com/shanselman/status/904793438238892032): OSS Devs: [@keeleyhammond](https://twitter.com/keeleyhammond) and I are teaching a class on "The Squishy Side of Open Source." Give us links of GitHub threads gone BAD and GOOD!
+	* There are some useful replies.
 * [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
 
 ## Other organisations
