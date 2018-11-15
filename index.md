@@ -28,6 +28,15 @@ We are still in the process of getting set up, but we plan to provide the follow
 
 There are many organisations focused on improving diversity and inclusion in the tech space. However, we are in a very good place to target the C++ community specifically, because many of those involved are C++ experts with connections to conferences and companies where a difference can be made.
 
+## I like your T-Shirts, can I buy one?
+
+Yes. We do have:
+- [A US store](https://shop.spreadshirt.com/includecpp)
+- [A European store](https://shop.spreadshirt.net/includecpp).
+Depending on your location, you might want to check both to see which one is the less expensive for you.
+
+We also sometime sell some at C++ conferences, when possible.
+
 ## How can we be contacted?
 {:.contact}
 
