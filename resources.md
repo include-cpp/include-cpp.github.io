@@ -263,6 +263,7 @@ layout: default
 
 ## <a name="guys"/>Guys
 
+* [Kate Gregory: Thoughts about "guys"](http://www.gregcons.com/KateBlog/ThoughtsAboutGuys.aspx)
 * [When is "guys" gender neutral? I did a survey! - Julia Evans](http://jvns.ca/blog/2013/12/27/guys-guys-guys/)
 * [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
 * [The First Rule of DevOps Club - Bridget Kromhout](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
@@ -337,5 +338,5 @@ layout: default
   * A non-profit dedicated to expanding access to computer science and increasing participation by women and underrepresented minorities
   * Worldwide
 * [AnitaB.org](https://anitab.org/)
-  * A social enterprise that supports women in technical fields, as well as the organizations that employ them and the academic institutions training the next generation.`
+  * A social enterprise that supports women in technical fields, as well as the organizations that employ them and the academic institutions training the next generation.
   * Worldwide
