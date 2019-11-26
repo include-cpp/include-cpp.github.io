@@ -224,3 +224,15 @@
     float: right;
   }
 }
+
+/*
+ * TODO Nicer indentation from left
+ * TODO Stop collision with main body of site, in narrow windows
+ */
+.site-sidebar {
+  float: left;
+
+  .page-link {
+    color: $text-color;
+  }
+}
