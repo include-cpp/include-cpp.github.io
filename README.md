@@ -19,4 +19,5 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 * Under organising-conferences.md, list what makes a conference inclusive
 * On shop page, add some pictures of non-shirt merch and explain what we do with the money
 * Revamp the home page
+* Eliminate all the [Here links](http://stephanieleary.com/2015/05/why-click-here-is-a-terrible-link-and-what-to-write-instead/)
   
