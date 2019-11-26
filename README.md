@@ -22,6 +22,7 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 * On shop page, add some pictures of non-shirt merch and explain what we do with the money
 * Revamp the home page
 * Eliminate all the [Here links](http://stephanieleary.com/2015/05/why-click-here-is-a-terrible-link-and-what-to-write-instead/)
+* Review [Kate's previous suggestions](https://github.com/include-cpp/include-cpp.github.io/issues/10) to make sure we don't forget anything.
   
 ### Formatting
 
