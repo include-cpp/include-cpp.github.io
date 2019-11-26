@@ -26,4 +26,4 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
   
 ### Formatting
 
-* Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths
+* Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths - see [Issue 14](https://github.com/include-cpp/include-cpp.github.io/issues/14)
