@@ -18,4 +18,5 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 * Under attending-conferences.md, add dinners, panels, sale of books
 * Under organising-conferences.md, list what makes a conference inclusive
 * On shop page, add some pictures of non-shirt merch and explain what we do with the money
+* Revamp the home page
   
