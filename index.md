@@ -19,6 +19,7 @@ We are still in the process of getting set up, but we plan to provide the follow
 - A set of [resources](/resources) on diversity and inclusion.
 - An inclusive, welcoming space for people to discuss and learn C++.
   - We have a Discord server which you can join through [this link](https://discord.gg/ZPErMGW).
+  - We have a [friendly presence at conferences](/attending-conferences).
 - A [toolbox](https://github.com/include-cpp/toolboxes) for C++ conferences to improve diversity and inclusion.
 - Help for conferences in reaching minority groups with calls for papers, and suggesting candidates to invite to speak.
 - Help for companies in improving their C++ job advertisements to improve appeal to minority groups.
@@ -38,6 +39,8 @@ Yes. We do have:
 Depending on your location, you might want to check both to see which one is the less expensive for you.
 
 We also sometime sell some at C++ conferences, when possible.
+
+For more information, see our <a class="page-link" href="/shop/">Shop</a> page.
 
 ## How can we be contacted?
 {:.contact}
