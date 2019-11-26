@@ -13,6 +13,8 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 
 ## Actions
 
+### Content
+
 * Fill in gaps in past scholarship info
 * Decide whether to create sub-directories like /conferences/
 * Under attending-conferences.md, add dinners, panels, sale of books
@@ -21,3 +23,6 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 * Revamp the home page
 * Eliminate all the [Here links](http://stephanieleary.com/2015/05/why-click-here-is-a-terrible-link-and-what-to-write-instead/)
   
+### Formatting
+
+* Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths
