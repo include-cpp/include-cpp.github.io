@@ -25,6 +25,7 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 * Eliminate all the [Here links](http://stephanieleary.com/2015/05/why-click-here-is-a-terrible-link-and-what-to-write-instead/)
 * Review [Kate's previous suggestions](https://github.com/include-cpp/include-cpp.github.io/issues/10) to make sure we don't forget anything.
   
-### Formatting
+### Formatting and maintainability
 
 * Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths - see [Issue 14](https://github.com/include-cpp/include-cpp.github.io/issues/14)
+* Replace the hard-coded links in [_includes/sidebar.html](https://github.com/include-cpp/include-cpp.github.io/blob/rework_navigation/_includes/sidebar.html) with something data-driven. See [the Jekyll Navigation docs](https://jekyllrb.com/tutorials/navigation/) for examples of how to do this.
