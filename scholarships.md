@@ -25,9 +25,9 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 
 | Conference       |                                                                      Funds Raised | Scholars Sent |
 |------------------|----------------------------------------------------------------------------------:|:-------------:|
-| CppCon 2018      |   [US $ 4,000](https://www.gofundme.com/f/sponsoring-women-cppcon-2018-attendees) |               |
+| CppCon 2018      |   [US $ 4,000](https://www.gofundme.com/f/sponsoring-women-cppcon-2018-attendees) |      4?       |
 | C++ on Sea 2019  |   [£ 1,445](https://www.gofundme.com/f/cpp-on-sea-diversity-and-support-tickets)  |       5       |
 | CPPP   2019      |                                                                                   |               |
 | ACCU Spring 2019 |     [£ 1,644](https://www.gofundme.com/f/includecpp-diversity-conference-tickets) |       3       |
-| CppCon 2019      | [US $ 4,694](https://www.gofundme.com/f/sponsoring-diverse-cppcon-2019-attendees) |               |
+| CppCon 2019      | [US $ 4,694](https://www.gofundme.com/f/sponsoring-diverse-cppcon-2019-attendees) |       2       |
 | ACCU Autumn 2019 |                 [£ 438](https://www.gofundme.com/f/include-accu-autumn-conf-2019) |       1       |
