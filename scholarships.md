@@ -28,6 +28,6 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 | CppCon 2018      | US $4,000 |   |
 | C++ on Sea 2019  |  |   |
 | CPPP   2019      |  |   |
-| ACCU Spring 2019 | £         | 3 |
+| ACCU Spring 2019 | £1,644    | 3 |
 | CppCon 2019      | US $4,694 |   |
 | ACCU Autumn 2019 | £ 438     | 1 |
