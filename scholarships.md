@@ -24,7 +24,7 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 ## Past Fundraisers
 
 | Conference       | Funds Raised | Scholars Sent  |
-|------------------|-----------|---|
+|------------------|------------: |     :---:      |
 | CppCon 2018      | US $4,000 |   |
 | C++ on Sea 2019  |  |   |
 | CPPP   2019      |  |   |
