@@ -10,7 +10,7 @@ We believe that a community is only as good as how it treats its most vulnerable
 
 Our primary communication platform is our [Discord server](https://discord.gg/ZPErMGW). Join us to discuss and learn C++ in a welcoming, inclusive space.
 
-The moderation and administration team are [Patricia Aas](https://twitter.com/pati_gallardo), [Simon Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Guy Davidson](https://twitter.com/hatcat01), [Timur Doumler](https://twitter.com/timur_audio), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach) and others.
+The moderation and administration team are [Patricia Aas](https://twitter.com/pati_gallardo), [Sy Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Guy Davidson](https://twitter.com/hatcat01), [Timur Doumler](https://twitter.com/timur_audio), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach) and others.
 
 ## What do we do?
 
