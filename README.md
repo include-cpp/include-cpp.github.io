@@ -19,6 +19,10 @@ Before go-live
 
 * Decide whether to create sub-directories like /conferences/ - get feedback before deciding
 * Review filenames of new photos - make them lower-case, for consistency with page names?
+* Review and make consistent the syntax used for internal links:
+    * `<a class="page-link" href="/shop/">Shop</a>` vs
+    * `[Shop](/shop)` vs
+    * `[Shop](/shop/)`
 * Get changes reviewed
 
 After go-live 
