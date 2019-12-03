@@ -32,15 +32,7 @@ There are many organisations focused on improving diversity and inclusion in the
 
 ## I like your T-Shirts, can I buy one?
 
-Yes. We do have:
-- [A US store](https://shop.spreadshirt.com/includecpp)
-- [A European store](https://shop.spreadshirt.net/includecpp).
-
-Depending on your location, you might want to check both to see which one is the less expensive for you.
-
-We also sometime sell some at C++ conferences, when possible.
-
-For more information, see our <a class="page-link" href="/shop/">Shop</a> page.
+Yes. See our <a class="page-link" href="/shop/">Shop</a> page. We have more than just shirts!
 
 ## How can we be contacted?
 {:.contact}
