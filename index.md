@@ -4,7 +4,7 @@ layout: home
 
 ## Who are we?
 
-`#include<C++>` is a global, inclusive, and diverse community for developers interested in C++. Here, you can find a welcoming space to learn and discuss C++. We also provide resources to create safer, more inclusive, community gatherings.
+`#include <C++>` is a global, inclusive, and diverse community for developers interested in C++. Here, you can find a welcoming space to learn and discuss C++. We also provide resources to create safer, more inclusive, community gatherings.
 
 We believe that a community is only as good as how it treats its most vulnerable members. Therefore, we strive to create a welcoming, safe, and accessible environment. We have a strong [Code of Conduct](/code-of-conduct), which we [enforce](/moderation).
 
@@ -20,11 +20,11 @@ We provide:
 - An inclusive, welcoming space for people to discuss and learn C++.
   - We have a [Discord server: please join](https://discord.gg/ZPErMGW).
   - We have a [friendly presence at conferences](/attending-conferences).
+- Help for minorities and junior programmers to [attend major conferences](/scholarships).
+- Help for minorities and junior programmers in submitting talks for conferences or job applications.
 - A [toolbox](https://github.com/include-cpp/toolboxes) for C++ conferences to improve diversity and inclusion.
 - Help for conferences in reaching minority groups with calls for papers, and suggesting candidates to invite to speak and <a class="page-link" href="/organising-conferences/">running an inclusive conference</a>.
 - Help for companies in improving their C++ job advertisements to improve appeal to minority groups.
-- Help for minorities and junior programmers to [attend major conferences](/scholarships).
-- Help for minorities and junior programmers in submitting talks for conferences or job applications.
 
 We are always doing more, and are open to suggestions for new ideas!
 
