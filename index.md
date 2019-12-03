@@ -2,6 +2,13 @@
 layout: home
 ---
 
+## Current Funding Campaign
+
+We are currently fund-raising for scholarships to send people from under-represented groups to [ACCU Spring 2020](https://conference.accu.org):
+
+* Please [donate through Go Fund Me](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)
+* You can [apply for a scholarship](https://richardchandler590561.typeform.com/to/ruUqBs)
+
 ## Who are we?
 
 `#include<C++>` is a global, inclusive, and diverse community for developers interested in C++. Here, you can find a welcoming space to learn and discuss C++. We also provide resources to create safer, more inclusive, community gatherings.
