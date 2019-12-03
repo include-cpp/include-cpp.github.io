@@ -14,7 +14,7 @@ The moderation and administration team includes [Patricia Aas](https://twitter.c
 
 ## What do we do?
 
-We are still in the process of getting set up, but we plan to provide the following:
+We provide:
 
 - A set of [resources](/resources) on diversity and inclusion.
 - An inclusive, welcoming space for people to discuss and learn C++.
@@ -25,6 +25,8 @@ We are still in the process of getting set up, but we plan to provide the follow
 - Help for companies in improving their C++ job advertisements to improve appeal to minority groups.
 - Help for minorities and junior programmers to [attend major conferences](/scholarships).
 - Help for minorities and junior programmers in submitting talks for conferences or job applications.
+
+We are always doing more, and are open to suggestions for new ideas!
 
 ## I like your T-Shirts, can I buy one?
 
