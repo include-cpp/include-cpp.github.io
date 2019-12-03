@@ -18,8 +18,6 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 Before go-live 
 
 * Decide whether to create sub-directories like /conferences/
-* Tidy the home page
-* Eliminate all the [Here links](http://stephanieleary.com/2015/05/why-click-here-is-a-terrible-link-and-what-to-write-instead/)
 
 After go-live 
 
