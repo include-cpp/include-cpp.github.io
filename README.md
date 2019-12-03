@@ -32,6 +32,8 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 * On shop page, add some pictures of non-shirt merch and explain what we do with the money
 * resources.md: Review content and structure
 * Review [Kate's previous suggestions](https://github.com/include-cpp/include-cpp.github.io/issues/10) to make sure we don't forget anything.
+* Review page title (Currently "Who are we")
+* Add a favicon
   
 ### Formatting and maintainability
 
