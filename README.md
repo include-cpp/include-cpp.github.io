@@ -18,6 +18,7 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 Before go-live 
 
 * Decide whether to create sub-directories like /conferences/ - get feedback before deciding
+* Review filenames of new photos - make them lower-case, for consistency with page names?
 * Get changes reviewed
 
 After go-live 
