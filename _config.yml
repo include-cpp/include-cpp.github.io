@@ -28,6 +28,7 @@ exclude:
   - CHANGELOG.md
   - jekyll-whiteglass.gemspec
   - screenshot.png
+  - template-page.md
   - vendor
 
 # Social media
