@@ -42,14 +42,14 @@ Enforcement
 - Understand that speech and actions have consequences, and unacceptable behaviour will not be tolerated.
 - If an issue occurs, please contact a moderator. On Discord their names are highlighted in blue or red.
 - If violations occur, organisers will take any action they deem appropriate for the infraction, up to and including expulsion.
-- Moderation guidelines can be found [here]({{site.baseurl}}/moderation).
+- There are [moderation guidelines]({{site.baseurl}}/moderation).
   - If you believe that an administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
 
 Meta
 ----
 
 - This document is managed on GitHub.
-- Pull requests can be sent [here](https://github.com/include-cpp/include-cpp.github.io).
+- We welcome [pull requests](https://github.com/include-cpp/include-cpp.github.io).
 - Suggestions, questions, or comments can be made directly to administrators, or discussed on the `#meta` channel.
 
 Derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and [Citizen Code of Conduct](http://citizencodeofconduct.org/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
