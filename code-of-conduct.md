@@ -2,8 +2,8 @@
 layout: default
 ---
 
-`#include` Discord Code of Conduct
-==================================
+`#include` Code of Conduct
+==========================
 
 Introduction
 ------------
