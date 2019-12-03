@@ -6,7 +6,7 @@ layout: home
 
 `#include<C++>` is a global, inclusive, and diverse community for developers interested in C++. Here, you can find a welcoming space to learn and discuss C++. We also provide resources to create safer, more inclusive, community gatherings.
 
-We believe that a community is only as good as how it treats its most vulnerable members. Therefore, we strive to create a welcoming, safe, and accessible environment. You can find our code of conduct [here](/code-of-conduct).
+We believe that a community is only as good as how it treats its most vulnerable members. Therefore, we strive to create a welcoming, safe, and accessible environment. We have a strong [Code of Conduct](/code-of-conduct), which we [enforce](/moderation).
 
 Our primary communication platform is our [Discord server](https://discord.gg/ZPErMGW). Join us to discuss and learn C++ in a welcoming, inclusive space.
 
