@@ -17,7 +17,8 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 
 Before go-live 
 
-* Decide whether to create sub-directories like /conferences/
+* Decide whether to create sub-directories like /conferences/ - get feedback before deciding
+* Get changes reviewed
 
 After go-live 
 
@@ -29,5 +30,5 @@ After go-live
   
 ### Formatting and maintainability
 
-* Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths - see [Issue 14](https://github.com/include-cpp/include-cpp.github.io/issues/14)
+* Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths, and works on phones - see [Issue 14](https://github.com/include-cpp/include-cpp.github.io/issues/14)
 * Replace the hard-coded links in [_includes/sidebar.html](https://github.com/include-cpp/include-cpp.github.io/blob/rework_navigation/_includes/sidebar.html) with something data-driven. See [the Jekyll Navigation docs](https://jekyllrb.com/tutorials/navigation/) for examples of how to do this.
