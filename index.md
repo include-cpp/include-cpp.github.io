@@ -26,10 +26,6 @@ We are still in the process of getting set up, but we plan to provide the follow
 - Help for minorities and junior programmers to [attend major conferences](/scholarships).
 - Help for minorities and junior programmers in submitting talks for conferences or job applications.
 
-## Why make another organisation?
-
-There are many organisations focused on improving diversity and inclusion in the tech space. However, we are in a very good place to target the C++ community specifically, because many of those involved are C++ experts with connections to conferences and companies where a difference can be made.
-
 ## I like your T-Shirts, can I buy one?
 
 Yes. See our <a class="page-link" href="/shop/">Shop</a> page. We have more than just shirts!
