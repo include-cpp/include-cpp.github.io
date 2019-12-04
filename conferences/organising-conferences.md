@@ -9,7 +9,7 @@ Many members of `#include <C++>` organise conferences themselves, or advise thos
 For example, CppCon and C++ on Sea have demonstrated the value of many of these considerations in recent years:
 
 * An enforced Code of Conduct
-* Mechanisms for people to attend free, or at low cost, including volunteer programs, student programs, and supporting [our Scholarships](/scholarships)
+* Mechanisms for people to attend free, or at low cost, including volunteer programs, student programs, and supporting [our Scholarships](/conferences/scholarships)
 * Thoughtful badge design
 * Quiet rooms
 * Accessible venue
