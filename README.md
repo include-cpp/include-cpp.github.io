@@ -15,12 +15,6 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 
 ### Content
 
-**Before go-live** 
-
-* Get changes reviewed
-
-**After go-live** 
-
 * Review and make consistent the syntax used for internal links:
     * `<a class="page-link" href="/shop/">Shop</a>` vs
     * `[Shop](/shop)` vs
