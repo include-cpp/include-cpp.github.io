@@ -17,7 +17,6 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 
 **Before go-live** 
 
-* Review filenames of new photos - make them lower-case, for consistency with page names?
 * Review and make consistent the syntax used for internal links:
     * `<a class="page-link" href="/shop/">Shop</a>` vs
     * `[Shop](/shop)` vs
