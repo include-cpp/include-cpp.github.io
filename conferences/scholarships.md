@@ -15,7 +15,15 @@ We are currently fund-raising for [ACCU 2020](https://conference.accu.org):
 
 The goal of `#include <c++>` is to help make the C++ community more inclusive. Our diversity scholarships send people to major conferences and include conference admission (provided for free or at an enormous discount by the conference), accommodation and travel, as well as access to events like speaker dinners.
 
-We will consider any candidate from an under-represented background with regards to the usual C++ conference attendees. It can be gender related (women, trans people, non binary people among others), geographical (less represented areas), heritage, health or body related (attendees with reduced mobility, blind people, etc), career path related (long time jobseekers, career changers), sexuality (LGBQ+) or people with specific financial issues.
+We will consider any candidate from an under-represented background with regards to the usual C++ conference attendees. For example, under-representation could be:
+
+* gender related (women, trans people, non binary people among others), 
+* sexuality (LGBQ+),
+* heritage (cultural, ethnic and/or racial identity), 
+* geographical (less represented areas), 
+* health or body related (attendees with reduced mobility, blind people among others), 
+* career path related (long time job-seekers, career changers), 
+* people with specific financial issues.
 
 The applications will be treated as confidential and go to a small selection committee within `#include <C++>` and they will choose the delegates that will attend.
 
