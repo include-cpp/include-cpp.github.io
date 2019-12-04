@@ -7,6 +7,8 @@
 
     {% include header.html %}
 
+    {% include sidebar.html %}
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
