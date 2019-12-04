@@ -23,6 +23,7 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
     * `[Shop](/shop)` vs
     * `[Shop](/shop/)`
 * Get changes reviewed
+* Disable the sidebar menu - comment out content in `_includes/sidebar.html`
 
 **After go-live** 
 
