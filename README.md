@@ -17,15 +17,14 @@ This site is published at [https://www.includecpp.org/](https://www.includecpp.o
 
 **Before go-live** 
 
+* Get changes reviewed
+
+**After go-live** 
+
 * Review and make consistent the syntax used for internal links:
     * `<a class="page-link" href="/shop/">Shop</a>` vs
     * `[Shop](/shop)` vs
     * `[Shop](/shop/)`
-* Get changes reviewed
-* Disable the sidebar menu - comment out content in `_includes/sidebar.html`
-
-**After go-live** 
-
 * Under attending-conferences.md, add dinners, panels, sale of books
 * Under organising-conferences.md, list what makes a conference inclusive
 * On shop page, add some pictures of non-shirt merch and explain what we do with the money
