@@ -20,7 +20,7 @@ We provide:
 - An inclusive, welcoming space for people to discuss and learn C++.
   - We have a [Discord server: please join](https://discord.gg/ZPErMGW).
   - We have a [friendly presence at conferences](/conferences/attending-conferences).
-- Help for minorities and junior programmers to [attend major conferences](/conferences/scholarships). You can apply for scholarships, and donate to them.
+- Help for minorities and junior programmers with [scholarships to attend major conferences](/conferences/scholarships). You can apply for scholarships, and donate to them.
 - Help for minorities and junior programmers in submitting talks for conferences or job applications.
 - A [toolbox](https://github.com/include-cpp/toolboxes) for C++ conferences to improve diversity and inclusion.
 - Help for conferences in reaching minority groups with calls for papers, and suggesting candidates to invite to speak and <a class="page-link" href="/conferences/organising-conferences/">running an inclusive conference</a>.
