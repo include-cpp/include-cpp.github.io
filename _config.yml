@@ -281,6 +281,11 @@ compress_html:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "sidebar"
   # _posts
   - scope:
       path: ""

@@ -12,3 +12,35 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar:
+  - title: Home
+    url: /
+  - title: Discord Server
+    children:
+      - title: "Invite"
+        url: https://discord.gg/ZPErMGW
+      - title: "Code of conduct"
+        url: /code-of-conduct/
+      - title: "Moderation"
+        url: /moderation/
+  - title: Conferences and Events
+    url: /conferences/
+    children:
+      - title: "Attending"
+        url: /conferences/attending-conferences/
+      - title: "Scholarships"
+        url: /conferences/scholarships/
+      - title: "Organising"
+        url: /conferences/organising-conferences/
+      - title: "Toolbox"
+        url: https://github.com/include-cpp/toolboxes
+  - title: "Shop"
+    url: /shop/
+    children:
+      - title: "US store"
+        url: https://shop.spreadshirt.com/includecpp
+      - title: "European store"
+        url: https://shop.spreadshirt.net/includecpp
+  - title: "Resources"
+    url: /resources/
