@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 ---
 
 `#include` Discord Moderation Guidelines

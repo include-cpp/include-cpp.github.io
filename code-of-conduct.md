@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 ---
 
 `#include` Code of Conduct
