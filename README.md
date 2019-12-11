@@ -24,7 +24,7 @@ Please see [the pages listed in this site's Wiki](https://github.com/include-cpp
   
 ### Notes from 2019-12-03 call
 
-* Clare will work on getting the menu working as a parallel thing
+* DONE Clare will work on getting the menu working as a parallel thing
 * can we get more eyes on the organising-conferences.md page? really long stuff is there commented out right now
 * is there a web page or something that will automatically list our mods/admins? like on slack?
 * our official name has a space in it. Fix on website and elsewhere whenever we can.
