@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: archive
+title: "#include &lt;C++> Code of Conduct"
 ---
-
-`#include` Code of Conduct
-==========================
 
 Introduction
 ------------

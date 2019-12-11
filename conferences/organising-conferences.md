@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: archive
+title: Organising Conferences
 ---
-
-# Organising Conferences
 
 Many members of `#include <C++>` organise conferences themselves, or advise those who do. We have plenty of great suggestions about how to run an inclusive and welcoming conference.
 

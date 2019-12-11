@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: archive
+title: Diversity Scholarships
 ---
-
-# Diversity Scholarships
 
 ## Current Funding Campaign
 

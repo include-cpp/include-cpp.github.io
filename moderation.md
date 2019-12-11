@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: archive
+title: "#include &lt;C++> Discord Moderation Guidelines"
 ---
-
-`#include` Discord Moderation Guidelines
-========================================
 
 Introduction
 ------------
