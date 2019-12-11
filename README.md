@@ -22,11 +22,6 @@ Please see [the pages listed in this site's Wiki](https://github.com/include-cpp
 * Review page title (Currently "Who are we")
 * Add a favicon
   
-### Formatting and maintainability
-
-* Fix the position and resizing of the new Sidebar, so it looks good on a wide range of screen widths, and works on phones - see [Issue 14](https://github.com/include-cpp/include-cpp.github.io/issues/14)
-* Replace the hard-coded links in [_includes/sidebar.html](https://github.com/include-cpp/include-cpp.github.io/blob/rework_navigation/_includes/sidebar.html) with something data-driven. See [the Jekyll Navigation docs](https://jekyllrb.com/tutorials/navigation/) for examples of how to do this.
-
 ### Notes from 2019-12-03 call
 
 * Clare will work on getting the menu working as a parallel thing
