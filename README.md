@@ -2,14 +2,9 @@
 
 This site is published at [https://www.includecpp.org/](https://www.includecpp.org/).
 
-## Checklist for creating pages
+## Help and instructions for maintaining this site
 
-* [ ] Where to put it
-* [ ] Create it
-* [ ] Link to it from:
-    * [ ] Home page?
-    * [ ] Side bar?
-    * [ ] Any other pages?
+Please see [the pages listed in this site's Wiki](https://github.com/include-cpp/include-cpp.github.io/wiki).
 
 ## Actions
 
