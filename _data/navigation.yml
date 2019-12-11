@@ -34,7 +34,7 @@ sidebar:
       - title: "Organising"
         url: /conferences/organising-conferences/
       - title: "Toolbox"
-        url: https://github.com/include-cpp/toolboxes
+        url: https://github.com/include-cpp/toolboxes/releases/latest
   - title: "Shop"
     url: /shop/
     children:

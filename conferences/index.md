@@ -11,5 +11,5 @@ title: Conferences and Events
 ## For conference organisers
 
 - Help for conferences in reaching minority groups with calls for papers, and suggesting candidates to invite to speak and <a class="page-link" href="/conferences/organising-conferences/">running an inclusive conference</a>.
-- A [toolbox](https://github.com/include-cpp/toolboxes) for C++ conferences to improve diversity and inclusion.
+- A [toolbox](https://github.com/include-cpp/toolboxes/releases/latest) for C++ conferences to improve diversity and inclusion.
 
