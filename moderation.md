@@ -1,9 +1,7 @@
 ---
 layout: archive
+title: "#include &lt;C++> Discord Moderation Guidelines"
 ---
-
-`#include <C++>` Discord Moderation Guidelines
-========================================
 
 Introduction
 ------------

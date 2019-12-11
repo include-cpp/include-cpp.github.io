@@ -1,8 +1,7 @@
 ---
 layout: archive
+title: Shop
 ---
-
-# Shop
 
 ## I like your T-Shirts, can I buy one?
 

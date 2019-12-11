@@ -1,8 +1,7 @@
 ---
 layout: archive
+title: Conferences and Events
 ---
-
-# Conferences and Events
 
 ## For conference attendees
 

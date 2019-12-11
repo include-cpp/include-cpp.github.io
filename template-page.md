@@ -1,6 +1,9 @@
 ---
 layout: archive
+title: "Put your title here"
 ---
 
-# Template Page - edit me
+__The first heading will be generated automatically from the title above__
+
+ 
 

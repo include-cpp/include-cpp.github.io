@@ -1,8 +1,7 @@
 ---
 layout: archive
+title: Resources
 ---
-
-# Resources
 
 ## Table of Contents
 

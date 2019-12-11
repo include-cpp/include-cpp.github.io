@@ -1,8 +1,7 @@
 ---
 layout: archive
+title: Attending Conferences
 ---
-
-# Attending Conferences
 
 Since our founding, `#include <C++>` members have been attending conferences and working to make them more inclusive.
 
