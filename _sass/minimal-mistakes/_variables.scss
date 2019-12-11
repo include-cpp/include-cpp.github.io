@@ -156,5 +156,6 @@ $nav-height: 2em !default;
 $nav-toggle-height: 2rem !default;
 $navicon-width: 1.5rem !default;
 $navicon-height: 0.25rem !default;
-$global-transition: all 0.2s ease-in-out !default;
-$intro-transition: intro 0.3s both !default;
+// Disable all animations: it makes the site feel faster
+$intro-transition  : none;
+$global-transition : none;
