@@ -18,7 +18,7 @@ sidebar:
     url: /
   - title: Discord Server
     children:
-      - title: "Join"
+      - title: "Join Discord"
         url: https://discord.gg/ZPErMGW
       - title: "Code of conduct"
         url: /code-of-conduct/
