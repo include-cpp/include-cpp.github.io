@@ -16,6 +16,9 @@ main:
 sidebar:
   - title: Home
     url: /
+    children:
+      - title: "What can I do?"
+        url: /what-can-i-do/
   - title: Discord Server
     children:
       - title: "Join Discord"

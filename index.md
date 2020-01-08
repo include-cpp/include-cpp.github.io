@@ -20,7 +20,7 @@ Our primary communication platform is our [Discord server](https://discord.gg/ZP
 
 The moderation and administration team includes [Patricia Aas](https://twitter.com/pati_gallardo), [Sy Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Guy Davidson](https://twitter.com/hatcat01), [Timur Doumler](https://twitter.com/timur_audio), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach).
 
-Everyone who supports our goals, whether a member of any under-represented groups or not, is welcome to participate in any way. Many of our leaders and contributors are allies and we are grateful for all they do. If you want C++ to be more welcoming and inclusive, you'll be welcomed and included.
+Everyone who supports our goals, whether a member of any under-represented groups or not, is welcome to participate in any way - see [What can I do?](/what-can-i-do/) Many of our leaders and contributors are allies and we are grateful for all they do. If you want C++ to be more welcoming and inclusive, you'll be welcomed and included.
 
 ## What do we do?
 
@@ -37,6 +37,10 @@ We provide:
 - Help for companies in improving their C++ job advertisements to improve appeal to minority groups.
 
 We are always doing more, and are open to suggestions for new ideas!
+
+## What can I do?
+
+Thanks for asking - please see [What can I do?](/what-can-i-do/)
 
 ## I like your T-Shirts, can I buy one?
 
