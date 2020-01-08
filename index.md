@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "#include &lt;C++>"
+toc: true
 ---
 
 ## Current Funding Campaign
