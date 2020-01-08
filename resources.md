@@ -101,11 +101,6 @@ title: Resources
 * [Yow Our Policies: YOW!](http://yowconference.com.au/policies/)
 * [Code of Conduct - Meeting C++ 2015](http://meetingcpp.com/index.php/newsreader/items/code-of-conduct.html)
 * [Code of Conduct: cppcon](http://cppcon.org/codeofconduct/)
-	* As of 11/08/2017
-		* CppCon is a conference for professionals and professional conduct is expected of all attendees.
-		* If your conduct is not professional, your fellow attendees will snicker about you behind your back.
-		* If your conduct is not professional and also **offensive to other individuals and/or groups**, you may be asked to leave the conference. *If that happens your registration* **will not be refunded**.
-		* Let’s have fun, but keep it professional.
 * [Why I cancelled my ReactiveConf talk – Peggy Rayzis – Medium](https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8)
 * [» After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go The Road Less Traveled By](http://deviating.net/words/?p=821)
 	* excellent list of thing to do when preparing to run a conference
