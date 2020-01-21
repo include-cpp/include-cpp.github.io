@@ -11,5 +11,5 @@ Yes. We do have:
 
 Depending on your location, you might want to check both to see which one is the less expensive for you.
 
-We also sometime sell some at C++ conferences, when possible.
+We also sometimes sell some at C++ conferences, when possible.
 
