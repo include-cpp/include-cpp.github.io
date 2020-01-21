@@ -5,7 +5,7 @@ title: Attending Conferences
 
 Since our founding, `#include <C++>` members have been attending conferences and working to make them more inclusive.
 
-![#include members at CPPP 2019](/images/cppp_2019.jpg)
+![#include <C++> members at CPPP 2019](/images/cppp_2019.jpg)
 
 ## Conference Tables
 
