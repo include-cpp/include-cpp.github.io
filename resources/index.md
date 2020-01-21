@@ -13,6 +13,23 @@ title: Resources
 
 * [Gender-neutral Technical Writing: TechWhirl](https://techwhirl.com/gender-neutral-technical-writing/)
 
+#### Guys
+
+* [Kate Gregory: Thoughts about "guys"](http://www.gregcons.com/KateBlog/ThoughtsAboutGuys.aspx)
+* [When is "guys" gender neutral? I did a survey! - Julia Evans](http://jvns.ca/blog/2013/12/27/guys-guys-guys/)
+* [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
+* [The First Rule of DevOps Club - Bridget Kromhout](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
+* [Clare Macrae on Twitter:](https://twitter.com/ClareMacraeUK/status/700259853365858304?p=v) "Throughly fed up with current speaker at [#AnsibleFest](https://twitter.com/search/?q=%23AnsibleFest&s=hash) referring only to male audience and collaborators - we are not all guys"
+	* [Stacey Eady on Twitter:](https://twitter.com/told_tedith/status/700346343533969409?p=v) "Even the [#tokengirl](https://twitter.com/search/?q=%23tokengirl&s=hash) on the panel was an afterthought [#AnsibleFest](https://twitter.com/search/?q=%23AnsibleFest&s=hash) [#fail](https://twitter.com/search/?q=%23fail&s=hash) [#closethegendergap](https://twitter.com/search/?q=%23closethegendergap&s=hash) https://t.co/kdhUgzqLTM"
+* ['Ladies' Is Gender Neutral – Alice Goldfuss](http://blog.alicegoldfuss.com/ladies-is-gender-neutral/)
+* [Language Matters: Stop Using “Guys” to Address Mix-Gender Groups – Subfictional Studios](https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/)
+* [single word requests - A gender-neutral, informal alternative to singular 'guy' - English Language & Usage Stack Exchange](http://english.stackexchange.com/questions/193702/a-gender-neutral-informal-alternative-to-singular-guy)
+* [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
+* [Gendered Language: Feature or Bug in Software Documentation? by Tim Chevalier:  Model View Culture](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)
+* [Scott Hanselman on Twitter](https://twitter.com/shanselman/status/904793438238892032): OSS Devs: [@keeleyhammond](https://twitter.com/keeleyhammond) and I are teaching a class on "The Squishy Side of Open Source." Give us links of GitHub threads gone BAD and GOOD!
+	* There are some useful replies.
+* [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
+
 ### Mansplaining
 
 * [Mansplaining - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/Mansplaining)
@@ -155,22 +172,6 @@ title: Resources
 * [Push for Gender Equality in Tech? Some Men Say It’s Gone Too Far - The New York Times](https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html)
 * [@Katey Alatalo](https://mobile.twitter.com/astrokatey/status/911686351673626624): This article has made me super angry. Do you want to know what it is like trying to be a woman in a scientific space? Let me tell you. 1/
 
-## Guys
-
-* [Kate Gregory: Thoughts about "guys"](http://www.gregcons.com/KateBlog/ThoughtsAboutGuys.aspx)
-* [When is "guys" gender neutral? I did a survey! - Julia Evans](http://jvns.ca/blog/2013/12/27/guys-guys-guys/)
-* [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
-* [The First Rule of DevOps Club - Bridget Kromhout](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
-* [Clare Macrae on Twitter:](https://twitter.com/ClareMacraeUK/status/700259853365858304?p=v) "Throughly fed up with current speaker at [#AnsibleFest](https://twitter.com/search/?q=%23AnsibleFest&s=hash) referring only to male audience and collaborators - we are not all guys"
-	* [Stacey Eady on Twitter:](https://twitter.com/told_tedith/status/700346343533969409?p=v) "Even the [#tokengirl](https://twitter.com/search/?q=%23tokengirl&s=hash) on the panel was an afterthought [#AnsibleFest](https://twitter.com/search/?q=%23AnsibleFest&s=hash) [#fail](https://twitter.com/search/?q=%23fail&s=hash) [#closethegendergap](https://twitter.com/search/?q=%23closethegendergap&s=hash) https://t.co/kdhUgzqLTM"
-* ['Ladies' Is Gender Neutral – Alice Goldfuss](http://blog.alicegoldfuss.com/ladies-is-gender-neutral/)
-* [Language Matters: Stop Using “Guys” to Address Mix-Gender Groups – Subfictional Studios](https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/)
-* [single word requests - A gender-neutral, informal alternative to singular 'guy' - English Language & Usage Stack Exchange](http://english.stackexchange.com/questions/193702/a-gender-neutral-informal-alternative-to-singular-guy)
-* [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
-* [Gendered Language: Feature or Bug in Software Documentation? by Tim Chevalier:  Model View Culture](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)
-* [Scott Hanselman on Twitter](https://twitter.com/shanselman/status/904793438238892032): OSS Devs: [@keeleyhammond](https://twitter.com/keeleyhammond) and I are teaching a class on "The Squishy Side of Open Source." Give us links of GitHub threads gone BAD and GOOD!
-	* There are some useful replies.
-* [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
 
 ## Other organisations
 
