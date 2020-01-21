@@ -1,37 +1,9 @@
 ---
-layout: archive
+layout: home
+toc: true
 title: Resources
 ---
 
-## Table of Contents
-
-- [Recruitment](#recruitment)
-  * [Side Projects](#side-projects)
-  * [Wording of adverts](#wording-of-adverts)
-  * [The whole process](#the-whole-process)
-- [Alternative Conferences](#alternative-conferences)
-  * [AlterConf](#alterconf)
-- [Conferences and Codes of Conduct](#conferences-and-codes-of-conduct)
-  * [Gender Balance, Diversity and Conferences](#gender-balance--diversity-and-conferences)
-  * [Organising Conferences](#organising-conferences)
-  * [Codes of Conduct](#codes-of-conduct)
-- [Gender and Equality and Diversity](#gender-and-equality-and-diversity)
-  * [Vocabulary](#vocabulary)
-  * [Mansplaining](#mansplaining)
-  * [Implicit Bias](#implicit-bias)
-  * [Privilege](#privilege)
-  * [Diversity](#diversity)
-  * [Racism and White Privilege](#racism-and-white-privilege)
-  * [Advice](#advice)
-  * [Good Examples](#good-examples)
-  * [Improving diversity](#improving-diversity)
-  * [Pipeline?](#pipeline-)
-  * [Inequality of Pay](#inequality-of-pay)
-  * [Online abuse](#online-abuse)
-  * [GoogleBro - Google Memo August 2017 - James Damore](#googlebro---google-memo-august-2017---james-damore)
-  * [NY Times Article - Sep 2017](#ny-times-article---sep-2017)
-- [Guys](#guys)
-- [Other organisations](#other-organisations)
 
 ## <a name="recruitment"/>Recruitment
 
