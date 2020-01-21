@@ -5,7 +5,7 @@ title: Resources
 ---
 
 
-## <a name="recruitment"/>Recruitment
+## Recruitment
 
 * [How to hire](http://blog.samaltman.com/how-to-hire)
 * [This is why you never end up hiring good developers – Quartz](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
@@ -14,30 +14,30 @@ title: Resources
 * [How to Recruit – Rands in Repose](http://randsinrepose.com/archives/how-to-recruit/)
 
 
-### <a name="side-projects"/>Side Projects
+### Side Projects
 
 * [Sarah Mei: "if you do write code outside work, in addition to at work, won't you get better at it in less time than if you just write code at work?" This question often comes from folks who have read about the "10000 hours of practice" you supposedly need to get good at a skill.](https://mobile.twitter.com/sarahmei/status/953426874528514048)
 
-### <a name="wording-of-adverts"/>Wording of adverts
+### Wording of adverts
 
 * [Not everything is awesome: FT Labs](http://labs.ft.com/2014/08/not-everything-is-awesome/)
 * [Words matter. Thinking about how you talk about jobs if you want more women to apply. – disambiguity](http://www.disambiguity.com/words-matter-women-and-jobs/)
 * [Coraline Ada Ehmke — Not Applicable: What Your Job Post Is Really Saying](https://where.coraline.codes/blog/not_applicable/)
 
-### <a name="the-whole-process"/>The whole process
+### The whole process
 
 * [The Hiring Post — Quarrelsome](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
-## <a name="alternative-conferences"/>Alternative Conferences
+## Alternative Conferences
 
-###  <a name="alterconf"/>AlterConf
+###  AlterConf
 
 * [Talk: Not one of the guys - finding myself in an industry dominated by cis men: AlterConf](https://alterconf.com/talks/not-one-guys-finding-myself-industry-dominated-cis-men)
 
-## <a name="conferences-and-codes-of-conduct"/>Conferences and Codes of Conduct
+## Conferences and Codes of Conduct
 
 
-### <a name="gender-balance--diversity-and-conferences"/>Gender Balance, Diversity and Conferences
+### Gender Balance, Diversity and Conferences
 
 * [Timeline of incidents - Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents)
 * [Some notes on codes of conduct from a conference organizer's perspective - Jez Humble](https://gist.github.com/jezhumble/47aebaa31ba7cf67e2b8)
@@ -57,7 +57,7 @@ title: Resources
 * [Rob Conery: Diversity and Speaking](http://rob.conery.io/2017/01/25/diversity-and-speaking/)
 * [Things You Think Aren’t Sexist, But Really Are - RuthBurr.comRuthBurr.com](http://www.ruthburr.com/things-you-think-arent-sexist/#.WYDWv53TXL1)
 
-### <a name="organising-conferences"/>Organising Conferences
+### Organising Conferences
 
 * [User stories for organising conferences  · GitHub](https://gist.github.com/doismellburning/6ef44a51df271bca4782)
 * [Considerations for more diverse conferences - Emily Webber](http://emilywebber.co.uk/considerations-for-more-diverse-conferences/)
@@ -65,7 +65,7 @@ title: Resources
 * [How to Organize a Conference: 18 Amazingly Useful Tips](https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd#.hju33o8o4)
 * [Badge Reviews](https://badge.reviews/) - how to design conference badges, including for legibility
 
-### <a name="codes-of-conduct"/>Codes of Conduct
+### Codes of Conduct
 
 * [Code Of Conduct « PIPELINE](http://web.pipelineconf.info/about/code-of-conduct/)
 * [Conference anti-harassment/Policy - Geek Feminism Wiki - Wikia](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
@@ -77,20 +77,20 @@ title: Resources
 * [» After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go The Road Less Traveled By](http://deviating.net/words/?p=821)
 	* excellent list of thing to do when preparing to run a conference
 
-## <a name="gender-and-equality-and-diversity"/>Gender and Equality and Diversity
+## Gender and Equality and Diversity
 
 
 
-### <a name="vocabulary"/>Vocabulary
+### Vocabulary
 
 * [Gender-neutral Technical Writing: TechWhirl](https://techwhirl.com/gender-neutral-technical-writing/)
 
-### <a name="mansplaining"/>Mansplaining
+### Mansplaining
 
 * [Mansplaining - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/Mansplaining)
 * [What Is Mansplaining? The Origins (And Misuse) of the Term](http://www.makeuseof.com/tag/mansplaining-origins-misuse-term/)
 
-### <a name="implicit-bias"/>Implicit Bias
+### Implicit Bias
 
 * [Managing unconscious bias -- Facebook](https://managingbias.fb.com/)
   * A series of videos on recognising unconscious biases which you have and suggestions on how to counter them.
@@ -113,11 +113,11 @@ title: Resources
 * [One Simple Skill to Curb Unconscious Gender Bias:  Crucial Skills](http://www.crucialskills.com/2015/08/one-simple-skill-to-curb-unconscious-gender-bias/)
 * [/Fay-lee-nuh/ on Twitter:](https://twitter.com/Felienne/status/799604057577050113) "Tweeps! I managed to convince my department that we need implicit bias training. Who do I bring in for this? Half a day, in Delft, paid."
 
-### <a name="privilege"/>Privilege
+### Privilege
 
 * [Straight White Male: The Lowest Difficulty Setting There Is – Whatever](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/)
 
-### <a name="diversity"/>Diversity
+### Diversity
 
 * [Programming Diversity](http://www.softdevtube.com/2014/02/11/programming-diversity/)
 * [Closing the gender gap in computer science:  Harvard Gazette](http://news.harvard.edu/gazette/story/2014/02/closing-the-gender-gap-in-computer-science/)
@@ -155,22 +155,22 @@ title: Resources
   * [#RealDiversityNumbers (with tweets) · EricaJoy · Storify](https://storify.com/EricaJoy/realdiversitynumbers)
   * [Monica Rogati on Twitter:](https://twitter.com/mrogati/status/665962306694615040) "The Bechdel test for tech conferences: 1) two women speaking 2) on the same panel 3) not about women in tech."
 
-### <a name="racism-and-white-privilege"/>Racism and White Privilege
+### Racism and White Privilege
 
 *  [What I Said When My White Friend Asked for My Black Opinion on White Privilege:  On Being](https://onbeing.org/blog/what-i-said-when-my-white-friend-asked-for-my-black-opinion-on-white-privilege/)
 
 
-### <a name="advice"/>Advice
+### Advice
 
 * [Ways Men In Tech Are Unintentionally Sexist:  this is not a pattern](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
 * [Advice for Women Entering the Tech Industry by Kat Li:  Model View Culture](https://modelviewculture.com/pieces/advice-for-women-entering-the-tech-industry)
 * [Being an Effective Ally to Women and Non-Binary People - Code as Craft](https://codeascraft.com/2016/10/19/being-an-effective-ally-to-women-and-non-binary-people/) - really good intro, with 10 ways to help. Quite long.
 
-### <a name="good-examples"/>Good Examples
+### Good Examples
 
 * [David Haney on Twitter:](https://twitter.com/haneycodes/status/644572026502385664) "I'm still jazzed about our new diversity page at [@StackOverflow](https://twitter.com/StackOverflow) - check it out! http://stackexchange.com/diversity"
 
-### <a name="improving-diversity"/>Improving diversity
+### Improving diversity
 
 * [Guest post: Scholarships for women speakers at PuppetConf:  The Ada Initiative](https://adainitiative.org/2014/01/guest-post-scholarships-for-women-speakers-at-puppetconf/)
 * [FlowCon - Programming Diversity:  ashe dryden](http://www.ashedryden.com/flowcon-programming-diversity)
@@ -198,21 +198,21 @@ title: Resources
 * [Sisterhood Is Not Enough: Why Workplace Equality Needs Men, Too](http://mobile.nytimes.com/2016/08/14/jobs/sisterhood-is-not-enough-why-workplace-equality-needs-men-too.html)
 * [Dev Team Diversity #Realtalk - Custom Web & Mobile Development Company:  DevMynd](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) - good practical article for small organisations
 
-### <a name="pipeline-"/>Pipeline?
+### Pipeline?
 
 * [If you think women in tech is just a pipeline problem, you haven’t been paying attention — Medium](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.1e7rxm2gq)
 * [Re-Recruit From the Leaky Pipeline by Seonaid Lee:  Model View Culture](https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline)
 
-### <a name="inequality-of-pay"/>Inequality of Pay
+### Inequality of Pay
 
 * [The gender pay gap for women in the U.S. - Narrow the Gapp](http://narrowthegapp.com/)
 
-### <a name="online-abuse"/>Online abuse
+### Online abuse
 
 * [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
 * [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: http://t.co/qCJCVzH1W8"
 
-### <a name="googlebro---google-memo-august-2017---james-damore"/>GoogleBro - Google Memo August 2017 - James Damore
+### GoogleBro - Google Memo August 2017 - James Damore
 
 * [What do scientists think about the biological claims made in the Google memo?](https://www.quora.com/What-do-scientists-think-about-the-biological-claims-made-in-the-anti-diversity-document-written-by-a-Google-employee-in-August-2017/answer/Suzanne-Sadedin?share=13d40fd1&srid=Q)
 * [always a good day to re-bring up this research: girls score higher than boys in math if tests are graded w/o names ](https://mobile.twitter.com/sailorhg/status/895209730401902593) - [NY Times article](https://www.nytimes.com/2015/02/07/upshot/how-elementary-school-teachers-biases-can-discourage-girls-from-math-and-science.html?_r=1)
@@ -222,12 +222,12 @@ title: Resources
 * [Why Men Don’t Believe the Data on Gender Bias in Science:  WIRED](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/)
 * [Science doesn’t explain tech’s diversity problem — history does - The Verge](https://www.theverge.com/2017/8/16/16153740/tech-diversity-problem-science-history-explainer-inequality)
 
-### <a name="ny-times-article---sep-2017"/>NY Times Article - Sep 2017
+### NY Times Article - Sep 2017
 
 * [Push for Gender Equality in Tech? Some Men Say It’s Gone Too Far - The New York Times](https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html)
 * [@Katey Alatalo](https://mobile.twitter.com/astrokatey/status/911686351673626624): This article has made me super angry. Do you want to know what it is like trying to be a woman in a scientific space? Let me tell you. 1/
 
-## <a name="guys"/>Guys
+## Guys
 
 * [Kate Gregory: Thoughts about "guys"](http://www.gregcons.com/KateBlog/ThoughtsAboutGuys.aspx)
 * [When is "guys" gender neutral? I did a survey! - Julia Evans](http://jvns.ca/blog/2013/12/27/guys-guys-guys/)
@@ -244,7 +244,7 @@ title: Resources
 	* There are some useful replies.
 * [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
 
-## <a name="other-organisations"/>Other organisations
+## Other organisations
 
 * [CAS #include - computer science for all](http://www.computingatschool.org.uk/custom_pages/270-cas-include)
   * An organisation focused on increasing diversity in computer science.
