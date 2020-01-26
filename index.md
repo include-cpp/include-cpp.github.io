@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "#include &lt;C++>"
+title: "#include ＜C++＞"
 toc: true
 ---
 

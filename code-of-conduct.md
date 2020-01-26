@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "#include &lt;C++> Code of Conduct"
+title: "#include ＜C++＞ Code of Conduct"
 ---
 
 Introduction
