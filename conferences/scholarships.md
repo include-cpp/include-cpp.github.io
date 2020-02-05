@@ -8,7 +8,6 @@ title: Diversity Scholarships
 We are currently fund-raising for [ACCU 2020](https://conference.accu.org):
 
 * Please [Donate here](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)
-* You can [Apply here](https://richardchandler590561.typeform.com/to/ruUqBs)
 
 ## Introduction
 

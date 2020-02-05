@@ -9,7 +9,6 @@ toc: true
 We are currently fund-raising for scholarships to send people from under-represented groups to [ACCU 2020](https://conference.accu.org):
 
 * Please [donate through Go Fund Me](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)
-* You can [apply for a scholarship](https://richardchandler590561.typeform.com/to/ruUqBs)
 
 ## Who are we?
 
