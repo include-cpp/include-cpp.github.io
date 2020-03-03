@@ -1,6 +1,7 @@
 ---
-layout: archive
+layout: home
 title: Diversity Scholarships
+toc: true
 ---
 
 ## Current Funding Campaign
@@ -40,3 +41,16 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
 |        **TOTAL** |                                                                                   |     **16**    |
 
+## Scholar Testimonials
+
+### ACCU 2019 Recipient
+
+The first time I heard of `#include <C++>` was at Meeting C++ 2018. I didn’t buy a T-Shirt then but I joined the Discord Server. First, I just stayed around, reading messages. After a while I started to participate and mostly asking questions about an in-house talk I was about to give. I got a lot of great advice and the talk ended up to be a success.
+
+A while later I read about scholarships for the ACCU 2019 conference in Bristol. I looked up the schedule for ACCU a while ago and it looked very interesting. But since I already went to a conference on my company's budget in that year, there was no way they could send me to another one. So, I decided to apply for the scholarship (with a little encouragement from the #include people). I was very happy when I got accepted. The scholarship included a full conference ticket, the travel and the hotel. This is really amazing.
+
+I already met some #include people at the airport. And while I have no problem with travelling alone, I felt really nice to already get to know them. I also very much enjoyed the conference and so many people told me that I have I voice and that they want to hear what I have to say, I decided to ask my colleague to do a conference talk with me. He immediately agreed and so we gave our first conference talk at Meeting C++ 2019 and more will follow.
+
+I also got lots of help and really great advice on the `#include <C++>` discord server, like with the abstract, my speakers bio even with the question what I should wear. 
+
+I’m so grateful that I got the opportunity to go to ACCU conference and where it brought me.
