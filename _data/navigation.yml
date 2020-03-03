@@ -20,6 +20,7 @@ sidebar:
       - title: "What can I do?"
         url: /what-can-i-do/
   - title: Discord Server
+    url: /discord/
     children:
       - title: "Join Discord"
         url: https://discord.gg/ZPErMGW
