@@ -37,3 +37,6 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 |        ACCU 2019 |     [£ 1,644](https://www.gofundme.com/f/includecpp-diversity-conference-tickets) |       3       |
 |      CppCon 2019 | [US $ 4,694](https://www.gofundme.com/f/sponsoring-diverse-cppcon-2019-attendees) |       2       |
 | ACCU Autumn 2019 |                 [£ 438](https://www.gofundme.com/f/include-accu-autumn-conf-2019) |       1       |
+|-----------------:|----------------------------------------------------------------------------------:|:-------------:|
+|        **TOTAL** |                                                                                   |     **16**    |
+
