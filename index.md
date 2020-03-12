@@ -24,6 +24,8 @@ The moderation and administration team includes [Patricia Aas](https://twitter.c
 
 Everyone who supports our goals, whether a member of any under-represented groups or not, is welcome to participate in any way - see [What can I do?](/what-can-i-do/) Many of our leaders and contributors are allies and we are grateful for all they do. If you want C++ to be more welcoming and inclusive, you'll be welcomed and included.
 
+You can find out more from Sy Brand's DevRelCon London 2019 talk ["Lessons learned creating an inclusive space in a decades old community"](https://devrel.net/community/lessons-learned-creating-an-inclusive-space-in-a-decades-old-community).
+
 ## What do we do?
 
 We provide:
