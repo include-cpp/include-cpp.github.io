@@ -4,11 +4,13 @@ title: "#include ＜C++＞"
 toc: true
 ---
 
+<!--
 ## Current Funding Campaign
 
 We are currently fund-raising for scholarships to send people from under-represented groups to [ACCU 2020](https://conference.accu.org):
 
 * Please [donate through Go Fund Me](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)
+-->
 
 ## Who are we?
 
