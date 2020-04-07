@@ -2,8 +2,8 @@
 main:
   - title: "Twitter"
     url: https://twitter.com/include_cpp
-  - title: "GitHub"
-    url: https://github.com/include-cpp
+  - title: "Discord"
+    url: /discord/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
