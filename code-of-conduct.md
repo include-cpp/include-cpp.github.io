@@ -20,7 +20,7 @@ Expected Behaviour
 Unacceptable Behaviour
 ---------------------
 
-The following behaviours are unacceptable in all `#include <C++>` Discord channels, and in any physical or online events officially organised by its administrative team:
+The following behaviours are unacceptable in all `#include <C++>` [Discord channels](/discord/), and in any physical or online events officially organised by its administrative team:
 
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
@@ -38,10 +38,10 @@ Enforcement
 -----------
 
 - Understand that speech and actions have consequences, and unacceptable behaviour will not be tolerated.
-- If an issue occurs, please contact a moderator. On Discord their names are highlighted in blue or red.
-- If violations occur, organisers will take any action they deem appropriate for the infraction, up to and including expulsion.
+- If an issue occurs, please contact an Moderator or Administrator. On Discord their names are highlighted in blue or red.
+- If violations occur, Moderators or Administrators will take any action they deem appropriate for the infraction, up to and including expulsion.
 - There are [moderation guidelines]({{site.baseurl}}/moderation).
-  - If you believe that an administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
+  - If you believe that a Moderator or Administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
 
 Meta
 ----
