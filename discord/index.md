@@ -29,6 +29,7 @@ Things to note in the above screenshot:
 * Channels are shown in a sidebar (which you may have to open with a [hamburger menu button](https://en.wikipedia.org/wiki/Hamburger_button), if on a small screen).
 * Channels with a bold name have messages you haven't yet seen.
 * Channels with a non-bold name do not have any new messages.
+* Channels have a symbol in their name. The channels above are all public, and so have a globe in their names. 
 
 ## Managing Message Volume
 
@@ -44,6 +45,66 @@ Things to note in the above screenshot:
 * Channels are grouped by category, to keep like-with-like.
 * You can collapse categories, which hides all contained channels with no new messages, as shown below:
     * ![Selection of Discord Server Channels - Some Collapsed](/images/discord_server_channels_collapsed.png)
+
+## Roles
+
+### Overview of Roles
+
+If you are an experienced Discord user, you might be familiar with using Roles to describe yourself.
+
+Roles are also used to give particular users various permissions.
+
+People with specific roles have coloured names. You can click on a person to see all their roles.
+
+When users first join the server, they have no roles. In this broad section, we describe the ways that we use Roles here. 
+
+### Pronouns
+
+A very important use of roles on this server is for [pronouns](https://www.unf.edu/lgbtrc/Pronouns.aspx). Users join and leave pronoun roles themselves.
+
+![A user with she/her role](/images/discord_roles_she_her.png) 
+
+![A user with multiple pronoun roles](/images/discord_roles_multiple_pronouns.png)
+
+Usually on this server we talk *to* each other. Occasionally, we talk *about* someone: "**She** said **her** error was intermittent, though." If the person you are talking about has a coloured name, click on their avatar or their name, to see their roles and learn what pronouns to use. Guessing pronouns from names or avatars, or just assuming everyone is male, is not ok on this server.
+
+Most of our roles are solely to let others know your pronouns. You can add these yourself, by typing a command such as `?rank she/her`. To see all the pronouns use `?rank`.
+
+(We realise it is a little confusing to use a command called `rank` to set pronouns: Discord was originally used for gaming, and this is just the closest facility that was available to us, to implement this important capability.)
+
+These roles are for pronouns. If you’re unfamiliar with some of them they might be surprising, or even funny, but do not treat them as a joke. We take pronouns seriously in this Discord, as should everyone, given our [Code of Conduct](/code-of-conduct/). If you’re unable to be respectful with these pronouns, then you’re not respectful to our members and this Discord may not be a place for you. Using the pronouns properly shouldn’t be a hard thing to do.
+
+### Permissions
+
+Another thing we use roles for is to control access to some channels. If you don't have access to a channel, you won't see it in the list.
+
+You may see some users with non-pronoun roles. This section explains them.
+
+![A user with multiple permission roles](/images/discord_roles_multiple_levels.png)
+
+#### Established (Grey)
+
+From time to time, users who are active and participating are granted the Established role.
+
+Some channels that appear to be missing, such as #off-topic, are in fact restricted to Established users. These channels naturally lead to discussions that include your name, history, where you live now ... We don't want to lead people into those discussions in public, because we often all forget that parts of this server are very public. Those globe symbols on some channels are a reminder of this. Anyone can go to our web site and click the "Join Discord" link, and there are people on this planet who are not nice. We want to make sure everyone is protected without everyone having to constantly remember to protect themselves.
+
+These protected channels are restricted to Established users as a privacy mechanism - that's what the lock in the name reminds us of. Please don't share information from them elsewhere unless it's clearly public.
+
+In these channels, you might read about problems minorities have that you are not familiar with and want to know more about. Please keep in mind that people talking about these problems suffer from them and have to explain them on a daily basis. Be wary not to add to their burden and never contact them privately for more information about the matter unless they explicitly offered you to.
+
+#### Organisers (Purple)
+
+Channels used to actually run `#include <C++>` are restricted to Organiser members. Here we make plans for specific conferences and events, as well as our overall plans, work on this website, and so on. The Organiser role is offered to people who appear interested in it, or to those who need it to assist the group.
+
+#### Moderators (Blue)
+
+Moderators enforce our [Code of Conduct](/code-of-conduct/) according to our [Moderation guidelines](/moderation/). If you need to contact a Moderator, you can type `@moderators`, ideally in the channel where the problem is happening.
+
+Moderators can also create new channels. Suggestions for these go in #meta, please.
+
+#### Administrators (Red)
+
+Administrators can do everything, including go in every channel. They can be contacted with `@admins`.
 
 ## Other Information
 
