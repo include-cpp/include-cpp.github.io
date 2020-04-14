@@ -109,3 +109,11 @@ Administrators can do everything, including go in every channel. They can be con
 ## Other Information
 
 Note: we only have text channels, and we do not allow custom emojis.
+
+Many English speakers have a habit of addressing groups of people as "guys", saying things like "thanks guys" or "hello guys". While this may be intended as a gender neutral word, it doesn't feel that way to everyone. As a reminder, we have a bot, summoned by typing `!guys`, which says:
+
+> Many of this server's members are not guys; you may want to consider using more inclusive language (e.g. folks, everyone, or just dropping the word altogether)
+
+Occasionally, someone new to the server feels the need to get us to change this policy. We take it very seriously: this is an important part of the welcoming and inclusive culture of our community. For more information, see [Guys](/resources/equality_and_diversity/#guys) in our Resources section.
+
+---
