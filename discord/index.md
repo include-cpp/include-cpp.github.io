@@ -31,6 +31,12 @@ Things to note in the above screenshot:
 * Channels with a non-bold name do not have any new messages.
 * Channels have a symbol in their name. The channels above are all public, and so have a globe in their names. 
 
+## Direct Messages
+
+Discord provides a capability for sending private (direct) messages (DMs) to a single user. In most cases, requests for help or for more information belong in a channel, such as #cpp for C++ questions. Reserve DMs for conversations that can only be one on one, and understand that some users may prefer not to have such conversations. Remember also that some may be in a very different time zone from you.
+
+To send DMs, you either need to have a Discord server (such as `#include <C++>`) in common, or be Friends.
+
 ## Managing Message Volume
 
 ### Muting channels
