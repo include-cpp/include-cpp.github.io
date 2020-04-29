@@ -100,11 +100,11 @@ Channels used to actually run `#include <C++>` are restricted to Organiser membe
 
 Moderators enforce our [Code of Conduct](/code-of-conduct/) according to our [Moderation guidelines](/moderation/). If you need to contact a Moderator, you can type `@moderators`, ideally in the channel where the problem is happening.
 
-Moderators can also create new channels. Suggestions for these go in #meta, please.
-
 #### Administrators (Red)
 
 Administrators can do everything, including go in every channel. They can be contacted with `@admins`.
+
+Only Administrators can create new channels. You can make suggestions for new channels in #meta.
 
 ## Other Information
 
