@@ -8,6 +8,10 @@
     {
       "pattern": "^/",
       "replacement": "https://www.includecpp.org/"
+    },
+    {
+      "pattern": "^{{site.baseurl}}",
+      "replacement": "https://www.includecpp.org"
     }
-    ]
+  ]
 }
