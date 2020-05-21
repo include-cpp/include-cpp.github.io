@@ -4,19 +4,7 @@ title: Diversity Scholarships
 toc: true
 ---
 
-<!--
-## Current Funding Campaign
-
-We are currently fund-raising for [ACCU 2020](https://conference.accu.org):
-
-* Please [Donate here](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)
-
-Links for when C++ on Sea campaign is launched:
-
-https://www.gofundme.com/f/includecamp-c-on-sea-2020-scholarship-funding
-https://richardchandler590561.typeform.com/to/hRSPYk
-
--->
+{% include_relative current_funding_campaign.md %}
 
 ## COVID-19 Update
 
