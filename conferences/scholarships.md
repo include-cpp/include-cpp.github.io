@@ -53,3 +53,44 @@ I already met some #include people at the airport. And while I have no problem w
 I also got lots of help and really great advice on the `#include <C++>` discord server, like with the abstract, my speakers bio even with the question what I should wear. 
 
 I’m so grateful that I got the opportunity to go to ACCU conference and where it brought me.
+
+### ACCU Autumn 2019 Recipient
+
+I don't remember exactly where I heard of #include but at somepoint I joined
+the discord server and discussed stuff and got pointed to the scholarship, applied
+and got selected to go to the autumn conference.
+
+I decided to get there via the train+coach/ferry route (12 hours each way) due to the 
+potential for harassment from airport security (I'm trans/nonbinary and very visibly so, 
+amongst other things that affect my external behaviour to be "atypical") and lack of 
+gender-congruent ID, and it was all paid-for which I am very happy about and grateful 
+for and the organisers had no trouble helping me using the coach instead of the 
+aeroplanes. 
+
+After getting to the airport (since coaches stop there) I met with the two people
+who did the organising and also could be there, and we had some pretty nice food and a chat -
+(they were lovely), watched the intro talk, and then I went to my room (also all 
+paid for) - not having to worry about preparing and the potential cost of food was 
+a very nice part of the conference.
+
+The talks were very interesting and I talked with one of the people who helped
+develop tools for easier use of SFINAE, and the whole conference was extremely 
+useful for meeting people in the community, gaining some friends and/or contacts, 
+and learning tons about how the standards process and improvement of language features 
+goes down - and made at least one suggestion, being able to have even a small 
+amount of input to the community was interesting, and I have always wanted 
+to be able to go to one of these conferences (I listen to a lot of talks on the
+internet).
+
+This also improved my understanding of the surrounding ecosystem - different
+libraries and the people who create them and how people learn about them, 
+various branches of development of the ecosystem and what kinds of future
+research is going to be happening, and, again, just the general process.
+
+And the #include organisers made sure I didn't get completely intimidated 
+or lost or horribly anxious due to the number of people or anything like that, 
+and were friendly to me and helped me navigate the whole event, and we got 
+some meals in a more quiet environment and talked, which was exceptionally nice.
+
+Thanks to the organisers and to all the lovely people who funded me going to 
+the conference, it was a wonderful experience.
