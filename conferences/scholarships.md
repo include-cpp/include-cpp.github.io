@@ -6,24 +6,6 @@ toc: true
 
 {% include_relative current_funding_campaign.md %}
 
-## COVID-19 Update
-
-Many conferences have been cancelled or postponed. See [C++ Events Affected By Coronavirus](https://www.reddit.com/r/cpp/comments/fidita/c_events_affected_by_coronavirus/).
-
-We have no active scholarship campaigns: we will resume when things become more certain.
-
-### ACCU 2020
-
-Unfortunately ACCU 2020 has [been cancelled](https://conference.accu.org/news/2020/202003121205_accu2020cancelled.html).
-
-We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward to next year where possible.
-
-### C++ on Sea
-
-C++ on Sea is paused: see [2020 Conference Rethink](https://cpponsea.uk/news/2020-conference-rethink.html).
-
-We will publicise our fund-raising and applications when we know when and where the event will take place.
-
 ## Introduction
 
 The goal of `#include <C++>` is to help make the C++ community more inclusive. Our diversity scholarships send people to major conferences and include conference admission (provided for free or at an enormous discount by the conference), accommodation and travel, as well as access to events like speaker dinners.
@@ -52,9 +34,11 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 |        ACCU 2019 |     [£ 1,644](https://www.gofundme.com/f/includecpp-diversity-conference-tickets) |       3       |
 |      CppCon 2019 | [US $ 4,694](https://www.gofundme.com/f/sponsoring-diverse-cppcon-2019-attendees) |       2       |
 | ACCU Autumn 2019 |                 [£ 438](https://www.gofundme.com/f/include-accu-autumn-conf-2019) |       1       |
-|        ACCU 2020 |                 [£ 1,635](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)<br> [_Funds rolled over_](#covid-19-update) |       -       |
+|        ACCU 2020 |                 [£ 1,635](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)<br> _See below_ |       -       |
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
 |        **TOTAL** |                                                                                   |     **16**    |
+
+Unfortunately ACCU 2020 [was cancelled](https://conference.accu.org/news/2020/202003121205_accu2020cancelled.html). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward to next year where possible.
 
 ## Scholar Testimonials
 
