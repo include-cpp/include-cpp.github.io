@@ -1,3 +1,5 @@
+<!-- NOTE Please comment out unwanted text when we are not fundraising, so it is easy to add the next fundraiser - thanks. -->
+
 ## Current Funding Campaign
 
 We are currently organising scholarships to send people from under-represented groups to [C++ On Sea 2020 online](https://cpponsea.uk):
