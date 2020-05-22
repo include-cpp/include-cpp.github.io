@@ -94,7 +94,6 @@ title: Equality and Diversity
   * ILookLikeAnEngineer (2015-08-04)
 	  * [#ILookLikeAnEngineer](http://ilooklikeanengineer.net/)
 	  * [Search Twitter - #ILookLikeAnEngineer](https://mobile.twitter.com/search?q=%23ILookLikeAnEngineer)
-  * [#RealDiversityNumbers (with tweets) · EricaJoy · Storify](https://storify.com/EricaJoy/realdiversitynumbers)
   * [Monica Rogati on Twitter:](https://twitter.com/mrogati/status/665962306694615040) "The Bechdel test for tech conferences: 1) two women speaking 2) on the same panel 3) not about women in tech."
 
 ## Racism and White Privilege
