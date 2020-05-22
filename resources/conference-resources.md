@@ -12,7 +12,7 @@ title: Conference Resources
 * [Some notes on codes of conduct from a conference organizer's perspective - Jez Humble](https://gist.github.com/jezhumble/47aebaa31ba7cf67e2b8)
 * [Speaking: hypatia dot ca](http://hypatia.ca/speaking/)
 * [Four Interactions That Could Have Gone Better - Bridget Kromhout](http://bridgetkromhout.com/blog/2014/09/22/four-interactions-that-could-have-gone-better/)
-* [Where are all the women?: Girls in Tech London](http://girlsintechuk.com/2014/11/12/where-are-all-the-women/)
+* [Where are all the women?: DevelopHer](https://developher.org/2014/11/12/where-are-all-the-women/)
 * [How do I get more women to speak at my conference?](http://www.annashipman.co.uk/jfdi/how-to-get-women-speakers.html) - Anna Shipman - December 2014
 * [My questions for event organizers &#8212; Unstoppable Robot Ninja](http://unstoppablerobotninja.com/entry/my-questions-for-event-organizers/)
 * [In Defence of Diversity Measures — The Microchicks — Medium](https://medium.com/the-microchicks/in-defence-of-diversity-measures-48e4702b1dbd)
