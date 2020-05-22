@@ -179,10 +179,12 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - mlc_config.json
   - node_modules
   - package.json
   - Rakefile
   - README
+  - scripts/
   - template-page.md
   - tmp
   - /docs # ignore Minimal Mistakes /docs
