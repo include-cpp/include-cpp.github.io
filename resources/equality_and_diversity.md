@@ -68,7 +68,7 @@ title: Equality and Diversity
 * [Software Engineering Made a Woman Outta Me — Medium](https://medium.com/p/e60c10d3ed1f)
 * [Janet Van Huysse Discusses Twitter's Women in Engineering (WomEng) Group - YouTube](http://m.youtube.com/watch?v=iPo0KLQ4Ihg&list=PL8k-xHP7bhnKHc5qJeH5YCdfqgJFiYT2N&index=6)
 * [Where women don’t belong: 2 strategies you and I both use to keep women out of science](http://curt-rice.com/2014/03/18/where-women-dont-belong-2-strategies-you-and-i-both-use-to-keep-women-out-of-science/)
-* [A Rant About Women - Clay Shirky](http://www.shirky.com/weblog/2010/01/a-rant-about-women/) - very interesting article about women not promoting their achievements
+* [A Rant About Women - Clay Shirky - via Internet Archive](https://web.archive.org/web/20190925074806/http://www.shirky.com/weblog/2010/01/a-rant-about-women/) - very interesting article about women not promoting their achievements
 * [Hiring and Retaining Women in Tech — Women In Tech — Medium](https://medium.com/women-in-tech/1bdd0ea910)
 * [How one college went from 10% female computer-science majors to 40% – Quartz](http://qz.com/192071/how-one-college-went-from-10-female-computer-science-majors-to-40/)
 * [CTO to Women in IT: You Are Not Weird](http://women2.com/cto-women-weird/)
