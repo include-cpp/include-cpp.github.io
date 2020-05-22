@@ -36,7 +36,7 @@ title: Other Organisations
 * [/dev/color](https://www.devcolor.org/)
   * Runs a program to help black software engineers grow into industry leaders.
   * US based
-* [Moms Can: Code](https://www.momscancode.com/)
+* [Moms Can & Co](https://www.momscan.co/)
   * Supports moms interested in learning how to code by offering opportunities to connect with other moms, learning resources, and real life inspiration.
   * US based
 * [Tech While Black](https://techwhileblack.com/)
