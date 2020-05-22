@@ -53,4 +53,4 @@ Meta
 - We welcome [pull requests](https://github.com/include-cpp/include-cpp.github.io).
 - Suggestions, questions, or comments can be made directly to administrators, or discussed on the `#meta` channel.
 
-Derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and [Citizen Code of Conduct](http://citizencodeofconduct.org/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+Derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
