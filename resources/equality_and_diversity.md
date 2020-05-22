@@ -127,7 +127,7 @@ title: Equality and Diversity
 	* NB reference to analysing company documents to detect bias
 * [Etsy’s Trying to Fix Tech’s Women Problem. Why Aren’t You? — Matter — Medium](https://medium.com/matter/this-is-the-last-thing-youll-ever-need-to-read-about-sexism-in-tech-56b9a3a77af0)
 * [How Unconscious Bias Affects Everything You Do:  Fast Company:  Business + Innovation](http://www.fastcompany.com/3037359/strong-female-lead/how-unconscious-bias-affects-everything-you-do)
-* [On Breaking out of Echo Chambers:  beerops](http://beero.ps/2015/03/03/on-breaking-out-of-echo-chambers/)
+* [On Breaking out of Echo Chambers:  beerops - via Internet Archive](https://web.archive.org/web/20160204010047/http://beero.ps/2015/03/03/on-breaking-out-of-echo-chambers/)
 * [Bytemark is hiring, by anonymous interview: ](https://blog.bytemark.co.uk/2015/05/20/bytemark-is-hiring-by-anonymous-interview)
 * [How We Talk About Diversity at Stack Overflow – Stack Overflow Blog – A destination for all things related to development at Stack Overflow](http://blog.stackoverflow.com/2015/11/How-We-Talk-About-Diversity-at-Stack-Overflow/)
 * [Rapid Prototyping Diversity — Medium](https://medium.com/@yvonnehutchinson/rapid-prototyping-diversity-73369b308b29#.eksjwvk7z)
