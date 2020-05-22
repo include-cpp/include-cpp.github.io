@@ -22,4 +22,4 @@ Moderators will use their judgement to decide how to respond to a violation to t
 - In other cases it may be better to contact the person or people responsible for the violation privately. This action should be left to moderators only.
 - In cases of obvious, flagrant violations, moderators will remove the post immediately, and bring the issue to the attention of the private #admins channel.
 
-Derived from the [GoBridge Addendum](https://github.com/gobridge/CodeOfConduct) to the Go Code of Conduct.
+Derived from the [GoBridge Addendum](https://github.com/gobridge/about-us/blob/master/coc.md) to the Go Code of Conduct.
