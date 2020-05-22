@@ -10,7 +10,7 @@ title: Recruitment
 * [How to hire](http://blog.samaltman.com/how-to-hire)
 * [This is why you never end up hiring good developers – Quartz](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 * [The Moneyball Approach to Building a Software Team: Moz Developer Blog](http://devblog.moz.com/2014/09/the-moneyball-approach-to-building-a-software-team/)
-* [How to Find, Hire, and Retain Developers – Interview with Cal Evans - Fog Creek Blog](http://blog.fogcreek.com/how-to-find-hire-and-retain-developers-interview-with-cal-evans/)
+* [How to Find, Hire, and Retain Developers – Interview with Cal Evans - Fog Creek Blog - via Internet Archive](https://web.archive.org/web/20170321112922/http://blog.fogcreek.com/how-to-find-hire-and-retain-developers-interview-with-cal-evans/)
 * [How to Recruit – Rands in Repose](http://randsinrepose.com/archives/how-to-recruit/)
 
 
