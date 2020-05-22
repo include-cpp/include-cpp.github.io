@@ -38,7 +38,7 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
 |        **TOTAL** |                                                                                   |     **16**    |
 
-Unfortunately ACCU 2020 [was cancelled](https://conference.accu.org/news/2020/202003121205_accu2020cancelled.html). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward to next year where possible.
+Unfortunately ACCU 2020 [was cancelled](https://conference.accu.org/news/202003121205_accu2020cancelled). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward to next year where possible.
 
 ## Scholar Testimonials
 
