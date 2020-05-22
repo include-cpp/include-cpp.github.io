@@ -36,7 +36,7 @@ title: Conference Resources
 
 ## Codes of Conduct
 
-* [Code Of Conduct « PIPELINE](http://web.pipelineconf.info/about/code-of-conduct/)
+* [Code Of Conduct « PIPELINE](https://pipelineconf.info/about/code-of-conduct/)
 * [Conference anti-harassment/Policy - Geek Feminism Wiki - Wikia](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [Code of Conduct - LeanAgileScotland](http://leanagile.scot/code-of-conduct/)
 * [Yow Our Policies: YOW!](http://yowconference.com.au/policies/)
