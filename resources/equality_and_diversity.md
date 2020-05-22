@@ -109,7 +109,8 @@ title: Equality and Diversity
 
 ## Good Examples
 
-* [David Haney on Twitter:](https://twitter.com/haneycodes/status/644572026502385664) "I'm still jazzed about our new diversity page at [@StackOverflow](https://twitter.com/StackOverflow) - check it out! http://stackexchange.com/diversity"
+* [David Haney on Twitter:](https://twitter.com/haneycodes/status/644572026502385664) "I'm still jazzed about our new diversity page at [@StackOverflow](https://twitter.com/StackOverflow) - check it out!"
+    * Update 2020-05-22: The page in the tweet no longer exists. It's available via the Internet Archive: [https://web.archive.org/web/20150920020050/http://stackexchange.com/diversity](https://web.archive.org/web/20150920020050/http://stackexchange.com/diversity)
 
 ## Improving diversity
 
