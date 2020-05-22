@@ -152,7 +152,7 @@ title: Equality and Diversity
 ## Online abuse
 
 * [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
-* [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](crashoverridenetwork.com)"
+* [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](http://crashoverridenetwork.com)"
 
 ## GoogleBro - Google Memo August 2017 - James Damore
 
