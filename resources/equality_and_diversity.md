@@ -147,12 +147,12 @@ title: Equality and Diversity
 
 ## Inequality of Pay
 
-* [The gender pay gap for women in the U.S. - Narrow the Gapp](http://narrowthegapp.com/)
+* [The gender pay gap for women in the U.S. - Narrow the Gapp](https://narrowthegap.co/)
 
 ## Online abuse
 
 * [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
-* [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: http://t.co/qCJCVzH1W8"
+* [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](crashoverridenetwork.com)"
 
 ## GoogleBro - Google Memo August 2017 - James Damore
 
