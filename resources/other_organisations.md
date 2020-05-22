@@ -21,8 +21,9 @@ title: Other Organisations
 * [Black Girls Code](http://www.blackgirlscode.com/)
   * Aims to increase the number of women of colour in the digital space by empowering girls from 7 to 17.
   * US based
-* [C4Q](https://www.c4q.nyc/)
+* [Pursuit](https://www.pursuit.org)
   * A program for teaching coding and professional skills to adults from diverse and low-income backgrounds
+  * "We train adults with the most need and potential to get hired in tech, advance in their careers, and become the next generation of leaders in tech."
   * US based
 * [Code2040](http://www.code2040.org/)
   * An organisation that creates access, awareness, and opportunities for top Black and Latinx engineering talent to ensure their leadership in the innovation economy.
