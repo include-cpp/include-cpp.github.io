@@ -165,6 +165,7 @@ exclude:
   - vendor
   - .asset-cache
   - .bundle
+  - .github
   - .idea
   - .jekyll-assets-cache
   - .sass-cache
