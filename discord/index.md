@@ -124,6 +124,6 @@ Occasionally, someone new to the server feels the need to get us to change this 
 
 On the rare occasions it's needed, we can express this with another bot, summoned by typing `!guys2`, which says:
 
-> We know you didn't intend any offense, and changing the way you use the word "guys" may be difficult, but please trust that we have done our due diligence on it and we will not change our policy. This is an important part of the welcoming and inclusive culture of our community. For more information, see "guys" in our Resources section: https://www.includecpp.org/resources/equality_and_diversity/#guys
+> We know you didn't intend any offense, and changing the way you use the word "guys" may be difficult, but please trust that we have done our due diligence on it and we will not change our policy. This is an important part of the welcoming and inclusive culture of our community. For more information, see "guys" in our Resources section: [https://www.includecpp.org/resources/equality_and_diversity/#guys](/resources/equality_and_diversity/#guys)
 
 ---
