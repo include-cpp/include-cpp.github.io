@@ -120,6 +120,10 @@ Many English speakers have a habit of addressing groups of people as "guys", say
 
 > Many of this server's members are not guys; you may want to consider using more inclusive language (e.g. folks, everyone, or just dropping the word altogether)
 
-Occasionally, someone new to the server feels the need to get us to change this policy. We take it very seriously: this is an important part of the welcoming and inclusive culture of our community. For more information, see [Guys](/resources/equality_and_diversity/#guys) in our Resources section.
+Occasionally, someone new to the server feels the need to get us to change this policy. We take it very seriously: this is an important part of the welcoming and inclusive culture of our community.
+
+On the rare occasions it's needed, we can express this with another bot, summoned by typing `!guys2`, which says:
+
+> We know you didn't intend any offense, and changing the way you use the word "guys" may be difficult, but please trust that we have done our due diligence on it and we will not change our policy. This is an important part of the welcoming and inclusive culture of our community. For more information, see "guys" in our Resources section: https://www.includecpp.org/resources/equality_and_diversity/#guys
 
 ---
