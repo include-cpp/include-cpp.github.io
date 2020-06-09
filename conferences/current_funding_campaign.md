@@ -6,7 +6,7 @@ These campaigns are under way.
 
 ### CppEurope: 23 June
 
-We are currently organising scholarships to send people from under-represented groups to [CppEurope](https://cppeurope.com):
+We are currently organising scholarships to send people from under-represented groups to [CppEurope online](https://cppeurope.com):
 
 * You can [apply for a CppEurope scholarship](https://claremacrae547546.typeform.com/to/hCrVSM)
     * The conference has kindly donated 6 free tickets
