@@ -153,19 +153,3 @@ title: Equality and Diversity
 
 * [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
 * [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](http://crashoverridenetwork.com)"
-
-## GoogleBro - Google Memo August 2017 - James Damore
-
-* [What do scientists think about the biological claims made in the Google memo?](https://www.quora.com/What-do-scientists-think-about-the-biological-claims-made-in-the-anti-diversity-document-written-by-a-Google-employee-in-August-2017/answer/Suzanne-Sadedin?share=13d40fd1&srid=Q)
-* [always a good day to re-bring up this research: girls score higher than boys in math if tests are graded w/o names ](https://mobile.twitter.com/sailorhg/status/895209730401902593) - [NY Times article](https://www.nytimes.com/2015/02/07/upshot/how-elementary-school-teachers-biases-can-discourage-girls-from-math-and-science.html?_r=1)
-* [Google town hall meeting canceled after days of online harassment - The Verge](https://www.theverge.com/2017/8/10/16128518/google-town-hall-meeting-canceled-online-harassment)
-* [I’m a Google Manufacturing Robot and I Believe Humans Are Biologically Unfit to Have Jobs in Tech - McSweeney’s Internet Tendency](https://www.mcsweeneys.net/articles/im-a-google-manufacturing-robot-and-i-believe-humans-are-biologically-unfit-to-have-jobs-in-tech)
-* [I'm a woman in computer science. Let me ladysplain the Google memo to you. - Vox](https://www.vox.com/the-big-idea/2017/8/11/16130452/google-memo-women-tech-biology-sexism)
-* [Why Men Don’t Believe the Data on Gender Bias in Science:  WIRED](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/)
-* [Science doesn’t explain tech’s diversity problem — history does - The Verge](https://www.theverge.com/2017/8/16/16153740/tech-diversity-problem-science-history-explainer-inequality)
-
-## NY Times Article - Sep 2017
-
-* [Push for Gender Equality in Tech? Some Men Say It’s Gone Too Far - The New York Times](https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html)
-* [@Katey Alatalo](https://mobile.twitter.com/astrokatey/status/911686351673626624): This article has made me super angry. Do you want to know what it is like trying to be a woman in a scientific space? Let me tell you. 1/
-
