@@ -98,8 +98,10 @@ title: Equality and Diversity
 
 ## Racism and White Privilege
 
-*  [What I Said When My White Friend Asked for My Black Opinion on White Privilege:  On Being](https://onbeing.org/blog/what-i-said-when-my-white-friend-asked-for-my-black-opinion-on-white-privilege/)
-
+* [What I Said When My White Friend Asked for My Black Opinion on White Privilege:  On Being](https://onbeing.org/blog/what-i-said-when-my-white-friend-asked-for-my-black-opinion-on-white-privilege/)
+* [Anti-racism resources](http://bit.ly/ANTIRACISMRESOURCES) by Sarah Sophie Flicker, Alyssa Klein
+* [Holy shit, being an ally isn’t about me!](https://medium.com/@realtalkwocandallies/holy-shit-being-an-ally-isnt-about-me-ae2de5c47514) by Real Talk: WOC & Allies
+* [Becoming Upended: Teaching and Learning about Race and Racism with Young Children and Their Families](https://www.naeyc.org/resources/pubs/yc/may2018/teaching-learning-race-and-racism) by Kirsten Cole, Diandra Verwayne
 
 ## Advice
 
