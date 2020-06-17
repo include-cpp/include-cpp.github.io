@@ -4,14 +4,7 @@
 
 These campaigns are under way.
 
-### CppEurope: 23 June
-
-We are currently organising scholarships to send people from under-represented groups to [CppEurope online](https://cppeurope.com):
-
-* You can [apply for a CppEurope scholarship](https://claremacrae547546.typeform.com/to/hCrVSM)
-    * The conference has kindly donated 6 free tickets
-    * As this is an online conference, there will be no further costs for those receiving these free tickets
-    
+   
 ### C++ on Sea: 15 - 17 July
 
 We are currently organising scholarships to send people from under-represented groups to [C++ On Sea 2020 online](https://cpponsea.uk):
