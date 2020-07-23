@@ -39,8 +39,9 @@ Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee,
 | **2020**         | &nbsp;                                                                            | &nbsp;        |
 |        ACCU 2020 |                 [£ 1,635](https://www.gofundme.com/f/include-scholarships-for-accu-spring-2020)<br> _See below_ |       -       |
 | CppEurope 4 2020 |                 *Tickets donated by the conference*                               |       4       |
+|  C++ on Sea 2020 |                 *Tickets donated by the conference*                               |       4       |
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
-|        **TOTAL** |                                                                                   |     **20**    |
+|        **TOTAL** |                                                                                   |     **24**    |
 
 Unfortunately ACCU 2020 [was cancelled](https://conference.accu.org/news/202003121205_accu2020cancelled). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward to next year where possible.
 
