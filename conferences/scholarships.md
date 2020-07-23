@@ -24,6 +24,32 @@ The applications will be treated as confidential and go to a small selection com
 
 Travel and lodging expenses can cost between $1,000 and $3,000 USD per attendee, depending on where the candidate is and the accommodations they need.
 
+## Tips for Scholarship Applicants
+
+If you want to apply for one of #include <C++>’s scholarships to a conference, it might help to know a little about our selection process. Each program has its own selection group, and they may all work slightly differently, but these general guidelines should be helpful. We want to send people who wouldn’t otherwise be able to go, and we want them to get the most out of the conference that they can.
+
+First, you should know that the selection group do not see your real name or email address. (One person, typically the one who sets up the form, creates a list of all the applicants with identifiers like A, B, and C along with their respective answer to the 'why should we choose you' type question on the form.) This means they will be completely unaware of some things you might expect to be obvious, like your gender (guessed from preferred name), or that you are a student (guessed from email address). 
+
+Second, even if you provide your location, the selection committee selects without consideration like “that person is so far away, we could send two local people for the price of bringing that one” or “we’re going to have to help that one get a visa.” To the extent your location is considered, it is “yes, people from that country rarely get to attend this conference.” Please don’t leave out information because you think it will count against you.  
+
+Roughly speaking we ask ourselves:
+  * Why does this person need our help? Are you a student, or new to the industry? Does your employer send anyone to conferences? Why can’t you arrange your own attendance?
+  * How will sending this person help anyone else?
+  * How much effort has the person put into their application? Do you know when and where it is, how long it will take you to travel there, and why you want to go to this particular conference?
+  * To what extent would sending this person increase the diversity at the conference?
+
+Your answers should have enough detail that we can answer all those questions in a way that shows you are a great candidate for the scholarship.
+
+We don’t want to ask rigid questions like “What is your gender? What is your sexual orientation? Do you have children? Are you physically disabled? Have you been to a conference before? Are you employed? What is your current salary? What is the average salary where you live? Do you run a usergroup? Have you ever spoken at a Meetup? ” and on and on because we feel these questions are invasive and insensitive. Yet we need you to tell us why you are the candidate we should pick.
+
+When you’re applying, start by asking yourself if you are a member of an under-represented group in our industry. Perhaps you’re a woman, for example, or a racial minority, or from a place few conference attendees live. Tell us that in your application. If you’re a member of several under-represented groups, mention as many as you like. We don’t need a page about how awful your life is and how everyone around you is mean: just let us know you’re under-represented in some way. 
+
+Next, let us know what it will mean to you to attend the conference. What is your reason for wanting to go and for investing your own time in attending? Is there a particular topic you want to learn more about? A particular speaker you want to hear? A particular conference event you have heard was very good? Do you know someone who has been to this conference before, and what have you heard about it from that person? Have you been waiting for a chance to attend this particular conference out of all the C++ conferences each year, and if so, why? https://isocpp.org/wiki/faq/conferences-worldwide  Show us you know what you’re asking for and what it means to you.
+
+Finally, let us know how sending you will change things for other people as well. Are you going to do some internal presentations where you work? Speak at a local usergroup? Write a blog entry? Tweet extensively from the conference? Tell your classmates, your students if you’re a teacher, your fellow club-members or user group members, your colleagues? Feel free to include links for your local group, times you have spoken that were recorded, your blog, your twitter, and so on. The person who handles the applications will remove these links (which could identify you) but can use them to confirm that you do blog, speak, tweet or in some other way share what you learn about C++ already, and to confirm things like “I have 1000 followers on Twitter” or “I lead a usergroup that meets every month”.
+
+The ideal candidate is someone who would truly benefit from coming to a conference, meeting other attendees and speakers, and being immersed in C++ information for a period of many days. Someone who would benefit from getting introduced to speakers and other attendees, and spending time with other developers while on site. Someone who would not be able to attend without the scholarship, and who will share what they learn with other people. Many of our scholarship attendees have learned so much that their employers send them (and their colleagues) to future conferences, having seen the benefit. Others end up becoming speakers (who are sponsored by the conference to travel and speak.) We don’t demand that you do the same, and we certainly don’t ask it of you before even applying, but show us that you understand this is what might happen after your time at the conference. It can truly change your life: show us you are ready for that.
+
 ## Past Fundraisers
 
 | Conference       |                                                                      Funds Raised | Scholars Sent |
