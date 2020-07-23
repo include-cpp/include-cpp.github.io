@@ -17,5 +17,5 @@ We are currently organising scholarships to send people from under-represented g
 * You can [apply for a CppCon scholarship](https://claremacrae547546.typeform.com/to/kPmmXuPB)
     * The conference has kindly offered a batch of tickets at a reduced price, which will be covered by past donations to `#include <C++>` 
     * As this is an online conference, there will be no further costs for those receiving these tickets
-    * Our [tips for Scholarship Applicants](/scholarships/#tips-for-scholarship-applicants) will help you apply
+    * Our [tips for Scholarship Applicants](/conferences/scholarships/#tips-for-scholarship-applicants) will help you apply
 
