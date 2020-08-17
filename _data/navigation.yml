@@ -46,18 +46,7 @@ sidebar:
         url: https://shop.spreadshirt.com/includecpp
       - title: "European store"
         url: https://shop.spreadshirt.net/includecpp
-  - title: "Resources - Old"
-    url: /resources/
-    children:
-      - title: Conference Resources
-        url: /resources/conference-resources/
-      - title: Equality and Diversity
-        url: /resources/equality_and_diversity/
-      - title: Other Organisations
-        url: /resources/other_organisations/
-      - title: Recruitment
-        url: /resources/recruitment/
-  - title: "Resources - New"
+  - title: "Resources"
     url: /resources/
     children:
       - title: Language
