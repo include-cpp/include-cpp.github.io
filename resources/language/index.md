@@ -1,5 +1,6 @@
 ---
 layout: home
+toc: true
 title: Language
 ---
 
