@@ -7,15 +7,15 @@ title: Language
 
 * [Gender-neutral Technical Writing: TechWhirl](https://techwhirl.com/gender-neutral-technical-writing/)
 
-## Inclusion vs Diversity  
-  
-### Bringing people vs keeping them where they are  
-  
-## Equality  
-  
-## Micro-agressions  
-  
-## Unconscious and implicit bias  
+## Inclusion vs Diversity
+
+### Bringing people vs keeping them where they are
+
+## Equality
+
+## Micro-agressions
+
+## Unconscious and implicit bias
 
 * [Managing unconscious bias -- Facebook](https://managingbias.fb.com/)
   * A series of videos on recognising unconscious biases which you have and suggestions on how to counter them.
@@ -39,7 +39,7 @@ title: Language
 * [/Fay-lee-nuh/ on Twitter:](https://twitter.com/Felienne/status/799604057577050113) "Tweeps! I managed to convince my department that we need implicit bias training. Who do I bring in for this? Half a day, in Delft, paid."
 
 
-## Privilege  
+## Privilege
 
 * [Straight White Male: The Lowest Difficulty Setting There Is – Whatever](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/)
 
@@ -50,15 +50,15 @@ title: Language
 * [Holy shit, being an ally isn’t about me!](https://medium.com/@realtalkwocandallies/holy-shit-being-an-ally-isnt-about-me-ae2de5c47514) by Real Talk: WOC & Allies
 * [Becoming Upended: Teaching and Learning about Race and Racism with Young Children and Their Families](https://www.naeyc.org/resources/pubs/yc/may2018/teaching-learning-race-and-racism) by Kirsten Cole, Diandra Verwayne
 
-## History  
-  
-## Pronouns  
-  
-### They  
-  
-### Neo-pronouns  
-  
-## Guys  
+## History
+
+## Pronouns
+
+### They
+
+### Neo-pronouns
+
+## Guys
 
 * [Kate Gregory: Thoughts about "guys"](http://www.gregcons.com/KateBlog/ThoughtsAboutGuys.aspx)
 * [When is "guys" gender neutral? I did a survey! - Julia Evans](http://jvns.ca/blog/2013/12/27/guys-guys-guys/)
@@ -76,16 +76,16 @@ title: Language
 * [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
 
 
-## Glossary  
-  
-### Gaslighting  
-  
-### Mansplaining  
+## Glossary
+
+### Gaslighting
+
+### Mansplaining
 
 * [Mansplaining - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/Mansplaining)
 * [What Is Mansplaining? The Origins (And Misuse) of the Term](http://www.makeuseof.com/tag/mansplaining-origins-misuse-term/)
 
-### Sealioning  
-  
-### Tone-policing  
-  
+### Sealioning
+
+### Tone-policing
+
