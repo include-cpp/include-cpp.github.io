@@ -16,6 +16,8 @@ For example, CppCon and C++ on Sea have demonstrated the value of many of these 
 * Gender-neutral bathrooms
 * Child care
 
+We have collected a lot of [links and other resources](/resources/domains/conferences/) that are helpful to anyone running a conference.
+
 <!--
 
 * A variety of formats: keynotes and breakouts, but also panels, lightning talks, receptions, parties, games and quizzes, exhibition hall, poster presentations, podcasts being recorded on site with a live audience, silly things like powerpoint karaoke, tours and field trips, workshops, open sessions in soft spaces like couches and coffee tables instead of conference rooms
@@ -24,4 +26,3 @@ For example, CppCon and C++ on Sea have demonstrated the value of many of these 
 
 -->
 
-See also [Alex WL Chan's excellent site](https://alexwlchan.net/ideas-for-inclusive-events/short-version/) for conference organisers.
