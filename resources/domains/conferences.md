@@ -4,6 +4,8 @@ toc: true
 title: Conferences
 ---
 
+<!-- todo redirect * [Conference Resources](/resources/conference-resources/) to here -->
+
 ## Introduction
 
 Conferences are important to many members of `#include <C++>` - we attend, speak at, and help to run many of the largest C++ [Conferences and Events](/conferences/).
