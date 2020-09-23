@@ -8,13 +8,13 @@ title: Language
 
 * [Gender-neutral Technical Writing: TechWhirl](https://techwhirl.com/gender-neutral-technical-writing/)
 
-## Inclusion vs Diversity
+<!-- ## Inclusion vs Diversity -->
 
-### Bringing people vs keeping them where they are
+<!-- ### Bringing people vs keeping them where they are -->
 
-## Equality
+<!-- ## Equality -->
 
-## Micro-agressions
+<!-- ## Micro-agressions -->
 
 ## Unconscious and implicit bias
 
@@ -51,13 +51,13 @@ title: Language
 * [Holy shit, being an ally isn’t about me!](https://medium.com/@realtalkwocandallies/holy-shit-being-an-ally-isnt-about-me-ae2de5c47514) by Real Talk: WOC & Allies
 * [Becoming Upended: Teaching and Learning about Race and Racism with Young Children and Their Families](https://www.naeyc.org/resources/pubs/yc/may2018/teaching-learning-race-and-racism) by Kirsten Cole, Diandra Verwayne
 
-## History
+<!-- ## History -->
 
-## Pronouns
+<!-- ## Pronouns -->
 
-### They
+<!-- ### They -->
 
-### Neo-pronouns
+<!-- ### Neo-pronouns -->
 
 ## Guys
 
@@ -79,14 +79,14 @@ title: Language
 
 ## Glossary
 
-### Gaslighting
+<!-- ### Gaslighting -->
 
 ### Mansplaining
 
 * [Mansplaining - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/Mansplaining)
 * [What Is Mansplaining? The Origins (And Misuse) of the Term](http://www.makeuseof.com/tag/mansplaining-origins-misuse-term/)
 
-### Sealioning
+<!-- ### Sealioning -->
 
-### Tone-policing
+<!-- ### Tone-policing -->
 
