@@ -4,7 +4,7 @@ title: Resources
 ---
 
 * [Language](/resources/language/)
-* [Discriminations](/resources/discriminations/)
+<!-- * [Discriminations](/resources/discriminations/) -->
 * [Domains](/resources/domains/)
 * [References](/resources/references/)
 * [Articles](/resources/articles/)

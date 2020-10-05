@@ -51,8 +51,8 @@ sidebar:
     children:
       - title: Language
         url: /resources/language/
-      - title: Discriminations
-        url: /resources/discriminations/
+#      - title: Discriminations
+#        url: /resources/discriminations/
       - title: Domains
         url: /resources/domains/
       - title: References
