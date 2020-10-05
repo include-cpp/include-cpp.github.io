@@ -19,6 +19,8 @@ title: References and Links
 * [Kate Gregory's training videos on PluralSight](https://www.pluralsight.com/authors/kate-gregory)
     * Members of [our Discord server](/discord/) can send a private message to Kate for a trial code to access these courses.
 * Bjarne Stroustrup's [The C++ Programming Language (4th Edition)](https://www.stroustrup.com/4th.html)
+* [cppreference](https://en.cppreference.com/w/)
+    * Not a learning resource but the most reliable and complete reference for syntax, libraries, and more.
 
 ## Organisations
 
