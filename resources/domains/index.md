@@ -4,5 +4,5 @@ title: Domains
 ---
 
 * [Conferences](conferences/)
-* [Education](education/)
+<!-- * [Education](education/) -->
 * [Jobs](jobs/)
