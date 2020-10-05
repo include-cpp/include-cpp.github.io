@@ -3,11 +3,11 @@ layout: home
 title: References and Links
 ---
 
-## Twitter Lists and Accounts
+<!-- ## Twitter Lists and Accounts -->
 
-## Reading Material
+<!-- ## Reading Material -->
 
-## PodCasts and YouTube channels
+<!-- ## PodCasts and YouTube channels -->
 
 ## C++ Language Resources
 
