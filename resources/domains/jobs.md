@@ -31,5 +31,5 @@ title: Jobs
 
 ### Side Projects
 
-* [Sarah Mei: "if you do write code outside work, in addition to at work, won't you get better at it in less time than if you just write code at work?" This question often comes from folks who have read about the "10000 hours of practice" you supposedly need to get good at a skill.](https://mobile.twitter.com/sarahmei/status/953426874528514048)
+* Do you need to do side projects to be a good developer? ([Sarah Mei Twitter thread](https://twitter.com/sarahmei/status/953426874528514048))
 
