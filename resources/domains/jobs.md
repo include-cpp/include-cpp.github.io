@@ -4,9 +4,10 @@ toc: true
 title: Jobs
 ---
 
-<!-- ## Salary gaps -->
+## Pipeline
 
-<!-- ## Pipeline -->
+* [If you think women in tech is just a pipeline problem, you haven’t been paying attention — Medium](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.1e7rxm2gq)
+* [Re-Recruit From the Leaky Pipeline by Seonaid Lee:  Model View Culture](https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline)
 
 ## Recruitment
 
@@ -25,6 +26,10 @@ title: Jobs
 ### Interviewing
 
 * [The Hiring Post — Quarrelsome](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+
+## Salary gaps
+
+* [The gender pay gap for women in the U.S. - Narrow the Gapp](https://narrowthegap.co/)
 
 <!-- ## Glass ceiling -->
 

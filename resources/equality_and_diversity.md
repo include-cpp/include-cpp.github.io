@@ -84,15 +84,6 @@ title: Equality and Diversity
 * [Sisterhood Is Not Enough: Why Workplace Equality Needs Men, Too](http://mobile.nytimes.com/2016/08/14/jobs/sisterhood-is-not-enough-why-workplace-equality-needs-men-too.html)
 * [Dev Team Diversity #Realtalk - Custom Web & Mobile Development Company:  DevMynd](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) - good practical article for small organisations
 
-## Pipeline?
-
-* [If you think women in tech is just a pipeline problem, you haven’t been paying attention — Medium](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.1e7rxm2gq)
-* [Re-Recruit From the Leaky Pipeline by Seonaid Lee:  Model View Culture](https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline)
-
-## Inequality of Pay
-
-* [The gender pay gap for women in the U.S. - Narrow the Gapp](https://narrowthegap.co/)
-
 ## Online abuse
 
 * [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
