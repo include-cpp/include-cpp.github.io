@@ -3,9 +3,9 @@ layout: home
 title: Jobs
 ---
 
-## Salary gaps
+<!-- ## Salary gaps -->
 
-## Pipeline
+<!-- ## Pipeline -->
 
 ## Recruitment
 
@@ -25,7 +25,7 @@ title: Jobs
 
 * [The Hiring Post — Quarrelsome](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
-## Glass ceiling
+<!-- ## Glass ceiling -->
 
 ## Advice to job seekers
 
