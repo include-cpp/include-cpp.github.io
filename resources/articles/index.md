@@ -4,6 +4,8 @@ toc: true
 title: Articles
 ---
 
+In addition to very specific resources on language, hiring, and so on we have found many "overview" articles that span multiple categories. Here are some worth reading.
+
 ## Diversity
 
 * [Programming Diversity](http://www.softdevtube.com/2014/02/11/programming-diversity/)
