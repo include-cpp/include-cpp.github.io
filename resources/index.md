@@ -13,4 +13,5 @@ New contents
 * [Discriminations](/resources/discriminations/)
 * [Domains](/resources/domains/)
 * [References](/resources/references/)
+* [Articles](/resources/articles/)
 
