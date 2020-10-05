@@ -35,6 +35,7 @@ title: References and Links
 * [Girl Develop It](https://www.girldevelopit.com/)
   * Aims to provide affordable and judgement-free opportunities for women interested in learning web and software development.
   * US based
+  * See also [page on Wikipedia](https://en.wikipedia.org/wiki/Girl_Develop_It)
 * [Women Techmakers](https://www.womentechmakers.com/)
   * A program run by Google to provide visibility, community and resources for women in technology.
   * US based
