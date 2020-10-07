@@ -9,3 +9,4 @@ title: Resources
 * [References](/resources/references/)
 * [Articles](/resources/articles/)
 
+See also information about [the new layout of Resources](/resources/new_layout/). 
