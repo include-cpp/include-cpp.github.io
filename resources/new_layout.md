@@ -10,6 +10,8 @@ redirect_from:
     - "/resources/recruitment/"
 ---
 
+## New Structure
+
 In October 2020 we rearranged the Resources section on this site, to prepare for adding much more content.
 
 Here's where to find things now....
@@ -23,3 +25,7 @@ Here's where to find things now....
     * This page has moved to the [Organisations](/resources/references/#organisations) section 
 * Old '**Recruitment**' Page
     * This page has moved to the [Jobs](/resources/domains/jobs/) page
+
+## Redirects
+
+References to the old pages all redirect to this new page. Site maintainers can [check the redirects](/internal/check_redirects/). 
