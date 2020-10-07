@@ -3,8 +3,6 @@ layout: archive
 title: Check Redirects
 ---
 
-# Check Redirects
-
 For checking URLs which have changed over time.
 
 * [/resources/conference-resources/](/resources/conference-resources/)
