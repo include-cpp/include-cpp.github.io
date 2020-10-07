@@ -3,7 +3,10 @@ layout: home
 title: Resources
 ---
 
-* [Conference Resources](/resources/conference-resources/)
-* [Equality and Diversity](/resources/equality_and_diversity/)
-* [Other Organisations](/resources/other_organisations/)
-* [Recruitment](/resources/recruitment/)
+* [Language](/resources/language/)
+<!-- * [Discriminations](/resources/discriminations/) -->
+* [Domains](/resources/domains/)
+* [References](/resources/references/)
+* [Articles](/resources/articles/)
+
+See also information about [the new layout of Resources](/resources/new_layout/). 

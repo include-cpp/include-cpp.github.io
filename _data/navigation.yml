@@ -49,12 +49,14 @@ sidebar:
   - title: "Resources"
     url: /resources/
     children:
-      - title: Conference Resources
-        url: /resources/conference-resources/
-      - title: Equality and Diversity
-        url: /resources/equality_and_diversity/
-      - title: Other Organisations
-        url: /resources/other_organisations/
-      - title: Recruitment
-        url: /resources/recruitment/
+      - title: Language
+        url: /resources/language/
+#      - title: Discriminations
+#        url: /resources/discriminations/
+      - title: Domains
+        url: /resources/domains/
+      - title: References
+        url: /resources/references/
+      - title: Articles
+        url: /resources/articles/
 

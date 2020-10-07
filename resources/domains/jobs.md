@@ -1,9 +1,13 @@
 ---
 layout: home
 toc: true
-title: Recruitment
+title: Jobs
 ---
 
+## Pipeline
+
+* [If you think women in tech is just a pipeline problem, you haven’t been paying attention — Medium](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.1e7rxm2gq)
+* [Re-Recruit From the Leaky Pipeline by Seonaid Lee:  Model View Culture](https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline)
 
 ## Recruitment
 
@@ -13,17 +17,25 @@ title: Recruitment
 * [How to Find, Hire, and Retain Developers – Interview with Cal Evans - Fog Creek Blog - via Internet Archive](https://web.archive.org/web/20170321112922/http://blog.fogcreek.com/how-to-find-hire-and-retain-developers-interview-with-cal-evans/)
 * [How to Recruit – Rands in Repose](http://randsinrepose.com/archives/how-to-recruit/)
 
-
-## Side Projects
-
-* [Sarah Mei: "if you do write code outside work, in addition to at work, won't you get better at it in less time than if you just write code at work?" This question often comes from folks who have read about the "10000 hours of practice" you supposedly need to get good at a skill.](https://mobile.twitter.com/sarahmei/status/953426874528514048)
-
-## Wording of adverts
+### Wording of Adverts
 
 * [Not everything is awesome: FT Labs](http://labs.ft.com/2014/08/not-everything-is-awesome/)
 * [Words matter. Thinking about how you talk about jobs if you want more women to apply. – disambiguity](http://www.disambiguity.com/words-matter-women-and-jobs/)
 * [Coraline Ada Ehmke — Not Applicable: What Your Job Post Is Really Saying](https://where.coraline.codes/blog/not_applicable/)
 
-## The whole process
+### Interviewing
 
 * [The Hiring Post — Quarrelsome](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+
+## Salary gaps
+
+* [The gender pay gap for women in the U.S. - Narrow the Gapp](https://narrowthegap.co/)
+
+<!-- ## Glass ceiling -->
+
+## Advice to job seekers
+
+### Side Projects
+
+* Do you need to do side projects to be a good developer? ([Sarah Mei Twitter thread](https://twitter.com/sarahmei/status/953426874528514048))
+

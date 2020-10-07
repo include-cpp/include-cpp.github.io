@@ -1,8 +1,29 @@
 ---
 layout: home
 toc: true
-title: Other Organisations
+title: References and Links
 ---
+
+<!-- ## Twitter Lists and Accounts -->
+
+<!-- ## Reading Material -->
+
+<!-- ## PodCasts and YouTube channels -->
+
+## C++ Language Resources
+
+* [Get Started!](https://isocpp.org/get-started) from ISO C++ 
+* [Where to Get Started Learning C++ and What Resources to Use](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html) from Shafik Yaghmour
+* Back to Basics tracks at CppCon
+* [The Cherno's YouTube Channel](https://www.youtube.com/c/TheChernoProject/playlists)
+* [LearnCpp.com](https://www.learncpp.com)
+* [Kate Gregory's training videos on PluralSight](https://www.pluralsight.com/authors/kate-gregory)
+    * Members of [our Discord server](/discord/) can send a private message to Kate for a trial code to access these courses.
+* Bjarne Stroustrup's [The C++ Programming Language (4th Edition)](https://www.stroustrup.com/4th.html)
+* [cppreference](https://en.cppreference.com/w/)
+    * Not a learning resource but the most reliable and complete reference for syntax, libraries, and more.
+
+## Organisations
 
 * [CAS #include - computer science for all](http://www.computingatschool.org.uk/custom_pages/270-cas-include)
   * An organisation focused on increasing diversity in computer science.
@@ -15,6 +36,7 @@ title: Other Organisations
 * [Girl Develop It](https://www.girldevelopit.com/)
   * Aims to provide affordable and judgement-free opportunities for women interested in learning web and software development.
   * US based
+  * See also [page on Wikipedia](https://en.wikipedia.org/wiki/Girl_Develop_It)
 * [Women Techmakers](https://www.womentechmakers.com/)
   * A program run by Google to provide visibility, community and resources for women in technology.
   * US based
