@@ -231,7 +231,9 @@ timezone: UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
+# If adding a new plugin, add it to the Gemfile as well
 plugins:
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
