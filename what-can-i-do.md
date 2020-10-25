@@ -6,7 +6,7 @@ title: "What can I do?"
 Everyone can help make the C++ community more welcoming and inclusive. May we suggest:
 
 * Read our [resources](/resources/), and [let us know](/#how-can-we-be-contacted) about anything that's worth adding.
-* [Join our Discord](https://discord.gg/ZPErMGW).
+* [Join our Discord](/discord/).
 * Order stuff from [our shop](/shop/) - and wear it in public!
 * Support our [conference scholarships](/conferences/scholarships/).
 * Adopt a [code of conduct](/resources/#conferences-and-codes-of-conduct) at things you run.

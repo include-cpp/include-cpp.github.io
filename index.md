@@ -14,7 +14,7 @@ Our goal is a more welcoming and inclusive C++ community, as expressed in confer
 
 We believe that a community is only as good as how it treats its most vulnerable members. Therefore, we strive to create a welcoming, safe, and accessible environment. We have a strong [Code of Conduct](/code-of-conduct), which we [enforce](/moderation).
 
-Our primary communication platform is our [Discord server](https://discord.gg/ZPErMGW). Join us to discuss and learn C++ in a welcoming, inclusive space.
+Our primary communication platform is our [Discord server](/discord/). Join us to discuss and learn C++ in a welcoming, inclusive space.
 
 The moderation and administration team includes [Patricia Aas](https://twitter.com/pati_gallardo), [Sy Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Guy Davidson](https://twitter.com/hatcat01), [Timur Doumler](https://twitter.com/timur_audio), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach).
 
@@ -28,7 +28,7 @@ We provide:
 
 - A set of [resources](/resources) on diversity and inclusion.
 - An inclusive, welcoming space for people to discuss and learn C++.
-  - We have a [Discord server: please join](https://discord.gg/ZPErMGW).
+  - We have a [Discord server: please join](/discord/).
   - We have a [friendly presence at conferences](/conferences/attending-conferences).
 - Help for minorities and junior programmers with [scholarships to attend major conferences](/conferences/scholarships). You can apply for scholarships, and donate to them.
 - Help for minorities and junior programmers in submitting talks for conferences or job applications.
