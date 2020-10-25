@@ -74,7 +74,7 @@ A very important use of roles on this server is for [pronouns](https://www.unf.e
 
 Usually on this server we talk *to* each other. Occasionally, we talk *about* someone: "**She** said **her** error was intermittent, though." If the person you are talking about has a coloured name, click on their avatar or their name, to see their roles and learn what pronouns to use. Guessing pronouns from names or avatars, or just assuming everyone is male, is not ok on this server.
 
-Most of our roles are solely to let others know your pronouns. You can add these yourself, by typing a command such as `?rank she/her`. To see all the pronouns use `?ranks`.
+Most of our roles are solely to let others know your pronouns. You can add these yourself, by typing a command such as `!rank she/her`. To see all the pronouns use `!ranks`.
 
 (We realise it is a little confusing to use a command called `rank` to set pronouns: Discord was originally used for gaming, and this bot is the closest facility that was available to us, to implement this important capability.)
 
