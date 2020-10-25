@@ -82,6 +82,9 @@ To see all the pronouns use:
 
 These roles are for pronouns. If you’re unfamiliar with some of them they might be surprising, or even funny, but do not treat them as a joke. We take pronouns seriously in this Discord, as should everyone, given our [Code of Conduct](/code-of-conduct/). If you’re unable to be respectful with these pronouns, then you’re not respectful to our members and this Discord may not be a place for you. Using the pronouns properly shouldn’t be a hard thing to do.
 
+Occasionally, someone new to the server is unaware of the purpose of these pronouns, so we have the following, which writes the paragraph above:  
+`!pronouns-purpose`
+
 ### Permissions
 
 Another thing we use roles for is to control access to some channels. If you don't have access to a channel, you won't see it in the list.
