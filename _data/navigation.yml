@@ -23,7 +23,7 @@ sidebar:
     url: /discord/
     children:
       - title: "Join Discord"
-        url: https://discord.gg/ZPErMGW
+        url: /discord/
       - title: "Code of conduct"
         url: /code-of-conduct/
       - title: "Moderation"
