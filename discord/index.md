@@ -131,7 +131,4 @@ On the rare occasions it's needed, we can express this with another bot, summone
 
 > We know you didn't intend any offense, and changing the way you use the word "guys" may be difficult, but please trust that we have done our due diligence on it and we will not change our policy. This is an important part of the welcoming and inclusive culture of our community. For more information, see "guys" in our Resources section: [https://www.includecpp.org/resources/language/#guys](/resources/language/#guys)
 
-For a list of the server's custom commands, type:  
-`!customs list` 
-
 ---
