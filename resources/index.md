@@ -8,7 +8,7 @@ title: Resources
     Sometimes we **accidentally exclude other people** with the words we choose, or make them feel lesser or hurt. In this section we talk about language, how it matters, and **how to use it** in an **inclusive and welcoming** way.
 <!-- * [Discriminations](/resources/discriminations/) -->
 * [Domains](/resources/domains/)
-    * Many people may be working to change the way they behave in order to be more welcoming and inclusive. We have gathered some inclusion-specific resources for areas including conferences, and jobs and hiring.
+    * Many people may be working to change something specific, such as a conference, or their hiring process, to be more welcoming and inclusive. We have gathered some inclusion-specific resources for particular areas.
 * [References](/resources/references/)
   * In this section we link to reference material on the C++ language itself, chosen by members of our Discord server. We also have links to other organisations that promote inclusion and diversity. 
 * [Articles](/resources/articles/)
