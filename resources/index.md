@@ -14,4 +14,6 @@ title: Resources
 * [Articles](/resources/articles/)
   * In addition to very specific resources on language, hiring, and so on we have found many "overview" articles that span multiple categories.
 
+We welcome updates, additions, and corrections to these resources. Our preference is that you join our [Discord server](/discord/) and suggest it in the #meta-website channel. If that is an issue for you, please [contact us directly](/#how-can-we-be-contacted) and let us know how we can make things better.
+
 See also information about the [new layout of Resources](/resources/new_layout/). 
