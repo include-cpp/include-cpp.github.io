@@ -8,6 +8,7 @@ title: Resources
     Sometimes we **accidentally exclude other people** with the words we choose, or make them feel lesser or hurt. In this section we talk about language, how it matters, and **how to use it** in an **inclusive and welcoming** way.
 <!-- * [Discriminations](/resources/discriminations/) -->
 * [Domains](/resources/domains/)
+    * Many people may be working to change the way they behave in order to be more welcoming and inclusive. We have gathered some inclusion-specific resources for areas including conferences, and jobs and hiring.
 * [References](/resources/references/)
 * [Articles](/resources/articles/)
 
