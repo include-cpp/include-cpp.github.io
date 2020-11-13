@@ -12,5 +12,6 @@ title: Resources
 * [References](/resources/references/)
   * In this section we link to reference material on the C++ language itself, chosen by members of our Discord server. We also have links to other organisations that promote inclusion and diversity. 
 * [Articles](/resources/articles/)
+  * In addition to very specific resources on language, hiring, and so on we have found many "overview" articles that span multiple categories.
 
 See also information about the [new layout of Resources](/resources/new_layout/). 
