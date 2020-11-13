@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Resources
+classes: wide
 ---
 
 * [Language](/resources/language/) - and why language matters
