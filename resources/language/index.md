@@ -14,7 +14,7 @@ title: Language and Communication
 
 <!-- ## Equality -->
 
-<!-- ## Micro-agressions -->
+<!-- ## Micro-aggressions -->
 
 ## Unconscious and implicit bias
 
@@ -84,6 +84,11 @@ title: Language and Communication
 	* There are some useful replies.
 * [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
 
+## Illustrations
+
+We communicate not only with words, but with images. If your talk, blog post, article or tweets all feature able-bodied white men, you might not know where to find anything different. Here are some starting points.
+
+* [Black Illustrations](https://www.blackillustrations.com): Beautiful illustrations of black people for your next digital project
 
 ## Glossary
 
