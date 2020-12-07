@@ -49,7 +49,7 @@ sidebar:
   - title: "Resources"
     url: /resources/
     children:
-      - title: Language
+      - title: Language & Communication
         url: /resources/language/
 #      - title: Discriminations
 #        url: /resources/discriminations/

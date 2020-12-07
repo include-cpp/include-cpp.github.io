@@ -1,7 +1,7 @@
 ---
 layout: home
 toc: true
-title: Language
+title: Language and Communication
 ---
 
 ## Intro
