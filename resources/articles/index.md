@@ -88,3 +88,10 @@ In addition to very specific resources on language, hiring, and so on we have fo
 
 * [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
 * [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](http://crashoverridenetwork.com)"
+
+## History of Computing
+
+### Women in Computing
+
+* [Fascinating thread on the history of COBOL](https://threadreaderapp.com/thread/1259313973318451200.html), showing the major contributions of Mary Hawes, Jean Sammet, Betty Holberton and Grace Hopper.
+* [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html): Computer programming once had much better gender balance than it does today. What went wrong?
