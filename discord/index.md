@@ -31,6 +31,16 @@ Things to note in the above screenshot:
 * Channels with a non-bold name do not have any new messages.
 * Channels have a symbol in their name. The channels above are all public, and so have a globe in their names. 
 
+**Most channels display their purpose.** This can give you confidence you're posting in the right channel.
+
+In the desktop and web clients, it's at the top of the window, to the right of the channel's name.
+
+![Purpose of Discord Channel Shown on Desktop](/images/discord_channel_purpose_desktop.png)
+
+The mobile apps have it when you open the members list on the right:
+
+![Purpose of Discord Channel Shown on Mobile](/images/discord_channel_purpose_android.jpg)
+
 ## Direct Messages
 
 Discord provides a capability for sending private (direct) messages (DMs) to a single user. In most cases, requests for help or for more information belong in a channel, such as #cpp for C++ questions. Reserve DMs for conversations that can only be one on one, and understand that some users may prefer not to have such conversations. Remember also that some may be in a very different time zone from you.
