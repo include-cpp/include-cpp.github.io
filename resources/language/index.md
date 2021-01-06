@@ -61,11 +61,20 @@ title: Language and Communication
 
 ## Problematic Words and Phrases
 
-<!-- ### Metaphors -->
+### Metaphors
+
+Some words and phrases in longtime use in software development have associations that are uncomfortable or painful for some people. When the people hurt by a word or phrase are under-represented, such words can become commonly used despite being hurtful. As we learn to be more welcoming and inclusive, that can include adjusting our language to avoid words with historical connotations that cause pain. 
+
+What's more, such uses are almost always metaphors, and not all members of our industry share a given set of cultural references to draw on for such metaphors. Maybe you're familiar with cowboy movies in which the good guys wear white hats and the bad buys wear black hats: someone who grew up on a different continent from you, or 40 years after you, may not be.
 
 <!-- #### Blacklist -->
 
-<!-- #### Master -->
+#### Master
+
+The word master has painful connotations for many people, because of its use in slavery. It is therefor important to avoid using it. Even when the historical use for it is not related to slavery, it's still important to avoid using it, because of the pain it will cause some of your users/readers.
+
+* Avoiding 'master' in version control
+  * [Aliasing branches in git](https://stackoverflow.com/a/549949/104370)
 
 ### Guys
 
