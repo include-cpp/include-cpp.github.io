@@ -34,10 +34,11 @@ title: Language and Communication
   * This is mostly focused on meetings rather than the many other forms of collaboration which we use.
   * If you are a manager then this is probably a better option than the Facebook one.
 * [How To Remove Gender Bias From the Hiring Process: Inc.com](http://www.inc.com/will-yakowicz/how-to-help-end-gender-bias-while-hiring.html)
-* [Implicit Association Test](https://implicit.harvard.edu/implicit/user/agg/blindspot/tablet.htm) - Online test to score unconscious bias
+* [Implicit Association Test](https://implicit.harvard.edu/implicit/) - Online test to score unconscious bias
 * [You Don’t Know It, But Women See Gender Bias in Your Job Postings - ERE.net](http://www.ere.net/2013/03/01/you-dont-know-it-but-women-see-gender-bias-in-your-job-postings/)
 * [One Simple Skill to Curb Unconscious Gender Bias:  Crucial Skills](http://www.crucialskills.com/2015/08/one-simple-skill-to-curb-unconscious-gender-bias/)
 * [/Fay-lee-nuh/ on Twitter:](https://twitter.com/Felienne/status/799604057577050113) "Tweeps! I managed to convince my department that we need implicit bias training. Who do I bring in for this? Half a day, in Delft, paid."
+* [Curbing implicit bias: what works and what doesn't But here’s what does work](https://knowablemagazine.org/article/mind/2020/how-to-curb-implicit-bias)
 
 
 ## Privilege
