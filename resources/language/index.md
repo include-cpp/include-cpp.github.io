@@ -73,6 +73,7 @@ What's more, such uses are almost always metaphors, and not all members of our i
 
 The word master has painful connotations for many people, because of its use in slavery. It is therefor important to avoid using it. Even when the historical use for it is not related to slavery, it's still important to avoid using it, because of the pain it will cause some of your users/readers.
 
+* [Let’s dump master-slave terms: they’re vague, horrible, and we’re better off without them](https://cdm.link/2020/06/lets-dump-master-slave-terms/)
 * Avoiding 'master' in version control
   * [Aliasing branches in git](https://stackoverflow.com/a/549949/104370)
 
@@ -98,6 +99,7 @@ The word master has painful connotations for many people, because of its use in 
 We communicate not only with words, but with images. If your talk, blog post, article or tweets all feature able-bodied white men, you might not know where to find anything different. Here are some starting points.
 
 * [Black Illustrations](https://www.blackillustrations.com): Beautiful illustrations of black people for your next digital project
+* [Where To Find Free Stock Photos With People of Color](https://peopleofcolorintech.com/articles/where-to-find-free-stock-photos-with-people-of-color/): 7 sources of inclusive imagery
 * [Women Coding](https://unsplash.com/s/photos/woman-coding): Images at Unsplash
 
 ## Glossary
