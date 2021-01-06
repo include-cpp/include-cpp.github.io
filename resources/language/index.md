@@ -105,14 +105,23 @@ We communicate not only with words, but with images. If your talk, blog post, ar
 
 ## Glossary
 
+Some behaviours are so common in response to diversity efforts that they have been named and categorized. Knowing that a particular line of argument or way of talking to you is common may help you resist it, and deal with it more confidently.
+
 <!-- ### Gaslighting -->
 
 ### Mansplaining
 
-* [Mansplaining - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/Mansplaining)
+* [Mansplaining - Wikipedia](https://en.m.wikipedia.org/wiki/Mansplaining)
 * [What Is Mansplaining? The Origins (And Misuse) of the Term](http://www.makeuseof.com/tag/mansplaining-origins-misuse-term/)
 
 <!-- ### Sealioning -->
+
+### TERFs
+
+TERF is an acronym for trans-exclusionary radical feminist.
+
+* [TERF - Wikipedia](https://en.wikipedia.org/wiki/TERF)
+* [A Response to J.K. Rowling](https://youtu.be/WfQQqqfvmv0): video rebutting anti-trans comments by the well-known children's author 
 
 <!-- ### Tone-policing -->
 
