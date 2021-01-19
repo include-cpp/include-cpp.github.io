@@ -129,7 +129,21 @@ Only Administrators can create new channels. You can make suggestions for new ch
 
 ## Other Information
 
-Note: we only have text channels, and we do not allow custom emojis.
+Note: we only have text channels, as voice channels are very difficult to moderate.
+
+### Emojis 
+
+We do not allow custom emojis.
+
+For some people, animated emojis cause real, physical illness: it affects their brains badly. So some people’s fun is other people's pain. This is one of those things where we have opted for being kinder to our members - which is a big part of the culture here.
+
+In particular, it does not matter that there is a user setting to turn off animated emojis because people only discover they need that after it’s too late and they have been made unwell.
+
+We have also learned over time that some emojis which look fun are actually really harmful or painful references to some of our underrepresented folks here. Whilst we don’t expect everyone to know all those references, it’s easier if we know that the emojis available here are none of those. We don't allow these symbols on our server.
+
+Having said that, we do add new emojis here periodically, so if there is a specific emoji you would like added, please raise it in #meta, letting us know what it means to you.
+
+### Avoiding "Guys"
 
 Many English speakers have a habit of addressing groups of people as "guys", saying things like "thanks guys" or "hello guys". While this may be intended as a gender neutral word, it doesn't feel that way to everyone. As a reminder, we have a bot, summoned by typing `!guys`, which says:
 
