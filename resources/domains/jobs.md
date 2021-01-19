@@ -39,3 +39,12 @@ title: Jobs
 
 * Do you need to do side projects to be a good developer? ([Sarah Mei Twitter thread](https://twitter.com/sarahmei/status/953426874528514048))
 
+## Retention
+
+<!-- ### Giving Performance Reviews -->
+
+### Preparing for Performance Reviews
+
+If you have a performance review once a year, it's wise to prepare for it all year round, saving reminders of things you did well or of opportunities you would have liked to be given.
+
+* [The Difficulty Anchor](https://twitter.com/mekkaokereke/status/1027552459873378304): A technique for ensuring a project will be recognized as difficult once it is complete by getting an opinion (from an unlikely ally) before starting - and for those at Google, an [offer to be one from Chandler Carruth](https://twitter.com/chandlerc1024/status/1274130875005849600).
