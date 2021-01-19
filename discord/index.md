@@ -155,4 +155,16 @@ On the rare occasions it's needed, we can express this with another bot, summone
 
 > We know you didn't intend any offense, and changing the way you use the word "guys" may be difficult, but please trust that we have done our due diligence on it and we will not change our policy. This is an important part of the welcoming and inclusive culture of our community. For more information, see "guys" in our Resources section: [https://www.includecpp.org/resources/language/#guys](/resources/language/#guys)
 
+### Usernames, nicknames and avatars
+
+Many Discord users have usernames, nicknames or avatars that fit a "gamer persona" well but might not suit you on this server. Specifically, references to abuse, violence or slurs are upsetting to other users and against our code of conduct.
+
+You may get a message from a moderator about your username, nickname or avatar. Even if you didn't intend any offense, if a moderator asks you to change some aspect of your account, doing so is a pre-requisite for staying on the server.
+
+Here are some instructions from Discord:
+
+* To change your **nickname on this server**, see [How to change a nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#h_01EJTEHFA19Q5BK1GQY2XJ2ZJS)
+* To change your **underlying username**, which is seen when people @-mention you and in some other contexts, see [How do I change my Username?](https://support.discord.com/hc/en-us/articles/213480948-How-do-I-change-my-Username-)
+* To change your **avatar**, see [How do I change my avatar?](https://support.discord.com/hc/en-us/articles/204156688-How-do-I-change-my-avatar-)
+
 ---
