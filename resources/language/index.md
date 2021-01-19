@@ -51,6 +51,7 @@ title: Language and Communication
 * [Anti-racism resources](http://bit.ly/ANTIRACISMRESOURCES) by Sarah Sophie Flicker, Alyssa Klein
 * [Holy shit, being an ally isn’t about me!](https://medium.com/@realtalkwocandallies/holy-shit-being-an-ally-isnt-about-me-ae2de5c47514) by Real Talk: WOC & Allies
 * [Becoming Upended: Teaching and Learning about Race and Racism with Young Children and Their Families](https://www.naeyc.org/resources/pubs/yc/may2018/teaching-learning-race-and-racism) by Kirsten Cole, Diandra Verwayne
+* [Mike Wedderburn: Black Lives Matter is a cry for help, not an attack on white people](https://www.skysports.com/football/news/11095/12013169/mike-wedderburn-black-lives-matter-is-a-cry-for-help-not-an-attack-on-white-people): compelling rebuttal of White Lives Matter
 
 <!-- ## History -->
 
