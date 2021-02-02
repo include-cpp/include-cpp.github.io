@@ -121,6 +121,10 @@ Most of our roles are solely to let others know your pronouns. You can add these
 To see all the pronouns use:  
 `!list-pronouns`
 
+Our original pronoun list came from [Pronoun Island](http://pronoun.is) and we added "no pronouns" and "any pronouns" to it on request. We will consider requests for more pronouns carefully; please ask in #meta.
+
+#### Importance of pronouns
+
 These roles are for pronouns. If you’re unfamiliar with some of them they might be surprising, or even funny, but do not treat them as a joke. We take pronouns seriously in this Discord, as should everyone, given our [Code of Conduct](/code-of-conduct/). If you’re unable to be respectful with these pronouns, then you’re not respectful to our members and this Discord may not be a place for you. Using the pronouns properly shouldn’t be a hard thing to do.
 
 Occasionally, someone new to the server is unaware of the purpose of these pronouns, so we have the following, which writes the paragraph above:  
