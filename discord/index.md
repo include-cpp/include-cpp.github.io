@@ -41,6 +41,37 @@ The mobile apps have it when you open the members list on the right:
 
 ![Purpose of Discord Channel Shown on Mobile](/images/discord_channel_purpose_android.jpg)
 
+### Choosing a channel to post in
+
+You will find generic channels where you can start a conversation about the topic you are interested in. Sometimes, your question or contribution might relate to a certain domain or narrower topic. In those cases, checking if we have a channel that relates better to your question or contribution might help you find more engagement in your conversation.
+
+Don't be afraid to post in any channel: people will let you know if it would be a better fit in another one.
+
+C++ and ecosystem:
+
+* Do you have contribution/question about the **language**?
+  * Where to start:
+    * \#learning and \#cpp
+  * A bit more specific:
+    * \#audio, \#embedded, \#gamedev, \#metaprogramming, \#security, \#testing, \#webtech, \#2d-graphics
+* Is it related to the C++ **ecosystem**?
+  * Where to start:
+    * \#build-systems, \#tooling
+  * A bit more specific:
+    * \#compilers, \#ides-and-editors, \#catch2, \#clion, \#qt, \#vcpkg, \#visualstudio
+* Other programming related channels (not strictly C++-related):
+  * \#assembly, \#c, \#maths
+
+Some special purpose channels:
+
+* \#meta: questions or suggestions about \#include<C++> community and discord server
+* \#meta-website: questions or suggestions about includecpp.org
+* \#show-and-tell: share with us something you created or find interesting, be it some code, a blog post about C++, an open source project you are collaborating on,...
+* \#accessibility: making your software work for a wide variety of users
+* \#job-posting: publicising and seeking jobs. You can find the rules to job posts as a message pinned to the channel.
+
+We also have channels for major C++ conferences (not sure how to state the purpose of those).
+
 ## Direct Messages
 
 Discord provides a capability for sending private (direct) messages (DMs) to a single user. In most cases, requests for help or for more information belong in a channel, such as #cpp for C++ questions. Reserve DMs for conversations that can only be one on one, and understand that some users may prefer not to have such conversations. Remember also that some may be in a very different time zone from you.
