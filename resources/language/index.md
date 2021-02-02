@@ -7,6 +7,7 @@ title: Language and Communication
 ## Intro
 
 * [Gender-neutral Technical Writing: TechWhirl](https://techwhirl.com/gender-neutral-technical-writing/)
+* [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication): Microsoft's writing guide
 
 <!-- ## Inclusion vs Diversity -->
 
