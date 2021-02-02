@@ -103,6 +103,7 @@ We communicate not only with words, but with images. If your talk, blog post, ar
 * [Black Illustrations](https://www.blackillustrations.com): Beautiful illustrations of black people for your next digital project
 * [Where To Find Free Stock Photos With People of Color](https://peopleofcolorintech.com/articles/where-to-find-free-stock-photos-with-people-of-color/): 7 sources of inclusive imagery
 * [Women Coding](https://unsplash.com/s/photos/woman-coding): Images at Unsplash
+* [Stock photos of women of color in tech, now free to use.](https://www.flickr.com/people/wocintechchat/): By #WOCinTechChat
 
 ## Glossary
 
