@@ -58,6 +58,8 @@ In addition to very specific resources on language, hiring, and so on we have fo
 
 ## Improving diversity
 
+* [Sarah Mei -- The Power in Agile](https://youtu.be/YL-6RCTywbc)
+  * "Agile" is systemically sexist, racist, and ableist. Includes great quotes like "Unintentional exclusion becomes intentional when you don't fix it"
 * [Guest post: Scholarships for women speakers at PuppetConf:  The Ada Initiative](https://adainitiative.org/2014/01/guest-post-scholarships-for-women-speakers-at-puppetconf/)
 * [FlowCon - Programming Diversity:  ashe dryden](http://www.ashedryden.com/flowcon-programming-diversity)
 * [How To Create A More Diverse Tech Conference:  Continuous Delivery](http://continuousdelivery.com/2013/09/how-we-got-40-female-speakers-at-flowcon/)
