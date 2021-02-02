@@ -87,3 +87,5 @@ title: References and Links
 * [AnitaB.org](https://anitab.org/)
   * A social enterprise that supports women in technical fields, as well as the organizations that employ them and the academic institutions training the next generation.
   * Worldwide
+* [DiversifyTech](https://www.diversifytech.co)
+  * A collection of resources for underrepresented people in tech
