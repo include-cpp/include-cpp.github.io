@@ -74,7 +74,7 @@ What's more, such uses are almost always metaphors, and not all members of our i
 
 #### Master
 
-The word master has painful connotations for many people, because of its use in slavery. It is therefor important to avoid using it. Even when the historical use for it is not related to slavery, it's still important to avoid using it, because of the pain it will cause some of your users/readers.
+The word master has painful connotations for many people, because of its use in slavery. It is therefore important to avoid using it. Even when the historical use for it is not related to slavery, it's still important to avoid using it, because of the pain it will cause some of your users/readers.
 
 * [Let’s dump master-slave terms: they’re vague, horrible, and we’re better off without them](https://cdm.link/2020/06/lets-dump-master-slave-terms/)
 * Avoiding 'master' in version control
