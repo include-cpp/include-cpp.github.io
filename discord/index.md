@@ -70,7 +70,7 @@ Some special purpose channels:
 * [\#accessibility](https://discord.com/channels/400588936151433218/476454191628288000): making your software work for a wide variety of users
 * [\#job-posting](https://discord.com/channels/400588936151433218/403269639670595614): publicising and seeking jobs. You can find the rules to job posts as a message pinned to the channel.
 
-We also have channels for major C++ conferences. See [\#conferences](https://discord.com/channels/400588936151433218/753631680803373077) and the other per-conference channels in the "CONFERENCE" category.
+We also have channels for many C++ conferences. See [\#conferences](https://discord.com/channels/400588936151433218/753631680803373077) and the other per-conference channels in the same category.
 
 ## Direct Messages
 
