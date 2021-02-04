@@ -21,7 +21,7 @@ When you join, by following this **[Invitation to Join Discord](https://discord.
 
 ![Selection of Discord Server Channels](/images/discord_server_channels.png)
 
-We try to have separate channels for distinct topics, for example the #compilers channel has entirely different topics than the #testing channel.
+We try to have separate channels for distinct topics, for example the #compilers channel has entirely different topics than the #testing channel. See [Choosing a channel to post in](#choosing-a-channel-to-post-in), below, for a list of the more commonly-used channels.
 
 Things to note in the above screenshot:
 
