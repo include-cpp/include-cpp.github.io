@@ -86,7 +86,7 @@ To send DMs, you either need to have a Discord server (such as `#include <C++>`)
 * You can still read muted channels at any time.
 * You can also hide muted channels, in the server settings - see "Hide Muted Channels" near the bottom in this image:
     *  ![Server Settings](/images/server_settings.png)
-  
+
 ### Channel Groups
 
 * Channels are grouped by category, to keep like-with-like.
