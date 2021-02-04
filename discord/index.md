@@ -51,24 +51,24 @@ C++ and ecosystem:
 
 * Do you have contribution/question about the **language**?
   * Where to start:
-    * \#learning and \#cpp
+    * [\#learning](https://discord.com/channels/400588936151433218/437273623326359562) and [\#cpp](https://discord.com/channels/400588936151433218/400588936151433220)
   * A bit more specific:
-    * \#audio, \#embedded, \#gamedev, \#metaprogramming, \#security, \#testing, \#webtech, \#2d-graphics
+    * [\#audio](https://discord.com/channels/400588936151433218/489715396220551178), [\#embedded](https://discord.com/channels/400588936151433218/470941333817655306), [\#gamedev](https://discord.com/channels/400588936151433218/469633149308239873), [\#metaprogramming](https://discord.com/channels/400588936151433218/491923987824377856), [\#security](https://discord.com/channels/400588936151433218/488397398486548481), [\#testing](https://discord.com/channels/400588936151433218/585090706335596560), [\#webtech](https://discord.com/channels/400588936151433218/522717040377856001), [\#2d-graphics](https://discord.com/channels/400588936151433218/467435909386731534)
 * Is it related to the C++ **ecosystem**?
   * Where to start:
-    * \#build-systems, \#tooling
+    * [\#build-systems](https://discord.com/channels/400588936151433218/414847611648999426), [\#tooling](https://discord.com/channels/400588936151433218/522716740489052181)
   * A bit more specific:
-    * \#compilers, \#ides-and-editors, \#catch2, \#clion, \#qt, \#vcpkg, \#visualstudio
+    * [\#compilers](https://discord.com/channels/400588936151433218/441274686056431627), [\#ides-and-editors](https://discord.com/channels/400588936151433218/489373154079277056), [\#catch2](https://discord.com/channels/400588936151433218/415926410767630336), [\#clion](https://discord.com/channels/400588936151433218/448533022023745536), [\#qt](https://discord.com/channels/400588936151433218/435701082962919424), [\#vcpkg](https://discord.com/channels/400588936151433218/687365466422902841), [\#visualstudio](https://discord.com/channels/400588936151433218/471803838681055242)
 * Other programming related channels (not strictly C++-related):
-  * \#assembly, \#c, \#maths
+  * [\#assembly](https://discord.com/channels/400588936151433218/595188611180396566), [\#c-language](https://discord.com/channels/400588936151433218/494530056786411520), [\#maths](https://discord.com/channels/400588936151433218/491923735687987202)
 
 Some special purpose channels:
 
-* \#meta: questions or suggestions about \#include<C++> community and discord server
-* \#meta-website: questions or suggestions about includecpp.org
-* \#show-and-tell: share with us something you created or find interesting, be it some code, a blog post about C++, an open source project you are collaborating on,...
-* \#accessibility: making your software work for a wide variety of users
-* \#job-posting: publicising and seeking jobs. You can find the rules to job posts as a message pinned to the channel.
+* [\#meta](https://discord.com/channels/400588936151433218/400741110936502274): questions or suggestions about \#include<C++> community and discord server
+* [\#meta-website](https://discord.com/channels/400588936151433218/669486396813344768): questions or suggestions about includecpp.org
+* [\#show-and-tell](https://discord.com/channels/400588936151433218/415070750131879937): share with us something you created or find interesting, be it some code, a blog post about C++, an open source project you are collaborating on,...
+* [\#accessibility](https://discord.com/channels/400588936151433218/476454191628288000): making your software work for a wide variety of users
+* [\#job-posting](https://discord.com/channels/400588936151433218/403269639670595614): publicising and seeking jobs. You can find the rules to job posts as a message pinned to the channel.
 
 We also have channels for major C++ conferences (not sure how to state the purpose of those).
 
