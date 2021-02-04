@@ -49,7 +49,7 @@ Don't be afraid to post in any channel: people will let you know if it would be 
 
 C++ and ecosystem:
 
-* Do you have contribution/question about the **language**?
+* Do you have a contribution or question about the **language**?
   * Where to start:
     * [\#learning](https://discord.com/channels/400588936151433218/437273623326359562) and [\#cpp](https://discord.com/channels/400588936151433218/400588936151433220)
   * A bit more specific:
@@ -70,7 +70,7 @@ Some special purpose channels:
 * [\#accessibility](https://discord.com/channels/400588936151433218/476454191628288000): making your software work for a wide variety of users
 * [\#job-posting](https://discord.com/channels/400588936151433218/403269639670595614): publicising and seeking jobs. You can find the rules to job posts as a message pinned to the channel.
 
-We also have channels for major C++ conferences (not sure how to state the purpose of those).
+We also have channels for major C++ conferences. See [\#conferences](https://discord.com/channels/400588936151433218/753631680803373077) and the other per-conference channels in the "CONFERENCE" category.
 
 ## Direct Messages
 
