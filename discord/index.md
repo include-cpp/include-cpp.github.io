@@ -202,4 +202,11 @@ Here are some instructions from Discord:
 * To change your **underlying username**, which is seen when people @-mention you and in some other contexts, see [How do I change my Username?](https://support.discord.com/hc/en-us/articles/213480948-How-do-I-change-my-Username-)
 * To change your **avatar**, see [How do I change my avatar?](https://support.discord.com/hc/en-us/articles/204156688-How-do-I-change-my-avatar-)
 
+### Linking to other accounts
+
+It's possible to change your Discord profile, so that it links to accounts you have elsewhere, such as GitHub, Twitter and so on. Other users will see these links when they view your profile.
+
+This is optional. To enable it, go to "User Settings > Connections".
+
+
 ---
