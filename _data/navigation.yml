@@ -19,6 +19,8 @@ sidebar:
     children:
       - title: "What can I do?"
         url: /what-can-i-do/
+      - title: "Community sponsors"
+        url: /community-sponsors/
   - title: Discord Server
     url: /discord/
     children:
