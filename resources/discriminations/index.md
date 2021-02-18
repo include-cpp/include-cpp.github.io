@@ -15,6 +15,8 @@ title: Discriminations
 
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
     * Check off here when done: From https://discord.com/channels/400588936151433218/669486396813344768/745169451279843379:
+* https://twitter.com/mcruzdrake/status/1295826205841784832 
+    * Check off here when done: From https://discord.com/channels/400588936151433218/669486396813344768/745526557866590280
 
 ## Sexuality
 
