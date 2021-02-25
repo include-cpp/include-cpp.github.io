@@ -68,8 +68,10 @@ The ideal candidate is someone who would truly benefit from coming to a conferen
 |  C++ on Sea 2020 |                 *Tickets donated by the conference*                               |       4       |
 |      CppCon 2020 |                                                  *Proceeds of T-shirt sales used* |       8       |
 |  Meeting C++2020 |                 *Tickets donated by the conference*                               |       3       |
+| **2021**         | &nbsp;                                                                            | &nbsp;        |
+| CppEurope 5 2020 |                 *Tickets donated by the conference*                               |       3       |
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
-|        **TOTAL** |                                                                                   |     **35**    |
+|        **TOTAL** |                                                                                   |     **38**    |
 
 Unfortunately ACCU 2020 [was cancelled](https://conference.accu.org/news/202003121205_accu2020cancelled). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward to next year where possible.
 
