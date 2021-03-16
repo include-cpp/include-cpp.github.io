@@ -53,12 +53,12 @@ sidebar:
     children:
       - title: Language & Communication
         url: /resources/language/
+      - title: Articles
+        url: /resources/articles/
       - title: Inclusion & Accommodation
         url: /resources/inclusion/
       - title: Domains
         url: /resources/domains/
       - title: References
         url: /resources/references/
-      - title: Articles
-        url: /resources/articles/
 
