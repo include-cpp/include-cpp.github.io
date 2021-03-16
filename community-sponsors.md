@@ -16,3 +16,4 @@ Many conferences, organizations, and websites help to promote us in a variety of
 ## Websites
 
 * [Compiler Explorer](https://godbolt.org)
+* [vcpkg](https://github.com/Microsoft/vcpkg)
