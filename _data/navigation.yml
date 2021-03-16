@@ -53,8 +53,8 @@ sidebar:
     children:
       - title: Language & Communication
         url: /resources/language/
-#      - title: Discriminations
-#        url: /resources/discriminations/
+      - title: Inclusion & Accommodation
+        url: /resources/inclusion/
       - title: Domains
         url: /resources/domains/
       - title: References
