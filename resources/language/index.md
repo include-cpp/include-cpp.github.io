@@ -135,3 +135,8 @@ TERF is an acronym for trans-exclusionary radical feminist.
 
 <!-- ### Tone-policing -->
 
+### Whataboutery
+
+Whataboutery is an arguing approach that asks "what about" some other thing to derail conversation.
+
+* [What Is Whataboutery, and Why Does It Plague Discourse?](https://theswaddle.com/what-does-whataboutery-mean/)
