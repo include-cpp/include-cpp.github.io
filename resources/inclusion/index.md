@@ -6,7 +6,7 @@ title: Inclusion and Accommodation
 
 ## Intro
 
-Conferences, websites, organizations, and meetings can unwittingly exclude people who differ from the mainstream. This page collects resources to help include more people by accommodating differences.
+Conferences, websites, organizations, and workplaces can unwittingly exclude people who differ from the mainstream. This page collects resources to help include more people by accommodating differences.
 
 ## General Advice
 

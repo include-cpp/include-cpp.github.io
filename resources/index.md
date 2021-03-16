@@ -10,7 +10,7 @@ classes: wide
 * [Articles](/resources/articles/)
   * In addition to very specific resources on language, hiring, and so on we have found many "overview" articles that span multiple categories.
 * [Inclusion and Accommodation](/resources/inclusion/)
-    * Conferences, websites, organizations, and meetings can unwittingly exclude people who differ from the mainstream. This section collects resources to help include more people by accommodating differences.
+    * Conferences, websites, organizations, and workplaces can unwittingly exclude people who differ from the mainstream. This section collects resources to help include more people by accommodating differences.
 * [Domains](/resources/domains/)
     * Many people may be working to change something specific, such as a conference, or their hiring process, to be more welcoming and inclusive. We have gathered some inclusion-specific resources for particular areas.
 * [References](/resources/references/)
