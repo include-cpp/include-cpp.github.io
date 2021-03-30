@@ -162,6 +162,12 @@ Administrators can do everything, including go in every channel. They can be con
 
 Only Administrators can create new channels. You can make suggestions for new channels in #meta.
 
+### Other Permissions
+
+#### C++ Community Facilitator
+
+[C++ Community Organizers](http://cppcom.org) who run user groups, conferences, and podcasts are granted this role to enable access to some channels for their discussions.
+
 ## Other Information
 
 Note: we only have text channels, as voice channels are very difficult to moderate.
