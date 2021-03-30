@@ -138,7 +138,7 @@ You may see some users with non-pronoun roles. This section explains them.
 
 ![A user with multiple permission roles](/images/discord_roles_multiple_levels.png)
 
-#### Established (Grey)
+#### Established
 
 From time to time, users who are active and participating are granted the Established role.
 
