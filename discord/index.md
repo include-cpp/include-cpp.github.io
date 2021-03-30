@@ -184,6 +184,21 @@ We have also learned over time that some emojis which look fun are actually real
 
 Having said that, we do add new emojis here periodically, so if there is a specific emoji you would like added, please raise it in #meta, letting us know what it means to you.
 
+### Bots
+
+There's @Dyno who greets people in welcome, lets you set your pronouns, and who will, on request, remind us of a few server rules. 
+
+And we have @npaperbot who lets you find papers for the C++ Standards Committee, also known as wg21. To use it, simply @mention the bot with a paper number or a search term.
+
+Examples:
+
+* `@npaperbot search "sy brand"`would search for an author name or a term like monadic
+* `@npaperbot p0650` returns a specific paper
+* In addition, if you put a paper number in square brackets, e.g. `[P0000]` or  `[EWG9999]` in any sentence (even without @mentioning), it will look up the paper for you.
+
+The bot doesn't have permission to run in every channel. If you have questions or comments about `@npaperbot` and the marvelous work of @Mara who has wrangled it into existence for us, please use [\#meta](https://discord.com/channels/400588936151433218/400741110936502274) for that.
+
+
 ### Avoiding "Guys"
 
 Many English speakers have a habit of addressing groups of people as "guys", saying things like "thanks guys" or "hello guys". While this may be intended as a gender neutral word, it doesn't feel that way to everyone. As a reminder, we have a bot, summoned by typing `!guys`, which says:
