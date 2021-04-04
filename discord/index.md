@@ -201,13 +201,13 @@ The bot doesn't have permission to run in every channel. If you have questions o
 
 ### Avoiding "Guys"
 
-Many English speakers have a habit of addressing groups of people as "guys", saying things like "thanks guys" or "hello guys". While this may be intended as a gender neutral word, it doesn't feel that way to everyone. As a reminder, we have a bot, summoned by typing `!guys`, which says:
+Many English speakers have a habit of addressing groups of people as "guys", saying things like "thanks guys" or "hello guys". While this may be intended as a gender neutral word, it doesn't feel that way to everyone. As a reminder, the @Dyno bot can summoned by typing `!guys`, and will say:
 
 > Many of this server's members are not guys; you may want to consider using more inclusive language (e.g. folks, everyone, or just dropping the word altogether)
 
 Occasionally, someone new to the server feels the need to get us to change this policy. We take it very seriously: this is an important part of the welcoming and inclusive culture of our community.
 
-On the rare occasions it's needed, we can express this with another bot, summoned by typing `!guys2`, which says:
+On the rare occasions it's needed, we can express this with another response, summoned by typing `!guys2`, which says:
 
 > We know you didn't intend any offense, and changing the way you use the word "guys" may be difficult, but please trust that we have done our due diligence on it and we will not change our policy. This is an important part of the welcoming and inclusive culture of our community. For more information, see "guys" in our Resources section: [https://www.includecpp.org/resources/language/#guys](/resources/language/#guys)
 
