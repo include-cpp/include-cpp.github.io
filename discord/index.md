@@ -51,7 +51,7 @@ C++ and ecosystem:
 
 * Do you have a contribution or question about the **language**?
   * Where to start:
-    * [\#learning](https://discord.com/channels/400588936151433218/437273623326359562) and [\#cpp](https://discord.com/channels/400588936151433218/400588936151433220)
+    * [\#cpp-beginners](https://discord.com/channels/400588936151433218/437273623326359562) and [\#cpp-general](https://discord.com/channels/400588936151433218/400588936151433220)
   * A bit more specific:
     * [\#audio](https://discord.com/channels/400588936151433218/489715396220551178), [\#embedded](https://discord.com/channels/400588936151433218/470941333817655306), [\#gamedev](https://discord.com/channels/400588936151433218/469633149308239873), [\#metaprogramming](https://discord.com/channels/400588936151433218/491923987824377856), [\#security](https://discord.com/channels/400588936151433218/488397398486548481), [\#testing](https://discord.com/channels/400588936151433218/585090706335596560), [\#webtech](https://discord.com/channels/400588936151433218/522717040377856001), [\#2d-graphics](https://discord.com/channels/400588936151433218/467435909386731534)
 * Is it related to the C++ **ecosystem**?
