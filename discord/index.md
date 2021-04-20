@@ -82,7 +82,7 @@ To send DMs, you either need to have a Discord server (such as `#include <C++>`)
 
 ### Muting channels
 
-* If a channel doesn't interest you, you can mute it, then the channel name will be faint, such as the #assembly channel in the screenshot above.
+* If a channel doesn't interest you, you can mute it, then the channel name will be faint, such as the #gpu channel in the screenshot above.
 * You can still read muted channels at any time.
 * You can also hide muted channels, in the server settings - see "Hide Muted Channels" near the bottom in this image:
     *  ![Server Settings](/images/server_settings.png)
