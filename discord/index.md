@@ -64,7 +64,7 @@ C++ and ecosystem:
 
 Some special purpose channels:
 
-* [\#meta](https://discord.com/channels/400588936151433218/400741110936502274): questions or suggestions about \#include<C++> community and discord server
+* [\#meta-discord](https://discord.com/channels/400588936151433218/400741110936502274): questions or suggestions about \#include<C++> community and discord server
 * [\#meta-website](https://discord.com/channels/400588936151433218/669486396813344768): questions or suggestions about includecpp.org
 * [\#show-and-tell](https://discord.com/channels/400588936151433218/415070750131879937): share with us something you created or find interesting, be it some code, a blog post about C++, an open source project you are collaborating on,...
 * [\#accessibility](https://discord.com/channels/400588936151433218/476454191628288000): making your software work for a wide variety of users
