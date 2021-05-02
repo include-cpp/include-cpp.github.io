@@ -121,7 +121,7 @@ Most of our roles are solely to let others know your pronouns. You can add these
 To see all the pronouns use:  
 `!list-pronouns`
 
-Our original pronoun list came from [Pronoun Island](http://pronoun.is) and we added "no pronouns" and "any pronouns" to it on request. We will consider requests for more pronouns carefully; please ask in #meta.
+Our original pronoun list came from [Pronoun Island](http://pronoun.is) and we added "no pronouns" and "any pronouns" to it on request. We will consider requests for more pronouns carefully; please ask in #meta-discord.
 
 #### Importance of pronouns
 
@@ -160,7 +160,7 @@ Moderators enforce our [Code of Conduct](/code-of-conduct/) according to our [Mo
 
 Administrators can do everything, including go in every channel. They can be contacted with `@admins`.
 
-Only Administrators can create new channels. You can make suggestions for new channels in #meta.
+Only Administrators can create new channels. You can make suggestions for new channels in #meta-discord.
 
 ### Other Permissions
 
@@ -182,7 +182,7 @@ In particular, it does not matter that there is a user setting to turn off anima
 
 We have also learned over time that some emojis which look fun are actually really harmful or painful references to some of our underrepresented folks here. Whilst we don’t expect everyone to know all those references, it’s easier if we know that the emojis available here are none of those. We don't allow these symbols on our server.
 
-Having said that, we do add new emojis here periodically, so if there is a specific emoji you would like added, please raise it in #meta, letting us know what it means to you.
+Having said that, we do add new emojis here periodically, so if there is a specific emoji you would like added, please raise it in #meta-discord, letting us know what it means to you.
 
 ### Bots
 
@@ -196,7 +196,7 @@ Examples:
 * `@npaperbot p0650` returns a specific paper
 * In addition, if you put a paper number in square brackets, e.g. `[P0000]` or  `[EWG9999]` in any sentence (even without @mentioning), it will look up the paper for you.
 
-The bot doesn't have permission to run in every channel. If you have questions or comments about `@npaperbot` and the marvelous work of @Mara who has wrangled it into existence for us, please use [\#meta](https://discord.com/channels/400588936151433218/400741110936502274) for that.
+The bot doesn't have permission to run in every channel. If you have questions or comments about `@npaperbot` and the marvelous work of @Mara who has wrangled it into existence for us, please use [\#meta-discord](https://discord.com/channels/400588936151433218/400741110936502274) for that.
 
 
 ### Avoiding "Guys"
