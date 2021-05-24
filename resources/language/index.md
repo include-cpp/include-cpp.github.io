@@ -91,7 +91,6 @@ The word master has painful connotations for many people, because of its use in 
 * ['Ladies' Is Gender Neutral – Alice Goldfuss](http://blog.alicegoldfuss.com/ladies-is-gender-neutral/)
 * [Language Matters: Stop Using “Guys” to Address Mix-Gender Groups – Subfictional Studios](https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/)
 * [single word requests - A gender-neutral, informal alternative to singular 'guy' - English Language & Usage Stack Exchange](http://english.stackexchange.com/questions/193702/a-gender-neutral-informal-alternative-to-singular-guy)
-* [Guys and dudes:  language: a feminist guide](https://debuk.wordpress.com/2016/02/21/guys-and-dudes/)
 * [Gendered Language: Feature or Bug in Software Documentation? by Tim Chevalier:  Model View Culture](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)
 * [Scott Hanselman on Twitter](https://twitter.com/shanselman/status/904793438238892032): OSS Devs: [@keeleyhammond](https://twitter.com/keeleyhammond) and I are teaching a class on "The Squishy Side of Open Source." Give us links of GitHub threads gone BAD and GOOD!
 	* There are some useful replies.
