@@ -66,6 +66,9 @@ Our overall advice is on the [Organising Conferences page](/conferences/organisi
 
 ### Advice to Organisers
 
+* [The commitment: Bringing diverse voices to tech conferences](https://www.thoughtworks.com/insights/blog/commitment-bringing-diverse-voices-tech-conferences)
+  * how over half the speakers at a ThoughtWorks technical conference were women
+  * "2020 was not the first year we set a goal for equal representation. It was the first time that we exceeded it."
 * [Alex WL Chan's excellent site](https://alexwlchan.net/ideas-for-inclusive-events/short-version/) for conference organisers.
 * [After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go The Road Less Traveled By](http://deviating.net/words/?p=821)
 	* excellent list of thing to do when preparing to run a conference
