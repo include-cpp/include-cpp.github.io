@@ -213,6 +213,8 @@ On the rare occasions it's needed, we can express this with another response, su
 
 ### Usernames, nicknames and avatars
 
+#### Unacceptable names and avatars
+
 Many Discord users have usernames, nicknames or avatars that fit a "gamer persona" well but might not suit you on this server. Specifically, references to abuse, violence or slurs are upsetting to other users and against our code of conduct.
 
 You may get a message from a moderator about your username, nickname or avatar. Even if you didn't intend any offense, if a moderator asks you to change some aspect of your account, doing so is a pre-requisite for staying on the server.
@@ -222,6 +224,12 @@ Here are some instructions from Discord:
 * To change your **nickname on this server**, see [How to change a nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#h_01EJTEHFA19Q5BK1GQY2XJ2ZJS)
 * To change your **underlying username**, which is seen when people @-mention you and in some other contexts, see [How do I change my Username?](https://support.discord.com/hc/en-us/articles/213480948-How-do-I-change-my-Username-)
 * To change your **avatar**, see [How do I change my avatar?](https://support.discord.com/hc/en-us/articles/204156688-How-do-I-change-my-avatar-)
+
+#### Mentioning users
+
+Users with non-ASCII characters in their names may be hard for you to "mention" with an @. If you need to mention such a user, you can right-click their name and use the Mention option.
+
+We have turned off the ability to mention @everyone, @here, @channel and so on. Simply posting in a channel is enough for all those interested to know there is a message. Be cautious about mentioning an individual; do not use it to bring someone to a channel just because you want something from them.
 
 ### Linking to other accounts
 
