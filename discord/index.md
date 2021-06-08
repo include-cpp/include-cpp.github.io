@@ -15,7 +15,7 @@ All our channels are moderated, to ensure that we remain a welcoming community. 
 
 To use Discord, you can use a web page, or clients for PC, Mac, and Linux desktops as well as for phones. When you follow our Discord link to join, you'll be given information about clients you can install.
 
-When you join, by following this **[Invitation to Join Discord](https://discord.gg/ZPErMGW)**, you will receive a copy of our [Code of Conduct](/code-of-conduct/) and a bot will welcome you in our #welcome channel. Often people who are online will say hello, and you can introduce yourself there.
+When you join, by following this **[Invitation to Join Discord](https://discord.gg/WjvWcZTTuN)**, you will receive a copy of our [Code of Conduct](/code-of-conduct/) and a bot will welcome you in our #welcome channel. Often people who are online will say hello, and you can introduce yourself there.
 
 ## Channels
 
@@ -230,6 +230,10 @@ Here are some instructions from Discord:
 Users with non-ASCII characters in their names may be hard for you to "mention" with an @. If you need to mention such a user, you can right-click their name and use the Mention option.
 
 We have turned off the ability to mention @everyone, @here, @channel and so on. Simply posting in a channel is enough for all those interested to know there is a message. Be cautious about mentioning an individual; do not use it to bring someone to a channel just because you want something from them.
+
+Similarly, in an ongoing conversation it is not necessary to use the reply function every time you post. This pings the person you're replying to and can be annoying. Save the reply function for times when two conversations are happening at once and you want to be clear what post your "yes" or "thankyou" applies to.
+
+<!-- Consider turning off the pinging when replying. (TODO: See screenshot in Skype) -->
 
 ### Linking to other accounts
 
