@@ -50,7 +50,7 @@ Protection
 ----------
 
 - We aim to protect everyone in this community, especially our more vulnerable members.
-- If evidence of criminal activity, past or imminent, is brought to your attention regarding someone in this community or the wider C++ community, notify an admin immediately.
+- If evidence of criminal activity or significant wrongdoing, past or imminent, is brought to your attention regarding someone in this community or the wider C++ community, notify an admin immediately.
 - Do not disclose details on any Discord channel. Evidence will be assessed on a case by case basis by the admin team.
 - Remember that Discord has its own policies on doxing; avoid publishing any kind of personal information.
 - If in doubt, ask an admin.
