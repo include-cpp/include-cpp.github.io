@@ -44,7 +44,16 @@ Enforcement
 - If an issue occurs, please contact an Moderator or Administrator. On Discord their names are highlighted in blue or red.
 - If violations occur, Moderators or Administrators will take any action they deem appropriate for the infraction, up to and including expulsion.
 - There are [moderation guidelines]({{site.baseurl}}/moderation).
-  - If you believe that a Moderator or Administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
+- If you believe that a Moderator or Administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
+
+Protection
+----------
+
+- We aim to protect everyone in this community, especially our more vulnerable members.
+- If evidence of criminal activity, past or imminent, is brought to your attention regarding someone in this community or the wider C++ community, notify an admin immediately.
+- Do not disclose details on any Discord channel. Evidence will be assessed on a case by case basis by the admin team.
+- Remember that Discord has its own policies on doxing; avoid publishing any kind of personal information.
+- If in doubt, ask an admin.
 
 Meta
 ----
