@@ -17,6 +17,10 @@ To use Discord, you can use a web page, or clients for PC, Mac, and Linux deskto
 
 When you join, by following this **[Invitation to Join Discord](https://discord.gg/WjvWcZTTuN)**, you will receive a copy of our [Code of Conduct](/code-of-conduct/) and a bot will welcome you in our #welcome channel. Often people who are online will say hello, and you can introduce yourself there.
 
+## Using our Discord for programming help
+
+We welcome newcomers and learners and work hard to create a positive and welcoming atmosphere. For some general advice about asking for help online, including what to provide when asking on Discord, please read [How to ask for C++ coding help](http://www.gregcons.com/KateBlog/HowToAskForCCodingHelp.aspx) by one of our admins who helps many learners on the server. Asking for help effectively increases the amount of help you get from busy people.
+
 ## Channels
 
 ![Selection of Discord Server Channels](/images/discord_server_channels.png)
