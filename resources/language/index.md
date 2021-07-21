@@ -64,6 +64,13 @@ title: Language and Communication
 
 ## Problematic Words and Phrases
 
+### Substitutions and Alternatives
+
+A number of authoritative sources are now advocating for more careful word choice, and avoiding those that are unclear, rely on a background not everyone may have, or can cause pain to others. Some useful lists:
+
+* [ACM's Words Matter initiative](https://www.acm.org/diversity-inclusion/words-matter)
+* [INCITS Inclusive Terminology Guidelines](https://standards.incits.org/apps/group_public/document.php?document_id=131788&wg_abbrev=resources) has a link to the latest PDF from the InterNational Committee for Information Technology Standards.
+
 ### Metaphors
 
 Some words and phrases in longtime use in software development have associations that are uncomfortable or painful for some people. When the people hurt by a word or phrase are under-represented, such words can become commonly used despite being hurtful. As we learn to be more welcoming and inclusive, that can include adjusting our language to avoid words with historical connotations that cause pain. 
