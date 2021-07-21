@@ -231,6 +231,10 @@ Users with non-ASCII characters in their names may be hard for you to "mention" 
 
 We have turned off the ability to mention @everyone, @here, @channel and so on. Simply posting in a channel is enough for all those interested to know there is a message. Be cautious about mentioning an individual; do not use it to bring someone to a channel just because you want something from them.
 
+Similarly, in an ongoing conversation it is not necessary to use the reply function every time you post. This pings the person you're replying to and can be annoying. Save the reply function for times when two conversations are happening at once and you want to be clear what post your "yes" or "thankyou" applies to.
+
+<!-- Consider turning off the pinging when replying. (TODO: See screenshot in Skype) -->
+
 ### Linking to other accounts
 
 It's possible to change your Discord profile, so that it links to accounts you have elsewhere, such as GitHub, Twitter and so on. Other users will see these links when they view your profile.
