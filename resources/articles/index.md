@@ -88,7 +88,6 @@ In addition to very specific resources on language, hiring, and so on we have fo
 
 ## Online abuse
 
-* [Tales from the Trenches: I was SWATed:  randi.io](http://blog.randi.io/2015/04/03/swated/)
 * [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](http://crashoverridenetwork.com)"
 
 ## History of Computing
