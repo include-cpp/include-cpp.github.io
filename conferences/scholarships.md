@@ -74,7 +74,7 @@ The ideal candidate is someone who would truly benefit from coming to a conferen
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
 |        **TOTAL** |                                                                                   |     **40**    |
 
-Unfortunately ACCU 2020 [was cancelled](https://conference.accu.org/news/202003121205_accu2020cancelled). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward a future conference where possible.
+Unfortunately ACCU 2020 [was cancelled](https://accu.org/conf-news/2020/2020-03-12-accu2020cancelled). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward a future conference where possible.
 
 ## Scholar Testimonials
 
