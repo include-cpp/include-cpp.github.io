@@ -6,7 +6,7 @@ on:
     - master
   schedule:
   # runs every monday at 9 am
-  - cron: "0 9 * * *"
+  - cron: "0 9 * * 1"
 
 jobs:
   markdown-link-check:
@@ -17,3 +17,4 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
+        config-file: '.github/workflows/mlc_config.json'
