@@ -1,4 +1,14 @@
 {
-  "aliveStatusCodes": [200, 400],
-  "timeout": "20s"
+  "replacementPatterns": [
+    {
+      "pattern": "^/",
+      "replacement": "https://www.includecpp.org/"
+    },
+    {
+      "pattern": "^{{site.baseurl}}",
+      "replacement": "https://www.includecpp.org/"
+    }
+  ],
+  "timeout": "20s",
+  "aliveStatusCodes": [200, 400]
 }
