@@ -60,7 +60,6 @@ In addition to very specific resources on language, hiring, and so on we have fo
 
 * [Sarah Mei -- The Power in Agile](https://youtu.be/YL-6RCTywbc)
   * "Agile" is systemically sexist, racist, and ableist. Includes great quotes like "Unintentional exclusion becomes intentional when you don't fix it"
-* [Guest post: Scholarships for women speakers at PuppetConf:  The Ada Initiative](https://adainitiative.org/2014/01/guest-post-scholarships-for-women-speakers-at-puppetconf/)
 * [FlowCon - Programming Diversity:  ashe dryden](http://www.ashedryden.com/flowcon-programming-diversity)
 * [How To Create A More Diverse Tech Conference:  Continuous Delivery](http://continuousdelivery.com/2013/09/how-we-got-40-female-speakers-at-flowcon/)
 * [The Myth of Magical Futures — Kate Losse](http://www.katelosse.tv/latest/2014/9/12/magical-futures)
@@ -88,7 +87,7 @@ In addition to very specific resources on language, hiring, and so on we have fo
 
 ## Online abuse
 
-* [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](http://crashoverridenetwork.com)"
+* [Jez Humble on Twitter:](https://twitter.com/jezhumble/status/584603746534981633) "If you are a victim of online harassment, check out Crash Override: [crashoverridenetwork.com](http://www.crashoverridenetwork.com)"
 
 ## History of Computing
 

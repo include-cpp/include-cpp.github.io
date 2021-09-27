@@ -43,7 +43,6 @@ Our overall advice is on the [Organising Conferences page](/conferences/organisi
 
 ### Codes of Conduct
 
-* [Code Of Conduct « PIPELINE](https://pipelineconf.info/about/code-of-conduct/)
 * [Conference anti-harassment/Policy - Geek Feminism Wiki - Wikia](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [Code of Conduct - LeanAgileScotland](https://leanagile.scot/2018/code-of-conduct/)
 * [Yow Our Policies: YOW!](http://yowconference.com.au/policies/)
@@ -70,7 +69,7 @@ Our overall advice is on the [Organising Conferences page](/conferences/organisi
   * how over half the speakers at a ThoughtWorks technical conference were women
   * "2020 was not the first year we set a goal for equal representation. It was the first time that we exceeded it."
 * [Alex WL Chan's excellent site](https://alexwlchan.net/ideas-for-inclusive-events/short-version/) for conference organisers.
-* [After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go The Road Less Traveled By](http://deviating.net/words/?p=821)
+* [After a Year of #MeToo Impacting the Hacker Community, We Still Have Far to Go The Road Less Traveled By](https://words.deviating.net/?p=821)
 	* excellent list of thing to do when preparing to run a conference
 * [User stories for organising conferences  · GitHub](https://gist.github.com/doismellburning/6ef44a51df271bca4782)
 * [Considerations for more diverse conferences - Emily Webber](http://emilywebber.co.uk/considerations-for-more-diverse-conferences/)
