@@ -121,7 +121,7 @@ Some behaviours are so common in response to diversity efforts that they have be
 ### Mansplaining
 
 * [Mansplaining - Wikipedia](https://en.m.wikipedia.org/wiki/Mansplaining)
-* [What Is Mansplaining? The Origins (And Misuse) of the Term](http://www.makeuseof.com/tag/mansplaining-origins-misuse-term/)
+* [What Is Mansplaining? The Origins (And Misuse) of the Term](https://www.makeuseof.com/tag/mansplaining-origins-misuse-term/)
 
 ### Paradox of Tolerance
 
