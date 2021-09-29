@@ -20,7 +20,7 @@ In addition to very specific resources on language, hiring, and so on we have fo
 * [A Rant About Women - Clay Shirky - via Internet Archive](https://web.archive.org/web/20190925074806/http://www.shirky.com/weblog/2010/01/a-rant-about-women/) - very interesting article about women not promoting their achievements
 * [Hiring and Retaining Women in Tech — Women In Tech — Medium](https://medium.com/women-in-tech/1bdd0ea910)
 * [How one college went from 10% female computer-science majors to 40% – Quartz](http://qz.com/192071/how-one-college-went-from-10-female-computer-science-majors-to-40/)
-* [CTO to Women in IT: You Are Not Weird](http://women2.com/cto-women-weird/)
+* [CTO to Women in IT: You Are Not Weird](https://women2.com/2014/03/26/cto-women-weird/)
 * [About Feminism](http://aboutfeminism.me/)
 * [IT gender gap: Where are the female programmers? - TechRepublic](http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/)
 * [How Diversity Makes Us Smarter ](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
