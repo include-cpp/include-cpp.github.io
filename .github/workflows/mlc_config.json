@@ -17,7 +17,7 @@
     },
     {
       "pattern": "^{{site.baseurl}}",
-      "replacement": "https://www.includecpp.org/"
+      "replacement": "https://www.includecpp.org"
     }
   ],
   "timeout": "20s"
