@@ -40,7 +40,7 @@ sidebar:
       - title: "Organising"
         url: /conferences/organising-conferences/
       - title: "Toolbox"
-        url: https://github.com/include-cpp/toolboxes/blob/master/README.md
+        url: https://github.com/include-cpp/toolboxes/blob/main/README.md
   - title: "Shop"
     url: /shop/
     children:
