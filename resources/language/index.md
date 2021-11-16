@@ -102,6 +102,7 @@ The word master has painful connotations for many people, because of its use in 
 * [Scott Hanselman on Twitter](https://twitter.com/shanselman/status/904793438238892032): OSS Devs: [@keeleyhammond](https://twitter.com/keeleyhammond) and I are teaching a class on "The Squishy Side of Open Source." Give us links of GitHub threads gone BAD and GOOD!
 	* There are some useful replies.
 * [Why you should use gender-neutral language in the workplace:  Inside Job](https://www.totaljobs.com/insidejob/gender-neutral-language-in-the-workplace/)
+* [The Problem With ‘Hey Guys’](https://www.theatlantic.com/family/archive/2018/08/guys-gender-neutral/568231/)
 
 ## Illustrations
 
