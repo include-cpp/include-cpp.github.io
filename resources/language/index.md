@@ -45,6 +45,7 @@ title: Language and Communication
 ## Privilege
 
 * [Straight White Male: The Lowest Difficulty Setting There Is – Whatever](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/)
+* [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture/)
 
 ### Racism and White Privilege
 
