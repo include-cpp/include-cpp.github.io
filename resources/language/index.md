@@ -130,6 +130,7 @@ Some behaviours are so common in response to diversity efforts that they have be
 Being inclusive doesn't mean allowing everything, especially intolerance and rudeness: this is the "Paradox of Tolerance".
 
 * [Paradox of tolerance - Wikipedia](https://en.wikipedia.org/wiki/Paradox_of_tolerance)
+* [Tolerance is not a moral precept](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
 
 <!-- ### Sealioning -->
 
