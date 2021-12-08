@@ -32,7 +32,7 @@ The following behaviours are unacceptable in all `#include <C++>` [Discord chann
 - Unwelcome sexual attention. This includes sexualised comments or jokes, inappropriate touching, groping, and unwelcomed sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
 - Sustained disruption of community events, including talks and presentations.
-- Ignoring stated pronouns, assuming gender, or intentionally misgendering people. Use gender-neutral language when unsure.
+- Ignoring stated [pronouns]({{site.baseurl}}/discord/#pronouns), assuming gender, or intentionally misgendering people. Use gender-neutral language when unsure.
 - Sustained or disruptive demands for explanations or discussions of topics that are out of context, personal, or otherwise unwelcome.
 - Advocating for, or encouraging, any of the above behaviour.
 
