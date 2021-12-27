@@ -184,9 +184,9 @@ For some people, animated emojis cause real, physical illness: it affects their 
 
 In particular, it does not matter that there is a user setting to turn off animated emojis because people only discover they need that after it’s too late and they have been made unwell.
 
-We have also learned over time that some emojis which look fun are actually really harmful or painful references to some of our underrepresented folks here. Whilst we don’t expect everyone to know all those references, it’s easier if we know that the emojis available here are none of those. We don't allow these symbols on our server.
-
 For all the above reasons, please do not use animated gifs, which autoplay. Unfortunately we cannot do as we do with emojis and easily disallow them. If you need an animation to convey meaning, consider a video, which does not play until a user starts it.
+
+We have also learned over time that some emojis which look fun are actually really harmful or painful references to some of our underrepresented folks here. Whilst we don’t expect everyone to know all those references, it’s easier if we know that the emojis available here are none of those. We don't allow these symbols on our server.
 
 Having said that, we do add new emojis here periodically, so if there is a specific emoji you would like added, please raise it in #meta-discord, letting us know what it means to you.
 
