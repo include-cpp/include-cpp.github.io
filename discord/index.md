@@ -176,13 +176,15 @@ Only Administrators can create new channels. You can make suggestions for new ch
 
 Note: we only have text channels, as voice channels are very difficult to moderate.
 
-### Emojis 
+### Emojis and Gifs
 
 We do not allow custom emojis.
 
 For some people, animated emojis cause real, physical illness: it affects their brains badly. So some people’s fun is other people's pain. This is one of those things where we have opted for being kinder to our members - which is a big part of the culture here.
 
 In particular, it does not matter that there is a user setting to turn off animated emojis because people only discover they need that after it’s too late and they have been made unwell.
+
+For all the above reasons, please do not use animated gifs, which autoplay. Unfortunately we cannot do as we do with emojis and easily disallow them. If you need an animation to convey meaning, consider a video, which does not play until a user starts it.
 
 We have also learned over time that some emojis which look fun are actually really harmful or painful references to some of our underrepresented folks here. Whilst we don’t expect everyone to know all those references, it’s easier if we know that the emojis available here are none of those. We don't allow these symbols on our server.
 
