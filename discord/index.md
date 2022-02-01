@@ -13,13 +13,13 @@ All our channels are moderated, to ensure that we remain a welcoming community. 
 
 ## Getting Started with Discord
 
-_Invitations are paused while we deal with a server attack. We expect to reopen them soon._
-
 <!--
+_Invitations are paused while we deal with a server attack. We expect to reopen them soon._
+-->
+
 To use Discord, you can use a web page, or clients for PC, Mac, and Linux desktops as well as for phones. When you follow our Discord link to join, you'll be given information about clients you can install.
 
-When you join, by following this **[Invitation to Join Discord](https://discord.gg/gznh3rn9e2)**, you will receive a copy of our [Code of Conduct](/code-of-conduct/) and a bot will welcome you in our #welcome channel. Often people who are online will say hello, and you can introduce yourself there.
--->
+When you join, by following this **[Invitation to Join Discord](https://discord.gg/vSYgpmPrra)**, you will receive a copy of our [Code of Conduct](/code-of-conduct/) and a bot will welcome you in our #welcome channel. Often people who are online will say hello, and you can introduce yourself there.
 
 ## Using our Discord for programming help
 
