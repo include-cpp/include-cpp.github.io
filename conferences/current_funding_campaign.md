@@ -1,18 +1,16 @@
 <!-- NOTE Please comment out unwanted text when we are not fundraising, so it is easy to add the next fundraiser - thanks. -->
 
-<!--
 ## Current Scholarship Campaigns
 
-These campaigns are under way.
-   
-### CppEurope: Tuesday 23 February
+These campaigns are currently in progress :
 
-We are currently organising scholarships to send people from under-represented groups to [CppEurope 2021](https://cppeurope.com):
--->
+### ACCU 2022 - from 2022-04-06 to 2022-04-09
 
-<!--
-* Please [donate through Go Fund Me](https://www.gofundme.com/f/includecamp-c-on-sea-2020-scholarship-funding)
--->
+We are currently organising scholarships to send people from under-represented groups to [ACCU 2022](https://accu.org/conf-main/main).
+
+* Please donate through our [Go Fund Me](https://gofund.me/fef714b4) campaign.
+
+* We will be announcing shortly how to apply for an ACCU 2022 scholarship.
 
 <!--
 * You can [apply for a CppEurope 2021 scholarship](https://claremacrae547546.typeform.com/to/QuJDjcoG)
