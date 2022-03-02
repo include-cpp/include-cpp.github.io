@@ -158,6 +158,12 @@ These protected channels are restricted to Established users as a privacy mechan
 
 In these channels, you might read about problems minorities have that you are not familiar with and want to know more about. Please keep in mind that people talking about these problems suffer from them and have to explain them on a daily basis. Be wary not to add to their burden and never contact them privately for more information about the matter unless they explicitly offered you to.
 
+#### Volunteers
+
+People who participate and help out with off-Discord events and activities (such as working our table at a conference) who may need access to private channels to discuss involvement with these events.
+
+If you are interested in being a volunteer, please introduce yourself in [\#volunteers-needed](https://discordapp.com/channels/400588936151433218/932233683631489064) where you will be able to find out more.
+
 #### Organisers (Purple)
 
 Channels used to actually run `#include <C++>` are restricted to Organiser members. Here we make plans for specific conferences and events, as well as our overall plans, work on this website, and so on. The Organiser role is offered to people who appear interested in it, or to those who need it to assist the group.
