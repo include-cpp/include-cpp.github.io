@@ -40,9 +40,7 @@ In addition to very specific resources on language, hiring, and so on we have fo
   * [How Our Engineering Environments are Killing Diversity: Introduction - Kate Heddleston](https://www.kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) - very interesting - start of series of 5 articles
   * [Things My Male Tech Colleagues Have Actually Said to Me, Annotated](http://the-toast.net/2015/04/01/things-male-tech-colleagues-have-actually-said-annotated/#qASYHUAoLQ2GQd9b.01)
   * [Women in Tech](https://www.innoq.com/blog/st/2014/08/women-in-tech/)
-  * ILookLikeAnEngineer (2015-08-04)
-	  * [#ILookLikeAnEngineer](http://ilooklikeanengineer.net/)
-	  * [Search Twitter - #ILookLikeAnEngineer](https://mobile.twitter.com/search?q=%23ILookLikeAnEngineer)
+  * [Search Twitter - #ILookLikeAnEngineer](https://mobile.twitter.com/search?q=%23ILookLikeAnEngineer)
   * [Monica Rogati on Twitter:](https://twitter.com/mrogati/status/665962306694615040) "The Bechdel test for tech conferences: 1) two women speaking 2) on the same panel 3) not about women in tech."
 
 ## Advice

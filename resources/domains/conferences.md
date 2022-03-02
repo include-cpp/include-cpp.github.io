@@ -45,7 +45,6 @@ Our overall advice is on the [Organising Conferences page](/conferences/organisi
 
 * [Conference anti-harassment/Policy - Geek Feminism Wiki - Wikia](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [Code of Conduct - LeanAgileScotland](https://leanagile.scot/2018/code-of-conduct/)
-* [Yow Our Policies: YOW!](http://yowconference.com.au/policies/)
 * [Code of Conduct - Meeting C++ 2015](http://meetingcpp.com/index.php/newsreader/items/code-of-conduct.html)
 * [Code of Conduct: cppcon](http://cppcon.org/codeofconduct/)
 
