@@ -4,7 +4,7 @@
 
 These campaigns are currently in progress :
 
-### ACCU 2022 - from 2022-04-06 to 2022-04-09
+### ACCU 2022 - from 6th April to 9th April 2022
 
 We are currently organising scholarships to send people from under-represented groups to [ACCU 2022](https://accu.org/conf-main/main).
 
