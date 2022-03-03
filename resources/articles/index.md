@@ -22,7 +22,7 @@ In addition to very specific resources on language, hiring, and so on we have fo
 * [How one college went from 10% female computer-science majors to 40% – Quartz](http://qz.com/192071/how-one-college-went-from-10-female-computer-science-majors-to-40/)
 * [CTO to Women in IT: You Are Not Weird](https://women2.com/2014/03/26/cto-women-weird/)
 * [About Feminism](http://aboutfeminism.me/)
-* [IT gender gap: Where are the female programmers? - TechRepublic](https://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/)
+* [IT gender gap: Where are the female programmers? - TechRepublic](https://www.techrepublic.com/article/it-gender-gap-where-are-the-female-programmers/)
 * [How Diversity Makes Us Smarter ](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
 	* Sep 16, 2014 | By Katherine W. Phillips
 	* Recommended by Nat Pryce & Steve Freeman at their Agile Cambridge 2014 keynote
