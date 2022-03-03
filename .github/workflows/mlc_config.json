@@ -20,5 +20,5 @@
       "replacement": "https://www.includecpp.org"
     }
   ],
-  "timeout": "300s"
+  "timeout": "20s"
 }
