@@ -8,6 +8,9 @@
     },
     {
       "pattern": "^jobs/"
+    },
+    {
+      "pattern": "^https://www.techrepublic.com/article/it-gender-gap-where-are-the-female-programmers/"
     }
   ],
   "replacementPatterns": [
