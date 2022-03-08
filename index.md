@@ -4,6 +4,10 @@ title: "#include ＜C++＞"
 toc: true
 ---
 
+## Working Documents
+
+[About the unapproved release of some working documents.](/posts/communication-working-document/)
+
 {% include_relative conferences/current_funding_campaign.md %}
 
 ## Who are we?
