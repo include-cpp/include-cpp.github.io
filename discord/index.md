@@ -168,15 +168,9 @@ If you are interested in being a volunteer, please introduce yourself in [\#volu
 
 Channels used to actually run `#include <C++>` are restricted to Organiser members. Here we make plans for specific conferences and events, as well as our overall plans, work on this website, and so on. The Organiser role is offered to people who appear interested in it, or to those who need it to assist the group.
 
-#### Moderators (Blue)
+#### Moderators/Administrators (Blue)
 
-Moderators enforce our [Code of Conduct](/code-of-conduct/) according to our [Moderation guidelines](/moderation/). If you need to contact a Moderator, you can type `@moderators`, ideally in the channel where the problem is happening.
-
-#### Administrators (Red)
-
-Administrators can do everything, including go in every channel. They can be contacted with `@admins`.
-
-Only Administrators can create new channels. You can make suggestions for new channels in #meta-discord.
+Moderators enforce our [Code of Conduct](/code-of-conduct/) according to our [Moderation guidelines](/moderation/). If you need to contact a Moderator, you can type `@moderators`, ideally in the channel where the problem is happening. Administrators have the additional ability to create channels, and administer the server on a technical level, but in all other aspects they have the same responsibilities as Moderators.
 
 ### Other Permissions
 
