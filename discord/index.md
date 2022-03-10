@@ -125,8 +125,13 @@ A very important use of roles on this server is for [pronouns](https://www.unf.e
 
 Usually on this server we talk *to* each other. Occasionally, we talk *about* someone: "**She** said **her** error was intermittent, though." If the person you are talking about has a coloured name, click on their avatar or their name, to see their roles and learn what pronouns to use. Guessing pronouns from names or avatars, or just assuming everyone is male, is not ok on this server.
 
-Most of our roles are solely to let others know your pronouns. You can add these yourself, by typing a command such as:  
-`!pronouns she/her`
+Most of our roles are solely to let others know your pronouns. You can add these yourself, by using the [\#pronouns](https://discord.com/channels/400588936151433218/931916720409575524) channel where you can react with ✅ to add a pronoun set as primary, or 👍 to set it as secondary.  
+
+Primary pronouns will control which pronouns are shown by your username in Discord. You can only have one set of primary pronouns. If all of your pronouns are "secondary", then whichever appears first in the role list in Discord will be the one that is shown by your username.
+
+Alternatively, you can use:
+`!pronouns primary they/them` to set pronouns as primary
+`!pronouns she/her` to set pronouns as secondary
 
 To see all the pronouns use:  
 `!list-pronouns`
