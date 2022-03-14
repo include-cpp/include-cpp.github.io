@@ -3,6 +3,8 @@ layout: archive
 title: Conferences and Events
 ---
 
+[We have been heavily involved with CppCon in the past years; our involvement is currently suspended](https://www.includecpp.org/posts/communication-cppcon/)
+
 ## For conference attendees
 
 - We have a [friendly presence at conferences](/conferences/attending-conferences).
