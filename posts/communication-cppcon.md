@@ -1,5 +1,3 @@
-File : posts/cppcon_safety__include_cpp_position.md
-
 ---
 layout: archive
 title: "#include <C++> Position on CppCon Safety"
