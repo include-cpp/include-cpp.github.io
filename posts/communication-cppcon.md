@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "#include <C++> Position on CppCon Safety"
+title: "#include ＜C++＞ Position on CppCon Safety"
 ---
 
 ## Content Warning
@@ -23,7 +23,7 @@ community. [The Standard C++ Foundation](https://isocpp.org) runs it. #include <
 conference for a number of years.
 
 One of the CppCon organizers and speakers (herein "individual X”, or “X”") has a criminal record. They were convicted of
-rape and possession of Child Sexual Abuse Imagery in 2011, and are a registered sex offender. The Standard C++ Foundation board has been aware of this fact since at least August 2021.
+rape and possession of Child Sexual Abuse Imagery in 2011, and are a registered sex offender. The Standard C++ Foundation board has been aware of this fact since August 2021 at the latest.
 
 When #include <C++> members reached out to the CppCon organization team to try to get information on what steps were taken to ensure the safety of attendees and the transparency on the situation, they were regularly met with either refusal to answer or request to meet only under non-disclosure agreement. Contradictory answers to the same question from multiple involved parties make us even doubt the decisions were clear enough inside the Standard C++ Foundation board itself.
 
@@ -56,7 +56,7 @@ At several points during the meetings leading to CppCon’s decision regarding t
 
 * The CppCon Code of Conduct team was circumvented in these decisions and was not given any power on the whole subject.
 
-* The Standard C++ Foundation board “accepted” the resignation of one of its members, who had raised objections to the process and decisions of the board (https://twitter.com/chandlerc1024/status/1502521340787527680?s=20&t=lptLBqm_3XnOrtxietEHjQ ). The board member had tendered their resignation in 2020-10, but had been persuaded to stay on for the following year. This acceptance resulted in the board member leaving the board with immediate effect.
+* The Standard C++ Foundation board “accepted” the resignation of one of its members, who had raised objections to the process and decisions of the board ([tweets](https://twitter.com/chandlerc1024/status/1502521340787527680?s=20&t=lptLBqm_3XnOrtxietEHjQ)). The board member had tendered their resignation in 2020-10, but had been persuaded to stay on for the following year. This acceptance resulted in the board member leaving the board with immediate effect.
 
 ## Our Past Involvement
 
