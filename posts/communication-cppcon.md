@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "#include ＜C++＞ Position on CppCon Safety"
+toc: true
 ---
 
 ## Content Warning
@@ -10,7 +11,7 @@ audiences.
 
 ## The Situation
 
-After being notified of the fact that a prominent participant in the conference had been convicted of two counts: rape of drugged victim and possession of child pornography , the CppCon conference leadership and the Standard C++ Foundation board went through a secret internal process that resulted in them continuing to promote this person and protect them. When confronted by #include <C++> members, they refused to give any information on the nature of their decision nor to communicate more widely on their policy.
+After being notified of the fact that a prominent participant in the conference had been convicted of two counts: rape of drugged victim and possession of child pornography, the CppCon conference leadership and the Standard C++ Foundation board went through a secret internal process that resulted in them continuing to promote this person and protect them. When confronted by #include <C++> members, they refused to give any information on the nature of their decision nor to communicate more widely on their policy.
 
 
 ## Executive Summary
