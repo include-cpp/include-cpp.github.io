@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: home
 title: "#include ＜C++＞ Position on CppCon Safety"
 toc: true
 ---
