@@ -1,4 +1,7 @@
-# \#include &lt;C++&gt; stands with Patricia
+---
+layout: archive
+title: "#include <C++> stands with Patricia"
+---
 
 We would have preferred to publish as a group. We acknowledge that it was too long between between
 November 2021, when some members learnt how CppCon and the C++ Standard Foundation acted, and March

@@ -6,11 +6,11 @@ toc: true
 
 ## CppCon Safety
 
+[#include &lt;C++&gt; stands with Patricia](/posts/patricia-statement-of-support/)
+
 [Our communication regarding CppCon 2021.](/posts/communication-cppcon/)
 
 [About the unapproved release of some working documents.](/posts/communication-working-document/)
-
-[#include &lt;C++&gt; stands with Patricia](/posts/patricia-statement-of-support/)
 
 {% include_relative conferences/current_funding_campaign.md %}
 
@@ -49,7 +49,7 @@ We are always doing more, and are open to suggestions for new ideas!
 You can find out more from:
 
 * Guy Davidson's Meeting C++ 2017 Secret Lightning Talk ["Diversity and Inclusion"](https://www.youtube.com/watch?v=7GIZN03-_6w)
-* Guy Davidson's Meeting C++ 2018 Lightning Talk ["A year in diversity"](https://www.youtube.com/watch?v=WQ1P28Ol3MU) 
+* Guy Davidson's Meeting C++ 2018 Lightning Talk ["A year in diversity"](https://www.youtube.com/watch?v=WQ1P28Ol3MU)
 * Sy Brand's DevRelCon London 2019 talk ["Lessons learned creating an inclusive space in a decades old community"](https://devrel.net/community/lessons-learned-creating-an-inclusive-space-in-a-decades-old-community)
 * Víctor Moreno's February 2020 MUCplusplus Lightning Talk ["Include C++"](https://www.youtube.com/watch?v=r23ErUGt9mo)
 
