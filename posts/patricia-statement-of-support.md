@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "#include <C++> stands with Patricia"
+title: "#include ＜C++＞ stands with Patricia"
 ---
 
 We would have preferred to publish as a group. We acknowledge that it was too long between between

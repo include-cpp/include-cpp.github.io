@@ -6,7 +6,7 @@ toc: true
 
 ## CppCon Safety
 
-[#include &lt;C++&gt; stands with Patricia](/posts/patricia-statement-of-support/)
+[#include ＜C++＞ stands with Patricia](/posts/patricia-statement-of-support/)
 
 [Our communication regarding CppCon 2021.](/posts/communication-cppcon/)
 
