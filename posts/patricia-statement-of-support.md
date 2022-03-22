@@ -3,7 +3,7 @@ layout: archive
 title: "#include ＜C++＞ stands with Patricia"
 ---
 
-We would have preferred to publish as a group. We acknowledge that it was too long between between
+We would have preferred to publish as a group. We acknowledge that it was too long between
 November 2021, when some members learnt how CppCon and the C++ Standard Foundation acted, and March
 2022, when this information was published. We are going to internally address the root problems that
 led to this slowness. We completely understand how this long time can have been frustrating and
