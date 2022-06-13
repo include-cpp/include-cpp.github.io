@@ -25,7 +25,7 @@ The following behaviours are unacceptable in all `#include <C++>` [Discord chann
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 - Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
+- Posting or threatening to post other people’s personally identifying information or contact details (“doxing”), even if that information is publicly available with an informed search.
 - Personal insults, particularly those related to gender, sexual orientation, ethnicity, religion, or disability.
 - Inappropriate photography or recording.
 - Inappropriate physical contact. You should have someone’s consent before touching them.
