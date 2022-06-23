@@ -17,7 +17,7 @@ CppCon has published a transparency report on this incident [here](https://cppco
 
 ### 2. Public annual CppCon Code of Conduct transparency reports.
 
-CppCon published a Code of Conduct transparency report for the 2021 conference [here](https://cppcon.org/answering-your-questions-about-our-case-transparency-report-and-safety-policy/) and have committed to continue to do so annually.
+CppCon published a Code of Conduct transparency report for the 2021 conference [here](https://cppcon.org/cppcon-2021-transparency-report/) and have committed to continue to do so annually.
 
 ### 3. Public minutes for the Standard C++ Foundation board meetings (following the example of the Python Software Foundation).
 
@@ -49,13 +49,13 @@ CppCon has confirmed that the Code of Conduct team's mandate to enforce the Code
 
 ## Summary Table
 
-| Change or Action                  | Current Status                |
-|-----------------------------------|-------------------------------|
-| 1 Incident Transparency Report    | :heavy_check_mark: Incomplete |
-| 2 CppCon Transparency Reports     | :white_check_mark:            |
-| 3 Foundation Board Minutes        | :white_check_mark:            | 
-| 4 Foundation Board Annual Reports | :white_check_mark:            | 
-| 5 Steering Committee              | :question:                    | 
-| 6 Foundation Board                | :question:                    | 
-| 7 CoC Team Mandate                | :white_check_mark:            | 
-| 8 CoC Binds Leadership            | :white_check_mark:            | 
+| Change or Action                   | Current Status                |
+|------------------------------------|-------------------------------|
+| 1. Incident Transparency Report    | :heavy_check_mark: Incomplete |
+| 2. CppCon Transparency Reports     | :white_check_mark:            |
+| 3. Foundation Board Minutes        | :white_check_mark:            | 
+| 4. Foundation Board Annual Reports | :white_check_mark:            | 
+| 5. Steering Committee              | :question:                    | 
+| 6. Foundation Board                | :question:                    | 
+| 7. CoC Team Mandate                | :white_check_mark:            | 
+| 8. CoC Binds Leadership            | :white_check_mark:            | 
