@@ -49,13 +49,14 @@ CppCon has confirmed that the Code of Conduct team's mandate to enforce the Code
 
 ## Summary Table
 
-| Change or Action                   | Current Status                |
-|------------------------------------|-------------------------------|
-| 1. Incident Transparency Report    | :heavy_check_mark: Incomplete |
-| 2. CppCon Transparency Reports     | :white_check_mark:            |
-| 3. Foundation Board Minutes        | :white_check_mark:            | 
-| 4. Foundation Board Annual Reports | :white_check_mark:            | 
-| 5. Steering Committee              | :question:                    | 
-| 6. Foundation Board                | :question:                    | 
-| 7. CoC Team Mandate                | :white_check_mark:            | 
-| 8. CoC Binds Leadership            | :white_check_mark:            | 
+
+| Change or Action                   | Current Status |
+|------------------------------------|----------------|
+| 1. Incident Transparency Report    | ✓ incomplete   |
+| 2. CppCon Transparency Reports     | ✅              |
+| 3. Foundation Board Minutes        | ✅              | 
+| 4. Foundation Board Annual Reports | ✅              | 
+| 5. Steering Committee              | ❓              | 
+| 6. Foundation Board                | ❓              | 
+| 7. CoC Team Mandate                | ✅              | 
+| 8. CoC Binds Leadership            | ✅              | 
