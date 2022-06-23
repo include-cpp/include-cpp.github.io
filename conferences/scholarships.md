@@ -4,7 +4,7 @@ title: Diversity Scholarships
 toc: true
 ---
 
-[We have been heavily involved with CppCon in the past years; our involvement is currently suspended](https://www.includecpp.org/posts/communication-cppcon/)
+[We have been heavily involved with CppCon in the past years; our involvement is currently suspended](https://www.includecpp.org/posts/cppcon-update/)
 
 {% include_relative current_funding_campaign.md %}
 
