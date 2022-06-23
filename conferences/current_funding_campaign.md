@@ -2,7 +2,9 @@
 
 ## Current Scholarship Campaigns
 
-These campaigns are currently in progress :
+No campaigns are currently in progress.
+
+<!--These campaigns are currently in progress :
 
 ### ACCU 2022 - from 6th April to 9th April 2022
 
@@ -12,7 +14,6 @@ We are currently organising scholarships to send people from under-represented g
 
 * We will be announcing shortly how to apply for an ACCU 2022 scholarship.
 
-<!--
 * You can [apply for a CppEurope 2021 scholarship](https://claremacrae547546.typeform.com/to/QuJDjcoG)
     * The conference has kindly offered 2 free **online tickets**
     * As this is an online conference, there will be no further costs for those receiving these tickets
