@@ -4,6 +4,8 @@ title: "#include ＜C++＞ Position on CppCon Safety"
 toc: true
 ---
 
+14 March 2022
+
 ## Content Warning
 
 This document contains material on rape and child sexual exploitation that may be harmful or traumatic to some
