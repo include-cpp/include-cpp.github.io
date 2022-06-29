@@ -72,11 +72,15 @@ The ideal candidate is someone who would truly benefit from coming to a conferen
 |  Meeting C++2020 |                 *Tickets donated by the conference*                               |       3       |
 | **2021**         | &nbsp;                                                                            | &nbsp;        |
 | CppEurope 5 2021 |                 *Tickets donated by the conference*                               |       3       |
-|        ACCU 2021 |                 *Tickets donated by the conference*                               |       2       |
+|        ACCU 2021 |                 See note below                                                    |       -       |
+| **2022**         | &nbsp;                                                                            | &nbsp;        |
+|        ACCU 2022 |   Reduced price tickets for the conference + [£ 170](https://www.gofundme.com/f/include-cpp-scholarships-for-accu2022-conference)|       0       |
 |-----------------:|----------------------------------------------------------------------------------:|:-------------:|
 |        **TOTAL** |                                                                                   |     **40**    |
 
-Unfortunately ACCU 2020 [was cancelled](https://accu.org/conf-news/2020/2020-03-12-accu2020cancelled). We are working on recovering funds already spent on conference tickets and travel arrangements that will no longer be used or carrying them forward a future conference where possible.
+Unfortunately ACCU 2020 [was cancelled](https://accu.org/conf-news/2020/2020-03-12-accu2020cancelled). We recovered minimal funds from flights and trains but there were some sunk costs in a failed visa application and unrefunded train journey. The candidate needing the visa did manage to attend a different local C++ conference in 2021 instead. The other attended ACCU 2021 online.
+
+For ACCU 2022 there were no applicants for scholarships and realistically we could not have purchased even a student ticket at reduced cost. Regrettably we could not use the funds this year and so they will be carried over to a future ACCU event.
 
 ## Scholar Testimonials
 
