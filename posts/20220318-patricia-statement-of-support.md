@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "#include ＜C++＞ stands with Patricia"
+categories: [communication, cppcon]
 ---
 
 18 March 2022

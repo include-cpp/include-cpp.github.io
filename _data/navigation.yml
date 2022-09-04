@@ -21,13 +21,18 @@ sidebar:
         url: /what-can-i-do/
       - title: "Community sponsors"
         url: /community-sponsors/
+  - title: "Code of Conduct"
+    url: /discord/
+    children:
+      - title: "Our Code of conduct"
+        url: /code-of-conduct/
+      - title: "Transparency reports"
+        url: /reports/
   - title: Discord Server
     url: /discord/
     children:
       - title: "Join Discord"
         url: /discord/
-      - title: "Code of conduct"
-        url: /code-of-conduct/
       - title: "Moderation"
         url: /moderation/
   - title: Conferences and Events
@@ -41,6 +46,8 @@ sidebar:
         url: /conferences/organising-conferences/
       - title: "Toolbox"
         url: https://github.com/include-cpp/toolboxes/blob/main/README.md
+  - title: "Communications"
+    url: /posts/
   - title: "Shop"
     url: /shop/
     children:

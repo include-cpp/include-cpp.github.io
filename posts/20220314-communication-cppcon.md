@@ -2,6 +2,7 @@
 layout: home
 title: "#include ＜C++＞ Position on CppCon Safety"
 toc: true
+categories: [communication, cppcon]
 ---
 
 14 March 2022

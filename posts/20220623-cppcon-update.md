@@ -2,6 +2,7 @@
 layout: home
 title: "#include ＜C++＞ Update on CppCon"
 toc: true
+categories: [communication, cppcon]
 ---
 
 23 June 2022

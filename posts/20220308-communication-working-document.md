@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Communication about our working document"
+categories: [communication, cppcon]
 ---
 
 8 March 2022
