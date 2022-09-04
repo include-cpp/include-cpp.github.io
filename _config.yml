@@ -277,6 +277,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+categories: [communication, report]
 
 # HTML Compression
 # - https://jch.penibelst.de/
