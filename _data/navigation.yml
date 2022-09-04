@@ -46,6 +46,8 @@ sidebar:
         url: /conferences/organising-conferences/
       - title: "Toolbox"
         url: https://github.com/include-cpp/toolboxes/blob/main/README.md
+  - title: "Communications"
+    url: /posts/
   - title: "Shop"
     url: /shop/
     children:

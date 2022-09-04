@@ -6,13 +6,13 @@ toc: true
 
 ## CppCon Safety
 
-[#include ＜C++＞ update on CppCon](/posts/cppcon-update/)
-
-[#include ＜C++＞ stands with Patricia](/posts/patricia-statement-of-support/)
-
-[Our communication regarding CppCon 2021.](/posts/communication-cppcon/)
-
-[About the unapproved release of some working documents.](/posts/communication-working-document/)
+<ul>
+  {% for page in site.pages reversed %}
+    {% if page.categories contains 'cppcon' %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}   <!-- resource-p -->
+  {% endfor %}  <!-- page -->
+</ul>
 
 {% include_relative conferences/current_funding_campaign.md %}
 
