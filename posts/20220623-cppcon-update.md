@@ -9,7 +9,7 @@ categories: [communication, cppcon]
 
 ## Overview
 
-CppCon has recently published a post with new, expanded, and continuing [diversity and inclusion initiatives for CppCon 2022](https://cppcon.org/diversity-2022/). We believe this is a good time to review how much progress CppCon has made on the eight meaningful changes that we asked for in our [#include <C++> position on CppCon safety](https://www.includecpp.org/posts/communication-cppcon/) document.
+CppCon has recently published a post with new, expanded, and continuing [diversity and inclusion initiatives for CppCon 2022](https://cppcon.org/diversity-2022/). We believe this is a good time to review how much progress CppCon has made on the eight meaningful changes that we asked for in our [#include <C++> position on CppCon safety](https://www.includecpp.org/posts/20220314-communication-cppcon/) document.
 
 
 ## Transparency and public accountability from CppCon and the Standard C++ Foundation.
