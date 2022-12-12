@@ -66,7 +66,7 @@ In addition to very specific resources on language, hiring, and so on we have fo
 	* These are required to get from middle to the top
 * Analysing company documents to see if bias is present
 	* [The One Word Men Never See In Their Performance Reviews](http://www.fastcompany.com/3034895/strong-female-lead/the-one-word-men-never-see-in-their-performance-reviews)
-	* [Longtime Microsoft Veteran Jensen Harris Leaves for Text Analysis Startup:  Re/code](http://recode.net/2014/10/03/longtime-microsoft-veteran-jensen-harris-leaves-for-text-analysis-startup/)
+	* [Longtime Microsoft Veteran Jensen Harris Leaves for Text Analysis Startup:  Vox](https://www.vox.com/2014/10/3/11631560/longtime-microsoft-veteran-jensen-harris-leaves-for-text-analysis)
 	* NB reference to analysing company documents to detect bias
 * [Etsy’s Trying to Fix Tech’s Women Problem. Why Aren’t You? — Matter — Medium](https://medium.com/matter/this-is-the-last-thing-youll-ever-need-to-read-about-sexism-in-tech-56b9a3a77af0)
 * [How Unconscious Bias Affects Everything You Do:  Fast Company:  Business + Innovation](http://www.fastcompany.com/3037359/strong-female-lead/how-unconscious-bias-affects-everything-you-do)
