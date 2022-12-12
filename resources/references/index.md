@@ -65,12 +65,6 @@ title: References and Links
 * [/dev/color](https://www.devcolor.org/)
   * Runs a program to help black software engineers grow into industry leaders.
   * US based
-* [Moms Can & Co](https://www.momscan.co/)
-  * Supports moms interested in learning how to code by offering opportunities to connect with other moms, learning resources, and real life inspiration.
-  * US based
-* [Tech While Black](https://techwhileblack.com/)
-  * A professional network for black people in technology.
-  * US based
 * [CallbackWomen](http://www.callbackwomen.com/)
   * Helps conference organisers to diversify the speakers at their conference.
   * US based
