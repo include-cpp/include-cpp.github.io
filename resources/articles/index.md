@@ -37,7 +37,6 @@ In addition to very specific resources on language, hiring, and so on we have fo
   * Bechdel Test
 	  * [18F — Does 18F Pass the Bechdel Test for Tech?](https://18f.gsa.gov/2015/03/17/does-18f-pass-the-bechdel-test-for-tech/)
 	  * [Mental health Bechdel test for women in male-dominated fields: Have *I* talked to another woman today about something related to my work?](https://mobile.twitter.com/amyngyn/status/785532779106754560)
-  * [How Our Engineering Environments are Killing Diversity: Introduction - Kate Heddleston](https://www.kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) - very interesting - start of series of 5 articles
   * [Things My Male Tech Colleagues Have Actually Said to Me, Annotated](http://the-toast.net/2015/04/01/things-male-tech-colleagues-have-actually-said-annotated/#qASYHUAoLQ2GQd9b.01)
   * [Women in Tech](https://www.innoq.com/blog/st/2014/08/women-in-tech/)
   * [Search Twitter - #ILookLikeAnEngineer](https://mobile.twitter.com/search?q=%23ILookLikeAnEngineer)
@@ -45,7 +44,6 @@ In addition to very specific resources on language, hiring, and so on we have fo
 
 ## Advice
 
-* [Ways Men In Tech Are Unintentionally Sexist:  this is not a pattern](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
 * [Advice for Women Entering the Tech Industry by Kat Li:  Model View Culture](https://modelviewculture.com/pieces/advice-for-women-entering-the-tech-industry)
 * [Being an Effective Ally to Women and Non-Binary People - Code as Craft](https://codeascraft.com/2016/10/19/being-an-effective-ally-to-women-and-non-binary-people/) - really good intro, with 10 ways to help. Quite long.
 
@@ -74,7 +72,6 @@ In addition to very specific resources on language, hiring, and so on we have fo
 * [Bytemark is hiring, by anonymous interview: ](https://blog.bytemark.co.uk/2015/05/20/bytemark-is-hiring-by-anonymous-interview)
 * [How We Talk About Diversity at Stack Overflow – Stack Overflow Blog – A destination for all things related to development at Stack Overflow](http://blog.stackoverflow.com/2015/11/How-We-Talk-About-Diversity-at-Stack-Overflow/)
 * [Rapid Prototyping Diversity — Medium](https://medium.com/@yvonnehutchinson/rapid-prototyping-diversity-73369b308b29#.eksjwvk7z)
-* [Improving Diversity Does Not Mean Lowering the Bar](https://kateheddleston.com/blog/improving-diversity-does-not-mean-lowering-the-bar)
 * Rachel Thomas
 	* [How Diversity Branding Hurts Diversity — Medium](https://medium.com/@racheltho/how-diversity-branding-hurts-diversity-fb29dd705481#.9x0uqpjwx)
 * Meri Williams
