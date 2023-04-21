@@ -26,7 +26,7 @@ We believe that a community is only as good as how it treats its most vulnerable
 
 Our primary communication platform is our [Discord server](/discord/). Join us to discuss and learn C++ in a welcoming, inclusive space.
 
-The moderation and administration team includes [Patricia Aas](https://twitter.com/pati_gallardo), [Sy Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Guy Davidson](https://twitter.com/hatcat01), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach), [Joanna Blackhart](https://twitter.com/joannablackhart).
+The moderation and administration team includes [Patricia Aas](https://twitter.com/pati_gallardo), [Sy Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach), [Joanna Blackhart](https://twitter.com/joannablackhart).
 
 Everyone who supports our goals, whether a member of any under-represented groups or not, is welcome to participate in any way - see [What can I do?](/what-can-i-do/) Many of our leaders and contributors are allies and we are grateful for all they do. If you want C++ to be more welcoming and inclusive, you'll be welcomed and included.
 
@@ -50,8 +50,6 @@ We are always doing more, and are open to suggestions for new ideas!
 
 You can find out more from:
 
-* Guy Davidson's Meeting C++ 2017 Secret Lightning Talk ["Diversity and Inclusion"](https://www.youtube.com/watch?v=7GIZN03-_6w)
-* Guy Davidson's Meeting C++ 2018 Lightning Talk ["A year in diversity"](https://www.youtube.com/watch?v=WQ1P28Ol3MU)
 * Sy Brand's DevRelCon London 2019 talk ["Lessons learned creating an inclusive space in a decades old community"](https://devrel.net/community/lessons-learned-creating-an-inclusive-space-in-a-decades-old-community)
 * Víctor Moreno's February 2020 MUCplusplus Lightning Talk ["Include C++"](https://www.youtube.com/watch?v=r23ErUGt9mo)
 

@@ -36,8 +36,7 @@
             {% else %}
               {% assign active = "" %}
             {% endif %}
-
-            <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <li><a href="{{ child_url }}" class="{{ active }}" {% if child.url contains "://" %} target="_blank" rel="noreferrer noopener" {% endif %}>{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
