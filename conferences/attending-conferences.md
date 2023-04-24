@@ -11,4 +11,4 @@ Since our founding, `#include <C++>` members have been attending conferences and
 
 We typically have a table or exhibit booth, where we sell <a class="page-link" href="/shop/">merchandise</a>, give away stickers, and answer questions about inclusion and diversity. This table is generally a great place to meet other attendees who you can be confident will be welcoming and friendly.
 
-![Table at Meeting C++ 2018](/images/shirts_at_meeting_cpp_2018.jpg)
+![Table at ACCU 2023](/images/table_at_accu_2023.jpg)
