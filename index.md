@@ -46,6 +46,8 @@ We provide:
 
 We are always doing more, and are open to suggestions for new ideas!
 
+We used to support CppCon but we [no longer do](/conferences/attending-conferences#CppCon-Safety).
+
 ### Learn more about us
 
 You can find out more from:
