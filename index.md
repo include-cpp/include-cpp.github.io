@@ -4,16 +4,6 @@ title: "#include ＜C++＞"
 toc: true
 ---
 
-## CppCon Safety
-
-<ul>
-  {% for page in site.pages reversed %}
-    {% if page.categories contains 'cppcon' %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endif %}   <!-- resource-p -->
-  {% endfor %}  <!-- page -->
-</ul>
-
 {% include_relative conferences/current_funding_campaign.md %}
 
 ## Who are we?
