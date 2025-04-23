@@ -117,7 +117,7 @@ When users first join the server, they have no roles. In this broad section, we 
 
 ### Pronouns
 
-A very important use of roles on this server is for [pronouns](https://www.unf.edu/lgbtqcenter/pronouns.html). Users join and leave pronoun roles themselves.
+A very important use of roles on this server is for [pronouns](https://pronouns.org/what-and-why). Users join and leave pronoun roles themselves.
 
 ![A user with she/her role](/images/discord_roles_she_her.png) 
 
