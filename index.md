@@ -58,7 +58,7 @@ Yes. See our <a class="page-link" href="/shop/">Shop</a> page. We have more than
 
 If you have joined our Discord, you can post in #meta-discord or DM an admin or moderator. Their names are highlighted in red or blue.
 
-You can also reach us either through [Twitter](https://twitter.com/include_cpp), or through the contact form below.
+You can also reach us through the contact form below.
 
 <form action="https://getsimpleform.com/messages?form_api_token=0249c3a7836e7b2532d7d6fe74e61676" method="post">
 <fieldset>
