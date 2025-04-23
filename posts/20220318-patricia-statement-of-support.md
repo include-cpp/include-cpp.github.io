@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "#include ＜C++＞ stands with Patricia"
+title: "2022-03-18: #include ＜C++＞ stands with Patricia"
 categories: [communication, cppcon]
 ---
 

@@ -16,7 +16,7 @@ We believe that a community is only as good as how it treats its most vulnerable
 
 Our primary communication platform is our [Discord server](/discord/). Join us to discuss and learn C++ in a welcoming, inclusive space.
 
-The moderation and administration team includes [Patricia Aas](https://twitter.com/pati_gallardo), [Sy Brand](https://twitter.com/TartanLlama), [Noam Chitayat](https://twitter.com/_Noam), [Kate Gregory](https://twitter.com/gregcons), [Adi Shavit](https://twitter.com/AdiShavit), [Fred Tingaud](https://twitter.com/FredTingaudDev), [Bryce Lelbach](https://twitter.com/blelbach), [Joanna Blackhart](https://twitter.com/joannablackhart).
+The moderation and administration team includes Sy Brand, Noam Chitayat, Kate Gregory, Adi Shavit, and Fred Tingaud.
 
 Everyone who supports our goals, whether a member of any under-represented groups or not, is welcome to participate in any way - see [What can I do?](/what-can-i-do/) Many of our leaders and contributors are allies and we are grateful for all they do. If you want C++ to be more welcoming and inclusive, you'll be welcomed and included.
 
@@ -58,7 +58,7 @@ Yes. See our <a class="page-link" href="/shop/">Shop</a> page. We have more than
 
 If you have joined our Discord, you can post in #meta-discord or DM an admin or moderator. Their names are highlighted in red or blue.
 
-You can also reach us either through [Twitter](https://twitter.com/include_cpp), or through the contact form below.
+You can also reach us through the contact form below.
 
 <form action="https://getsimpleform.com/messages?form_api_token=0249c3a7836e7b2532d7d6fe74e61676" method="post">
 <fieldset>

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "#include ＜C++＞ Update on CppCon"
+title: "2022-06-23: #include ＜C++＞ Update on CppCon"
 toc: true
 categories: [communication, cppcon]
 ---

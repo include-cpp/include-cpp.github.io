@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Communication about our working document"
+title: "2022-03-08: Communication about our working document"
 categories: [communication, cppcon]
 ---
 

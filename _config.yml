@@ -83,8 +83,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : include_cpp
 facebook:
   username               :
   app_id                 :
