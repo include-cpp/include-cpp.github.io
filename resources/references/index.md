@@ -24,8 +24,8 @@ title: References and Links
     * Not a learning resource but the most reliable and complete reference for syntax, libraries, and more.
 * [Resources that help you delve into C++](https://lesleylai.info/en/delve_into_cpp/)
     * List of resources compiled by [Lesley Lai](https://lesleylai.info/)
-* [SG20 Education and Recommended Videos for Teaching C++](https://www.cjdb.com.au/sg20-and-videos)
-    * List of resources compiled by [Christopher Di Bella](https://www.cjdb.com.au/)
+* [SG20 Education and Recommended Videos for Teaching C++](https://blog.cjdb.xyz/sg20-and-videos)
+    * List of resources compiled by [Christopher Di Bella](https://blog.cjdb.xyz/)
 * [Learning C++: useful resources](https://aslynatilla.github.io/post/2021-01-25/learning-cpp)
     * Blog with recommendations and reflections on learning C++ by [Antonio Natilla](https://aslynatilla.github.io/)
 
