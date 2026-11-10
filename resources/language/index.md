@@ -70,7 +70,7 @@ title: Language and Communication
 A number of authoritative sources are now advocating for more careful word choice, and avoiding those that are unclear, rely on a background not everyone may have, or can cause pain to others. Some useful lists:
 
 * [ACM's Words Matter initiative](https://www.acm.org/diversity-inclusion/words-matter)
-* [INCITS Inclusive Terminology Guidelines](https://standards.incits.org/apps/group_public/document.php?document_id=131788&wg_abbrev=resources) has a link to the latest PDF from the InterNational Committee for Information Technology Standards.
+* [INCITS Inclusive Terminology Guidelines](https://www.incits.org/standards-information/policies) has a link to the latest PDF from the InterNational Committee for Information Technology Standards.
 
 ### Metaphors
 
