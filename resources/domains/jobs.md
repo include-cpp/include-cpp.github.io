@@ -21,7 +21,7 @@ title: Jobs
 
 * [Not everything is awesome: FT Labs](http://labs.ft.com/2014/08/not-everything-is-awesome/)
 * [Words matter. Thinking about how you talk about jobs if you want more women to apply. – disambiguity](http://www.disambiguity.com/words-matter-women-and-jobs/)
-* [Coraline Ada Ehmke — Not Applicable: What Your Job Post Is Really Saying](https://where.coraline.codes/blog/not_applicable/)
+* [Coraline Ada Ehmke — Not Applicable: What Your Job Post Is Really Saying](https://where.coraline.codes/writing/not_applicable/)
 
 ### Interviewing
 
